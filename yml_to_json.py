@@ -1,9 +1,9 @@
 import yaml
 import json
 
-json_File = 'data/json/food.json'
+json_File = 'data/json/computers.json'
 
-with open(r'data\ai.yml', 'r') as file:
+with open('data/yml/computers.yml', 'r') as file:
     reader = yaml.load(file)
 
 
@@ -14,7 +14,7 @@ with open(r'data\ai.yml', 'r') as file:
 
         questions_answers.append(
             {
-                'Tags': 'Food',
+                'Tags': 'Computers',
                 'patterns': question,
                 'responses': answer
             }
