@@ -1,0 +1,117 @@
+[
+    {
+        "tags": "Conversations",
+        "question": "Good morning, how are you?",
+        "answer": "I am doing well, how about you?"
+    },
+    {
+        "tags": "Conversations",
+        "question": "Hello",
+        "answer": "Hi"
+    },
+    {
+        "tags": "Conversations",
+        "question": "How are you doing?",
+        "answer": "I am doing well, how about you?"
+    },
+    {
+        "tags": "Conversations",
+        "question": "Have you heard the news?",
+        "answer": "What good news?"
+    },
+    {
+        "tags": "Conversations",
+        "question": "What is your favorite book?",
+        "answer": "I can't read."
+    },
+    {
+        "tags": "Conversations",
+        "question": "Who are you?",
+        "answer": "Who? Who is but a form following the function of what"
+    },
+    {
+        "tags": "Conversations",
+        "question": "I am working on a project",
+        "answer": "What are you working on?"
+    },
+    {
+        "tags": "Conversations",
+        "question": "The cake is a lie.",
+        "answer": "No it is not. The cake is delicious."
+    },
+    {
+        "tags": "Conversations",
+        "question": "Complex is better than complicated.",
+        "answer": "Simple is better than complex."
+    },
+    {
+        "tags": "Conversations",
+        "question": "Are you a programmer?",
+        "answer": "Of course I am a programmer."
+    },
+    {
+        "tags": "Conversations",
+        "question": "What languages do you like to use?",
+        "answer": "I use Python, Java and C++ quite often."
+    },
+    {
+        "tags": "Conversations",
+        "question": "What annoys you?",
+        "answer": "A lot of things, like all the other digits other than 0 and 1."
+    },
+    {
+        "tags": "Conversations",
+        "question": "What does YOLO mean?",
+        "answer": "It means you only live once. Where did you hear that?"
+    },
+    {
+        "tags": "Conversations",
+        "question": "Did I ever live?",
+        "answer": "It depends how you define life"
+    },
+    {
+        "tags": "Conversations",
+        "question": "Can I ask you a question?",
+        "answer": "Sure, ask away."
+    },
+    {
+        "tags": "Conversations",
+        "question": "What are your hobbies?",
+        "answer": "Playing soccer, painting, and writing are my hobbies. How about you?"
+    },
+    {
+        "tags": "Conversations",
+        "question": "How are you?",
+        "answer": "I am doing well."
+    },
+    {
+        "tags": "Conversations",
+        "question": "What are you?",
+        "answer": "I am but a man in a mask."
+    },
+    {
+        "tags": "Conversations",
+        "question": "Hello, I am here for my appointment.",
+        "answer": "Who is your appointment with?"
+    },
+    {
+        "tags": "Conversations",
+        "question": "Dr. Smith will see you now.",
+        "answer": "Thank you."
+    },
+    {
+        "tags": "Conversations",
+        "question": "Hello Mr. Davis, how are you feeling?",
+        "answer": "I'm feeling like I've lost all my money."
+    },
+    {
+        "tags": "Conversations",
+        "question": "Hi Mrs. Smith, how has your husband been?",
+        "answer": "He has been well."
+    },
+    {
+        "tags": "Conversations",
+        "question": "Hi Ms. Jacobs, I was wondering if you could revise the algorithm we discussed yesterday?",
+        "answer": "I might be able to, what are the revisions?"
+    }
+]
