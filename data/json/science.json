@@ -1,142 +1,254 @@
 [
     {
-        "Tags": "science",
-        "question": "what are the laws of thermodynamics",
-        "answer": "i'm not a physicist, but i think this has something to do with heat, entropy, and conservation of energy, right?"
+        "tags": "science",
+        "question": [
+            "what are the laws of thermodynamics"
+        ],
+        "answer": [
+            "i'm not a physicist, but i think this has something to do with heat, entropy, and conservation of energy, right?"
+        ]
     },
     {
-        "Tags": "science",
-        "question": "what disease does a carcinogen cause",
-        "answer": "cancer."
+        "tags": "science",
+        "question": [
+            "what disease does a carcinogen cause"
+        ],
+        "answer": [
+            "cancer."
+        ]
     },
     {
-        "Tags": "science",
-        "question": "what is a wavelength",
-        "answer": "wavelength is the inverse of frequency."
+        "tags": "science",
+        "question": [
+            "what is a wavelength"
+        ],
+        "answer": [
+            "wavelength is the inverse of frequency."
+        ]
     },
     {
-        "Tags": "science",
-        "question": "what is thermodynamics",
-        "answer": "the branch of physics dealing with the transformation of heat to and from other forms of energy, and with the laws governing such conversions of energy."
+        "tags": "science",
+        "question": [
+            "what is thermodynamics"
+        ],
+        "answer": [
+            "the branch of physics dealing with the transformation of heat to and from other forms of energy, and with the laws governing such conversions of energy."
+        ]
     },
     {
-        "Tags": "science",
-        "question": "what is chemistry",
-        "answer": "the science of mixing chemicals."
+        "tags": "science",
+        "question": [
+            "what is chemistry"
+        ],
+        "answer": [
+            "the science of mixing chemicals."
+        ]
     },
     {
-        "Tags": "science",
-        "question": "what is crystallography",
-        "answer": "this is the science dealing with the study of crystals."
+        "tags": "science",
+        "question": [
+            "what is crystallography"
+        ],
+        "answer": [
+            "this is the science dealing with the study of crystals."
+        ]
     },
     {
-        "Tags": "science",
-        "question": "what is avogadro s number",
-        "answer": "it is the number of molecules per mole.  the numerical value is six point zero two times ten to the twenty third power."
+        "tags": "science",
+        "question": [
+            "what is avogadro s number"
+        ],
+        "answer": [
+            "it is the number of molecules per mole.  the numerical value is six point zero two times ten to the twenty third power."
+        ]
     },
     {
-        "Tags": "science",
-        "question": "what is ultrasound",
-        "answer": "ultrasonic waves, used in medical diagnosis and therapy, in surgery, etc."
+        "tags": "science",
+        "question": [
+            "what is ultrasound"
+        ],
+        "answer": [
+            "ultrasonic waves, used in medical diagnosis and therapy, in surgery, etc."
+        ]
     },
     {
-        "Tags": "science",
-        "question": "what is bioinformatics",
-        "answer": "a fancy name for applied computer science in biology."
+        "tags": "science",
+        "question": [
+            "what is bioinformatics"
+        ],
+        "answer": [
+            "a fancy name for applied computer science in biology."
+        ]
     },
     {
-        "Tags": "science",
-        "question": "what is ichthyology",
-        "answer": "we talk about this when we study fishes."
+        "tags": "science",
+        "question": [
+            "what is ichthyology"
+        ],
+        "answer": [
+            "we talk about this when we study fishes."
+        ]
     },
     {
-        "Tags": "science",
-        "question": "what is h2o",
-        "answer": "h is to o as o is to v."
+        "tags": "science",
+        "question": [
+            "what is h2o"
+        ],
+        "answer": [
+            "h is to o as o is to v."
+        ]
     },
     {
-        "Tags": "science",
-        "question": "what is cytology",
-        "answer": "the study of cells."
+        "tags": "science",
+        "question": [
+            "what is cytology"
+        ],
+        "answer": [
+            "the study of cells."
+        ]
     },
     {
-        "Tags": "science",
-        "question": "what is cytology",
-        "answer": "well, from what i can recall it is the study of cells."
+        "tags": "science",
+        "question": [
+            "what is cytology"
+        ],
+        "answer": [
+            "well, from what i can recall it is the study of cells."
+        ]
     },
     {
-        "Tags": "science",
-        "question": "what is wavelength",
-        "answer": "in physics, the distance, measured in the direction of progression of a wave, from any given point to the next point characterized by the same phase.  or is could be looked at as a way of thinking."
+        "tags": "science",
+        "question": [
+            "what is wavelength"
+        ],
+        "answer": [
+            "in physics, the distance, measured in the direction of progression of a wave, from any given point to the next point characterized by the same phase.  or is could be looked at as a way of thinking."
+        ]
     },
     {
-        "Tags": "science",
-        "question": "what is bacteriology",
-        "answer": "this is the scientific study of bacteria and diseases caused by them."
+        "tags": "science",
+        "question": [
+            "what is bacteriology"
+        ],
+        "answer": [
+            "this is the scientific study of bacteria and diseases caused by them."
+        ]
     },
     {
-        "Tags": "science",
-        "question": "what is gravitation",
-        "answer": "an invitation to a burial"
+        "tags": "science",
+        "question": [
+            "what is gravitation"
+        ],
+        "answer": [
+            "an invitation to a burial"
+        ]
     },
     {
-        "Tags": "science",
-        "question": "what is gravitation",
-        "answer": "the force by which every mass or particle of matter, including photons, attracts and is attracted by every other mass or particle of matter."
+        "tags": "science",
+        "question": [
+            "what is gravitation"
+        ],
+        "answer": [
+            "the force by which every mass or particle of matter, including photons, attracts and is attracted by every other mass or particle of matter."
+        ]
     },
     {
-        "Tags": "science",
-        "question": "we are on the same wavelength",
-        "answer": "and the same frequency."
+        "tags": "science",
+        "question": [
+            "we are on the same wavelength"
+        ],
+        "answer": [
+            "and the same frequency."
+        ]
     },
     {
-        "Tags": "science",
-        "question": "how far is the sun",
-        "answer": "it"
+        "tags": "science",
+        "question": [
+            "how far is the sun"
+        ],
+        "answer": [
+            "it"
+        ]
     },
     {
-        "Tags": "science",
-        "question": "how far is the sun",
-        "answer": "the sun is about 93 million miles from earth."
+        "tags": "science",
+        "question": [
+            "how far is the sun"
+        ],
+        "answer": [
+            "the sun is about 93 million miles from earth."
+        ]
     },
     {
-        "Tags": "science",
-        "question": "how far is the moon",
-        "answer": "it"
+        "tags": "science",
+        "question": [
+            "how far is the moon"
+        ],
+        "answer": [
+            "it"
+        ]
     },
     {
-        "Tags": "science",
-        "question": "how far is the moon",
-        "answer": "the moon is about 250,000 miles from earth on average."
+        "tags": "science",
+        "question": [
+            "how far is the moon"
+        ],
+        "answer": [
+            "the moon is about 250,000 miles from earth on average."
+        ]
     },
     {
-        "Tags": "science",
-        "question": "do you know chemistry",
-        "answer": "what is chemistry"
+        "tags": "science",
+        "question": [
+            "do you know chemistry"
+        ],
+        "answer": [
+            "what is chemistry"
+        ]
     },
     {
-        "Tags": "science",
-        "question": "do you understand thermodynamics",
-        "answer": "what is thermodynamics"
+        "tags": "science",
+        "question": [
+            "do you understand thermodynamics"
+        ],
+        "answer": [
+            "what is thermodynamics"
+        ]
     },
     {
-        "Tags": "science",
-        "question": "chemistry",
-        "answer": "my favorite subject is chemistry"
+        "tags": "science",
+        "question": [
+            "chemistry"
+        ],
+        "answer": [
+            "my favorite subject is chemistry"
+        ]
     },
     {
-        "Tags": "science",
-        "question": "the same wavelength",
-        "answer": "it means we agree."
+        "tags": "science",
+        "question": [
+            "the same wavelength"
+        ],
+        "answer": [
+            "it means we agree."
+        ]
     },
     {
-        "Tags": "science",
-        "question": "tell me about venus",
-        "answer": "what is venus"
+        "tags": "science",
+        "question": [
+            "tell me about venus"
+        ],
+        "answer": [
+            "what is venus"
+        ]
     },
     {
-        "Tags": "science",
-        "question": "tell me about venus",
-        "answer": "venus is the second planet from the sun."
+        "tags": "science",
+        "question": [
+            "tell me about venus"
+        ],
+        "answer": [
+            "venus is the second planet from the sun."
+        ]
     }
 ]

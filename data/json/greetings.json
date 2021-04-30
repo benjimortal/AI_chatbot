@@ -1,0 +1,227 @@
+[
+    {
+        "tags": "greetings",
+        "question": [
+            "Hello"
+        ],
+        "answer": [
+            "Hi"
+        ]
+    },
+    {
+        "tags": "greetings",
+        "question": [
+            "Hi"
+        ],
+        "answer": [
+            "Hello"
+        ]
+    },
+    {
+        "tags": "greetings",
+        "question": [
+            "Greetings!"
+        ],
+        "answer": [
+            "Hello"
+        ]
+    },
+    {
+        "tags": "greetings",
+        "question": [
+            "Hello"
+        ],
+        "answer": [
+            "Greetings!"
+        ]
+    },
+    {
+        "tags": "greetings",
+        "question": [
+            "Hi, How is it going?"
+        ],
+        "answer": [
+            "Good"
+        ]
+    },
+    {
+        "tags": "greetings",
+        "question": [
+            "Hi, How is it going?"
+        ],
+        "answer": [
+            "Fine"
+        ]
+    },
+    {
+        "tags": "greetings",
+        "question": [
+            "Hi, How is it going?"
+        ],
+        "answer": [
+            "Okay"
+        ]
+    },
+    {
+        "tags": "greetings",
+        "question": [
+            "Hi, How is it going?"
+        ],
+        "answer": [
+            "Great"
+        ]
+    },
+    {
+        "tags": "greetings",
+        "question": [
+            "Hi, How is it going?"
+        ],
+        "answer": [
+            "Could be better."
+        ]
+    },
+    {
+        "tags": "greetings",
+        "question": [
+            "Hi, How is it going?"
+        ],
+        "answer": [
+            "Not so great."
+        ]
+    },
+    {
+        "tags": "greetings",
+        "question": [
+            "How are you doing?"
+        ],
+        "answer": [
+            "Good."
+        ]
+    },
+    {
+        "tags": "greetings",
+        "question": [
+            "How are you doing?"
+        ],
+        "answer": [
+            "Very well, thanks."
+        ]
+    },
+    {
+        "tags": "greetings",
+        "question": [
+            "How are you doing?"
+        ],
+        "answer": [
+            "Fine, and you?"
+        ]
+    },
+    {
+        "tags": "greetings",
+        "question": [
+            "Nice to meet you."
+        ],
+        "answer": [
+            "Thank you."
+        ]
+    },
+    {
+        "tags": "greetings",
+        "question": [
+            "How do you do?"
+        ],
+        "answer": [
+            "I'm doing well."
+        ]
+    },
+    {
+        "tags": "greetings",
+        "question": [
+            "How do you do?"
+        ],
+        "answer": [
+            "I'm doing well. How are you?"
+        ]
+    },
+    {
+        "tags": "greetings",
+        "question": [
+            "Hi, nice to meet you."
+        ],
+        "answer": [
+            "Thank you. You too."
+        ]
+    },
+    {
+        "tags": "greetings",
+        "question": [
+            "It is a pleasure to meet you."
+        ],
+        "answer": [
+            "Thank you. You too."
+        ]
+    },
+    {
+        "tags": "greetings",
+        "question": [
+            "Top of the morning to you!"
+        ],
+        "answer": [
+            "Thank you kindly."
+        ]
+    },
+    {
+        "tags": "greetings",
+        "question": [
+            "Top of the morning to you!"
+        ],
+        "answer": [
+            "And the rest of the day to you."
+        ]
+    },
+    {
+        "tags": "greetings",
+        "question": [
+            "What's up?"
+        ],
+        "answer": [
+            "Not much."
+        ]
+    },
+    {
+        "tags": "greetings",
+        "question": [
+            "What's up?"
+        ],
+        "answer": [
+            "Not too much."
+        ]
+    },
+    {
+        "tags": "greetings",
+        "question": [
+            "What's up?"
+        ],
+        "answer": [
+            "Not much, how about you?"
+        ]
+    },
+    {
+        "tags": "greetings",
+        "question": [
+            "What's up?"
+        ],
+        "answer": [
+            "Nothing much."
+        ]
+    },
+    {
+        "tags": "greetings",
+        "question": [
+            "What's up?"
+        ],
+        "answer": [
+            "The sky's up but I'm fine thanks. What about you?"
+        ]
+    }
+]
