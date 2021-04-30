@@ -1,9 +1,9 @@
 import yaml
 import json
 
-json_File = 'data/json/emotion.json'
+json_File = 'data/json/trivia.json'
 
-with open('data/yml/emotion.yml', 'r') as file:
+with open('data/yml/trivia.yml', 'r') as file:
     reader = yaml.load(file)
     reader = reader['conversations']
 
@@ -20,9 +20,9 @@ with open('data/yml/emotion.yml', 'r') as file:
         answer = line[1]
         QoA.append(
             {
-                'tags': 'Emotion',
-                'question': question,
-                'answer': answer
+                'tags': 'trivia',
+                'question': [question],
+                'answer': [answer]
             }
         )
 

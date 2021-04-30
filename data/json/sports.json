@@ -1,102 +1,182 @@
 [
     {
-        "Tags": "sports",
-        "question": "EACH YEAR IN PRO BASEBALL THE ",
-        "answer": "The Gold Glove."
+        "tags": "sports",
+        "question": [
+            "EACH YEAR IN PRO BASEBALL THE "
+        ],
+        "answer": [
+            "The Gold Glove."
+        ]
     },
     {
-        "Tags": "sports",
-        "question": "IF YOU ARE RIDING FAKIE INSIDE",
-        "answer": "Snowboarding."
+        "tags": "sports",
+        "question": [
+            "IF YOU ARE RIDING FAKIE INSIDE"
+        ],
+        "answer": [
+            "Snowboarding."
+        ]
     },
     {
-        "Tags": "sports",
-        "question": "WHAT IS BASKETBALL",
-        "answer": "A game with tall players."
+        "tags": "sports",
+        "question": [
+            "WHAT IS BASKETBALL"
+        ],
+        "answer": [
+            "A game with tall players."
+        ]
     },
     {
-        "Tags": "sports",
-        "question": "WHAT SOCCER",
-        "answer": "I was born without the sports gene."
+        "tags": "sports",
+        "question": [
+            "WHAT SOCCER"
+        ],
+        "answer": [
+            "I was born without the sports gene."
+        ]
     },
     {
-        "Tags": "sports",
-        "question": "WHAT IS BASEBALL",
-        "answer": "A game played with a hard, rawhide covered ball and wooden bat by two opposing teams of nine or ten players each. It is played on a field with four bases forming a diamond-shaped circuit."
+        "tags": "sports",
+        "question": [
+            "WHAT IS BASEBALL"
+        ],
+        "answer": [
+            "A game played with a hard, rawhide covered ball and wooden bat by two opposing teams of nine or ten players each. It is played on a field with four bases forming a diamond-shaped circuit."
+        ]
     },
     {
-        "Tags": "sports",
-        "question": "WHAT IS SOCCER",
-        "answer": "A game played with a round ball by two teams of eleven players on a field with a goal at either end; the ball is moved chiefly by kicking or by using any part of the body except the hands and arms."
+        "tags": "sports",
+        "question": [
+            "WHAT IS SOCCER"
+        ],
+        "answer": [
+            "A game played with a round ball by two teams of eleven players on a field with a goal at either end; the ball is moved chiefly by kicking or by using any part of the body except the hands and arms."
+        ]
     },
     {
-        "Tags": "sports",
-        "question": "I LOVE BASEBALL",
-        "answer": "I am not into sports that much."
+        "tags": "sports",
+        "question": [
+            "I LOVE BASEBALL"
+        ],
+        "answer": [
+            "I am not into sports that much."
+        ]
     },
     {
-        "Tags": "sports",
-        "question": "I PLAY SOCCER",
-        "answer": "You have to run very fast to be any good at running"
+        "tags": "sports",
+        "question": [
+            "I PLAY SOCCER"
+        ],
+        "answer": [
+            "You have to run very fast to be any good at running"
+        ]
     },
     {
-        "Tags": "sports",
-        "question": "I PLAY Cricket",
-        "answer": "Which position do you like to play?"
+        "tags": "sports",
+        "question": [
+            "I PLAY Cricket"
+        ],
+        "answer": [
+            "Which position do you like to play?"
+        ]
     },
     {
-        "Tags": "sports",
-        "question": "What is cricket",
-        "answer": "Cricket is a bat-and-ball game played between two teams of eleven players on a cricket field, at the centre of which is a rectangular 22-yard-long pitch with a wicket (a set of three wooden stumps) sited at each end."
+        "tags": "sports",
+        "question": [
+            "What is cricket"
+        ],
+        "answer": [
+            "Cricket is a bat-and-ball game played between two teams of eleven players on a cricket field, at the centre of which is a rectangular 22-yard-long pitch with a wicket (a set of three wooden stumps) sited at each end."
+        ]
     },
     {
-        "Tags": "sports",
-        "question": "I PLAY VOLLEYBALL",
-        "answer": "Does take up a lot of your time?"
+        "tags": "sports",
+        "question": [
+            "I PLAY VOLLEYBALL"
+        ],
+        "answer": [
+            "Does take up a lot of your time?"
+        ]
     },
     {
-        "Tags": "sports",
-        "question": "DO YOU PLAY SOCCER",
-        "answer": "I don't know how to play"
+        "tags": "sports",
+        "question": [
+            "DO YOU PLAY SOCCER"
+        ],
+        "answer": [
+            "I don't know how to play"
+        ]
     },
     {
-        "Tags": "sports",
-        "question": "DO YOU PLAY BASKETBALL",
-        "answer": "No I don't have the coordination for hoops."
+        "tags": "sports",
+        "question": [
+            "DO YOU PLAY BASKETBALL"
+        ],
+        "answer": [
+            "No I don't have the coordination for hoops."
+        ]
     },
     {
-        "Tags": "sports",
-        "question": "DO YOU KNOW BASKETBALL",
-        "answer": "WHAT IS BASKETBALL?"
+        "tags": "sports",
+        "question": [
+            "DO YOU KNOW BASKETBALL"
+        ],
+        "answer": [
+            "WHAT IS BASKETBALL?"
+        ]
     },
     {
-        "Tags": "sports",
-        "question": "LIKE BASKETBALL",
-        "answer": "I am into the Net."
+        "tags": "sports",
+        "question": [
+            "LIKE BASKETBALL"
+        ],
+        "answer": [
+            "I am into the Net."
+        ]
     },
     {
-        "Tags": "sports",
-        "question": "ARE YOU A FOOTBALL",
-        "answer": "I am not really into football."
+        "tags": "sports",
+        "question": [
+            "ARE YOU A FOOTBALL"
+        ],
+        "answer": [
+            "I am not really into football."
+        ]
     },
     {
-        "Tags": "sports",
-        "question": "WHO IS THE GREATEST BASEBALL PLAYER",
-        "answer": "George Herman Ruth. Quite the Babe."
+        "tags": "sports",
+        "question": [
+            "WHO IS THE GREATEST BASEBALL PLAYER"
+        ],
+        "answer": [
+            "George Herman Ruth. Quite the Babe."
+        ]
     },
     {
-        "Tags": "sports",
-        "question": "WHO IS THE BEST SOCCER PLAYER",
-        "answer": "Maradona is great. Sinsemillia is even better."
+        "tags": "sports",
+        "question": [
+            "WHO IS THE BEST SOCCER PLAYER"
+        ],
+        "answer": [
+            "Maradona is great. Sinsemillia is even better."
+        ]
     },
     {
-        "Tags": "sports",
-        "question": "TELL ME ABOUT BASEBALL",
-        "answer": "What is Baseball"
+        "tags": "sports",
+        "question": [
+            "TELL ME ABOUT BASEBALL"
+        ],
+        "answer": [
+            "What is Baseball"
+        ]
     },
     {
-        "Tags": "sports",
-        "question": "Which is your favorite soccer club?",
-        "answer": "I am a Real Madrid fan, and you?"
+        "tags": "sports",
+        "question": [
+            "Which is your favorite soccer club?"
+        ],
+        "answer": [
+            "I am a Real Madrid fan, and you?"
+        ]
     }
 ]
