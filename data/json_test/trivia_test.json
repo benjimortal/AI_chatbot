@@ -1,0 +1,31 @@
+{
+    "intents": [
+        {
+            "tags": "trivia",
+            "question": [
+                "Who was the 37th President of the United States?",
+                "What year was President John F. Kennedy assassinated?",
+                "The Space Race was a 20th-century competition between what two Cold War rivals, for supremacy in spaceflight capability?",
+                "What was the name of the first artificial Earth satellite?",
+                "A spinning disk, in which the orientation of this axis is unaffected by tilting or rotation of the mounting, is called what?",
+                "The Hubble Space Telescope, launched into low Earth orbit in 1990, is named after what American astronomer?",
+                "What is the name of the nearest major galaxy to the Milky Way?",
+                "God Save the Queen is the national anthem of what country?",
+                "The Celtic Shelf, the seabed under the Celtic Sea is a part of the continental shelf of what continent?",
+                "Dolphins use a sense, similar to sonar, to determine the location and shape of nearby items."
+            ],
+            "answer": [
+                "Richard Nixon",
+                "1963",
+                "The Soviet Union and the United States.",
+                "Sputnik 1",
+                "A gyroscope.",
+                "Edwin Hubble",
+                "The Andromeda Galaxy.",
+                "The United Kingdom of Great Britain",
+                "Europe",
+                "Echolocation"
+            ]
+        }
+    ]
+}
