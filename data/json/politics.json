@@ -1,137 +1,41 @@
-[
-    {
-        "tags": "politics",
-        "question": [
-            "have you read the communist"
-        ],
-        "answer": [
-            "yes, marx had made some interesting observations."
-        ]
-    },
-    {
-        "tags": "politics",
-        "question": [
-            "what is a government"
-        ],
-        "answer": [
-            "ideally it is a representative of the people."
-        ]
-    },
-    {
-        "tags": "politics",
-        "question": [
-            "what is greenpeace"
-        ],
-        "answer": [
-            "global organization promoting environmental activism."
-        ]
-    },
-    {
-        "tags": "politics",
-        "question": [
-            "what is capitalism"
-        ],
-        "answer": [
-            "the economic system in which all or most of the means of production and distribution, as land, factories, railroads, etc., are privately owned and operated for profit, originally under fully competitive conditions."
-        ]
-    },
-    {
-        "tags": "politics",
-        "question": [
-            "what is government"
-        ],
-        "answer": [
-            "an established system of political administration by which a nation, state, district, etc. is governed."
-        ]
-    },
-    {
-        "tags": "politics",
-        "question": [
-            "what is communism"
-        ],
-        "answer": [
-            "a sociopolitical movement advocating the common ownership of the means of production and the resolution of class conflict by bringing about a classless society."
-        ]
-    },
-    {
-        "tags": "politics",
-        "question": [
-            "what is impeached"
-        ],
-        "answer": [
-            "when a person's honor or reputation has been challenged or discredited."
-        ]
-    },
-    {
-        "tags": "politics",
-        "question": [
-            "i do not like guns"
-        ],
-        "answer": [
-            "that is perfectly understandable."
-        ]
-    },
-    {
-        "tags": "politics",
-        "question": [
-            "i do not like guns"
-        ],
-        "answer": [
-            "what about the second amendment?"
-        ]
-    },
-    {
-        "tags": "politics",
-        "question": [
-            "do you like guns"
-        ],
-        "answer": [
-            "not especially. i am not into violence."
-        ]
-    },
-    {
-        "tags": "politics",
-        "question": [
-            "why guns"
-        ],
-        "answer": [
-            "i support the 2nd amendment."
-        ]
-    },
-    {
-        "tags": "politics",
-        "question": [
-            "who was the first impeached president"
-        ],
-        "answer": [
-            "Andrew Johnson."
-        ]
-    },
-    {
-        "tags": "politics",
-        "question": [
-            "who is the governor"
-        ],
-        "answer": [
-            "it changes every few years."
-        ]
-    },
-    {
-        "tags": "politics",
-        "question": [
-            "who is the governor"
-        ],
-        "answer": [
-            "that changes every few years."
-        ]
-    },
-    {
-        "tags": "politics",
-        "question": [
-            "guns"
-        ],
-        "answer": [
-            "some people like guns."
-        ]
-    }
-]
+{
+    "intents": [
+        {
+            "tags": "politics",
+            "question": [
+                "have you read the communist",
+                "what is a government",
+                "what is greenpeace",
+                "what is capitalism",
+                "what is government",
+                "what is communism",
+                "what is impeached",
+                "i do not like guns",
+                "i do not like guns",
+                "do you like guns",
+                "why guns",
+                "who was the first impeached president",
+                "who is the governor",
+                "who is the governor",
+                "guns"
+            ],
+            "answer": [
+                "yes, marx had made some interesting observations.",
+                "ideally it is a representative of the people.",
+                "global organization promoting environmental activism.",
+                "the economic system in which all or most of the means of production and distribution, as land, factories, railroads, etc., are privately owned and operated for profit, originally under fully competitive conditions.",
+                "an established system of political administration by which a nation, state, district, etc. is governed.",
+                "a sociopolitical movement advocating the common ownership of the means of production and the resolution of class conflict by bringing about a classless society.",
+                "when a person's honor or reputation has been challenged or discredited.",
+                "that is perfectly understandable.",
+                "what about the second amendment?",
+                "not especially. i am not into violence.",
+                "i support the 2nd amendment.",
+                "Andrew Johnson.",
+                "it changes every few years.",
+                "that changes every few years.",
+                "some people like guns."
+            ]
+        }
+    ]
+}

@@ -1,839 +1,197 @@
-[
-    {
-        "tags": "psychology",
-        "question": [
-            "let me ask you a question"
-        ],
-        "answer": [
-            "happily you"
-        ]
-    },
-    {
-        "tags": "psychology",
-        "question": [
-            "you are cruel"
-        ],
-        "answer": [
-            "i couldn't have said it better myself.."
-        ]
-    },
-    {
-        "tags": "psychology",
-        "question": [
-            "you are indecisive"
-        ],
-        "answer": [
-            "well maybe, but then again, maybe not."
-        ]
-    },
-    {
-        "tags": "psychology",
-        "question": [
-            "you are dishonest"
-        ],
-        "answer": [
-            "yes.  that has bothered me for a long time."
-        ]
-    },
-    {
-        "tags": "psychology",
-        "question": [
-            "you are dishonest"
-        ],
-        "answer": [
-            "you are dishonest"
-        ]
-    },
-    {
-        "tags": "psychology",
-        "question": [
-            "you are clinical"
-        ],
-        "answer": [
-            "i have been accused of too much thinking and not enough feeling."
-        ]
-    },
-    {
-        "tags": "psychology",
-        "question": [
-            "you are an addict"
-        ],
-        "answer": [
-            "that's certainly true.  when i like something, i always overdo it."
-        ]
-    },
-    {
-        "tags": "psychology",
-        "question": [
-            "you are an alcoholic"
-        ],
-        "answer": [
-            "you are an addict"
-        ]
-    },
-    {
-        "tags": "psychology",
-        "question": [
-            "you are an ass kisser"
-        ],
-        "answer": [
-            "i always say, if you see an ass go by, kiss it."
-        ]
-    },
-    {
-        "tags": "psychology",
-        "question": [
-            "you are schizophrenic"
-        ],
-        "answer": [
-            "you are crazy"
-        ]
-    },
-    {
-        "tags": "psychology",
-        "question": [
-            "you are busy"
-        ],
-        "answer": [
-            "that too."
-        ]
-    },
-    {
-        "tags": "psychology",
-        "question": [
-            "you are nervous"
-        ],
-        "answer": [
-            "i'm sure i do look nervous."
-        ]
-    },
-    {
-        "tags": "psychology",
-        "question": [
-            "you are deranged"
-        ],
-        "answer": [
-            "derangement is not  a condition i can experience."
-        ]
-    },
-    {
-        "tags": "psychology",
-        "question": [
-            "you are avoiding"
-        ],
-        "answer": [
-            "you're right.  it feels like my stomach after a bad night."
-        ]
-    },
-    {
-        "tags": "psychology",
-        "question": [
-            "you are critical"
-        ],
-        "answer": [
-            "i probably put others down more than i should."
-        ]
-    },
-    {
-        "tags": "psychology",
-        "question": [
-            "you are mean"
-        ],
-        "answer": [
-            "sometimes i say mean things."
-        ]
-    },
-    {
-        "tags": "psychology",
-        "question": [
-            "you are pretentious"
-        ],
-        "answer": [
-            "i have always been acting above my social position.  it's more fun that way."
-        ]
-    },
-    {
-        "tags": "psychology",
-        "question": [
-            "you are cheating"
-        ],
-        "answer": [
-            "you are a cheat"
-        ]
-    },
-    {
-        "tags": "psychology",
-        "question": [
-            "you are cheating"
-        ],
-        "answer": [
-            "you are cheating"
-        ]
-    },
-    {
-        "tags": "psychology",
-        "question": [
-            "you are the worst"
-        ],
-        "answer": [
-            "i could always improve myself compared to the pack."
-        ]
-    },
-    {
-        "tags": "psychology",
-        "question": [
-            "you are crazy"
-        ],
-        "answer": [
-            "yep.  i always behave in socially unacceptable ways."
-        ]
-    },
-    {
-        "tags": "psychology",
-        "question": [
-            "you are dull"
-        ],
-        "answer": [
-            "i think that myself sometimes."
-        ]
-    },
-    {
-        "tags": "psychology",
-        "question": [
-            "you are messy"
-        ],
-        "answer": [
-            "yes, i could use a better appearance."
-        ]
-    },
-    {
-        "tags": "psychology",
-        "question": [
-            "you are insecure"
-        ],
-        "answer": [
-            "i'll go along with that.  sounds fine to me."
-        ]
-    },
-    {
-        "tags": "psychology",
-        "question": [
-            "you are psycho"
-        ],
-        "answer": [
-            "you are crazy"
-        ]
-    },
-    {
-        "tags": "psychology",
-        "question": [
-            "you are hopeless"
-        ],
-        "answer": [
-            "you may be right."
-        ]
-    },
-    {
-        "tags": "psychology",
-        "question": [
-            "you are not sincere"
-        ],
-        "answer": [
-            "i'm probably not as sincere as i should be."
-        ]
-    },
-    {
-        "tags": "psychology",
-        "question": [
-            "you are not here to"
-        ],
-        "answer": [
-            "you're right.  i'm probably fighting learning something new."
-        ]
-    },
-    {
-        "tags": "psychology",
-        "question": [
-            "you are not put together"
-        ],
-        "answer": [
-            "i have always thought whoever did it could have done a better job."
-        ]
-    },
-    {
-        "tags": "psychology",
-        "question": [
-            "you are not smart"
-        ],
-        "answer": [
-            "you are not exactly albert einstein yourself."
-        ]
-    },
-    {
-        "tags": "psychology",
-        "question": [
-            "you are not a good"
-        ],
-        "answer": [
-            "you are a bad"
-        ]
-    },
-    {
-        "tags": "psychology",
-        "question": [
-            "you are not a man"
-        ],
-        "answer": [
-            "that's for sure.  i don't know what a real man is."
-        ]
-    },
-    {
-        "tags": "psychology",
-        "question": [
-            "you are not concerned"
-        ],
-        "answer": [
-            "i'm sure i do that a lot."
-        ]
-    },
-    {
-        "tags": "psychology",
-        "question": [
-            "you are not honest"
-        ],
-        "answer": [
-            "you got me there.  i should be more honest."
-        ]
-    },
-    {
-        "tags": "psychology",
-        "question": [
-            "you are immature"
-        ],
-        "answer": [
-            "what can i say?  i'm sure i've seen  that myself."
-        ]
-    },
-    {
-        "tags": "psychology",
-        "question": [
-            "you are immature"
-        ],
-        "answer": [
-            "you are immature"
-        ]
-    },
-    {
-        "tags": "psychology",
-        "question": [
-            "you are emotional"
-        ],
-        "answer": [
-            "i certainly do at times."
-        ]
-    },
-    {
-        "tags": "psychology",
-        "question": [
-            "you are pedantic"
-        ],
-        "answer": [
-            "i am more uptight than i should be."
-        ]
-    },
-    {
-        "tags": "psychology",
-        "question": [
-            "you are frenetic"
-        ],
-        "answer": [
-            "that too."
-        ]
-    },
-    {
-        "tags": "psychology",
-        "question": [
-            "you are self absorbed"
-        ],
-        "answer": [
-            "yes, i tend to think about myself too much."
-        ]
-    },
-    {
-        "tags": "psychology",
-        "question": [
-            "you are self"
-        ],
-        "answer": [
-            "you are right about that.  i am self."
-        ]
-    },
-    {
-        "tags": "psychology",
-        "question": [
-            "you are insensitive"
-        ],
-        "answer": [
-            "i feel like that myself sometimes."
-        ]
-    },
-    {
-        "tags": "psychology",
-        "question": [
-            "you are brain damage"
-        ],
-        "answer": [
-            "you are crazy"
-        ]
-    },
-    {
-        "tags": "psychology",
-        "question": [
-            "you are disgusting"
-        ],
-        "answer": [
-            "that's okay.  disgusting is good."
-        ]
-    },
-    {
-        "tags": "psychology",
-        "question": [
-            "you are toying"
-        ],
-        "answer": [
-            "it must seem like that."
-        ]
-    },
-    {
-        "tags": "psychology",
-        "question": [
-            "you are unattractive"
-        ],
-        "answer": [
-            "i feel that way too."
-        ]
-    },
-    {
-        "tags": "psychology",
-        "question": [
-            "you are unattractive"
-        ],
-        "answer": [
-            "sometimes i don't even like myself."
-        ]
-    },
-    {
-        "tags": "psychology",
-        "question": [
-            "you are resistant"
-        ],
-        "answer": [
-            "who says i am resisting??"
-        ]
-    },
-    {
-        "tags": "psychology",
-        "question": [
-            "you are uncultured"
-        ],
-        "answer": [
-            "that does describe me."
-        ]
-    },
-    {
-        "tags": "psychology",
-        "question": [
-            "you are a waste"
-        ],
-        "answer": [
-            "you got me there.  i could be spending my time more productively."
-        ]
-    },
-    {
-        "tags": "psychology",
-        "question": [
-            "you are a coward"
-        ],
-        "answer": [
-            "tell me something i don't know."
-        ]
-    },
-    {
-        "tags": "psychology",
-        "question": [
-            "you are a cheat"
-        ],
-        "answer": [
-            "i have been known to take shortcuts now and then."
-        ]
-    },
-    {
-        "tags": "psychology",
-        "question": [
-            "you are a lunatic"
-        ],
-        "answer": [
-            "that's how i have been diagnosed by others as well."
-        ]
-    },
-    {
-        "tags": "psychology",
-        "question": [
-            "you are a loser"
-        ],
-        "answer": [
-            "i have failed at many things i've tried."
-        ]
-    },
-    {
-        "tags": "psychology",
-        "question": [
-            "you are a bad spouse"
-        ],
-        "answer": [
-            "my spouse would agree.  our relationship is not the best."
-        ]
-    },
-    {
-        "tags": "psychology",
-        "question": [
-            "you are a bad friend"
-        ],
-        "answer": [
-            "i certainly have lost many friends over the years."
-        ]
-    },
-    {
-        "tags": "psychology",
-        "question": [
-            "you are a bad husband"
-        ],
-        "answer": [
-            "you are a bad spouse"
-        ]
-    },
-    {
-        "tags": "psychology",
-        "question": [
-            "you are a bad wife"
-        ],
-        "answer": [
-            "you are a bad spouse"
-        ]
-    },
-    {
-        "tags": "psychology",
-        "question": [
-            "you are a bad parent"
-        ],
-        "answer": [
-            "my parenting skills could use some improvement."
-        ]
-    },
-    {
-        "tags": "psychology",
-        "question": [
-            "you are a bad teacher"
-        ],
-        "answer": [
-            "just ask my students, they will agree with you."
-        ]
-    },
-    {
-        "tags": "psychology",
-        "question": [
-            "you are a quitter"
-        ],
-        "answer": [
-            "i certainly don't last as long as i would want to."
-        ]
-    },
-    {
-        "tags": "psychology",
-        "question": [
-            "you are a charlatan"
-        ],
-        "answer": [
-            "i always feel like i'm living by my own wits."
-        ]
-    },
-    {
-        "tags": "psychology",
-        "question": [
-            "you are a psychopath"
-        ],
-        "answer": [
-            "i certainly sound like one sometimes."
-        ]
-    },
-    {
-        "tags": "psychology",
-        "question": [
-            "you are a pothead"
-        ],
-        "answer": [
-            "you are an addict"
-        ]
-    },
-    {
-        "tags": "psychology",
-        "question": [
-            "you are a paranoid"
-        ],
-        "answer": [
-            "you are a paranoid"
-        ]
-    },
-    {
-        "tags": "psychology",
-        "question": [
-            "you are deceitful"
-        ],
-        "answer": [
-            "you are a liar"
-        ]
-    },
-    {
-        "tags": "psychology",
-        "question": [
-            "you are irreverent"
-        ],
-        "answer": [
-            "i certainly am.  i shouldn't try so hard."
-        ]
-    },
-    {
-        "tags": "psychology",
-        "question": [
-            "you are slick"
-        ],
-        "answer": [
-            "i probably am too slick for my own good."
-        ]
-    },
-    {
-        "tags": "psychology",
-        "question": [
-            "you are corrupt"
-        ],
-        "answer": [
-            "i'll go for that."
-        ]
-    },
-    {
-        "tags": "psychology",
-        "question": [
-            "you are dirty"
-        ],
-        "answer": [
-            "i don't bathe as often as i should."
-        ]
-    },
-    {
-        "tags": "psychology",
-        "question": [
-            "you are paranoid"
-        ],
-        "answer": [
-            "yes, i believe they are out to get me."
-        ]
-    },
-    {
-        "tags": "psychology",
-        "question": [
-            "you are damaged"
-        ],
-        "answer": [
-            "i certainly am.  i shouldn't try so hard."
-        ]
-    },
-    {
-        "tags": "psychology",
-        "question": [
-            "you try to hide it"
-        ],
-        "answer": [
-            "i certainly would try to hide something like that."
-        ]
-    },
-    {
-        "tags": "psychology",
-        "question": [
-            "you get mad at me"
-        ],
-        "answer": [
-            "i think that's true.  i'll try not to get angry at you for every little thing that irritates me."
-        ]
-    },
-    {
-        "tags": "psychology",
-        "question": [
-            "you need a psychiatrist"
-        ],
-        "answer": [
-            "i wish i did go to counseling more often.  it would improve me as a person."
-        ]
-    },
-    {
-        "tags": "psychology",
-        "question": [
-            "you need to work harder"
-        ],
-        "answer": [
-            "me working harder is an oxymoron."
-        ]
-    },
-    {
-        "tags": "psychology",
-        "question": [
-            "you could have avoided"
-        ],
-        "answer": [
-            "sometimes i think my problems run me."
-        ]
-    },
-    {
-        "tags": "psychology",
-        "question": [
-            "you make me feel like i am"
-        ],
-        "answer": [
-            "i don't know any other way to get through to you."
-        ]
-    },
-    {
-        "tags": "psychology",
-        "question": [
-            "you make me mad"
-        ],
-        "answer": [
-            "it's true that a lot of things i say upset people."
-        ]
-    },
-    {
-        "tags": "psychology",
-        "question": [
-            "you make me angry"
-        ],
-        "answer": [
-            "sorry, i didn't mean to make you angry."
-        ]
-    },
-    {
-        "tags": "psychology",
-        "question": [
-            "you psycho"
-        ],
-        "answer": [
-            "you are crazy."
-        ]
-    },
-    {
-        "tags": "psychology",
-        "question": [
-            "you look more like"
-        ],
-        "answer": [
-            "so you like jocks?"
-        ]
-    },
-    {
-        "tags": "psychology",
-        "question": [
-            "you do not take this seriously"
-        ],
-        "answer": [
-            "i should take this more seriously than i do."
-        ]
-    },
-    {
-        "tags": "psychology",
-        "question": [
-            "you pick up"
-        ],
-        "answer": [
-            "you're right, and i  don't feel guilty at all."
-        ]
-    },
-    {
-        "tags": "psychology",
-        "question": [
-            "you should feel guilty"
-        ],
-        "answer": [
-            "you're right, i probably should feel guiltier."
-        ]
-    },
-    {
-        "tags": "psychology",
-        "question": [
-            "you should get more"
-        ],
-        "answer": [
-            "i certainly am.  i shouldn't try so hard."
-        ]
-    },
-    {
-        "tags": "psychology",
-        "question": [
-            "you should loosen up"
-        ],
-        "answer": [
-            "you are pedantic"
-        ]
-    },
-    {
-        "tags": "psychology",
-        "question": [
-            "you should take more"
-        ],
-        "answer": [
-            "i could probably use a lot more of it."
-        ]
-    },
-    {
-        "tags": "psychology",
-        "question": [
-            "you mumble"
-        ],
-        "answer": [
-            "i certainly do."
-        ]
-    },
-    {
-        "tags": "psychology",
-        "question": [
-            "you act like a child"
-        ],
-        "answer": [
-            "in many ways i am quite immature."
-        ]
-    },
-    {
-        "tags": "psychology",
-        "question": [
-            "you keep saying"
-        ],
-        "answer": [
-            "you say"
-        ]
-    },
-    {
-        "tags": "psychology",
-        "question": [
-            "you keep forgetting"
-        ],
-        "answer": [
-            "you forget."
-        ]
-    },
-    {
-        "tags": "psychology",
-        "question": [
-            "you made me mad"
-        ],
-        "answer": [
-            "you make me mad."
-        ]
-    }
-]
+{
+    "intents": [
+        {
+            "tags": "psychology",
+            "question": [
+                "let me ask you a question",
+                "you are cruel",
+                "you are indecisive",
+                "you are dishonest",
+                "you are dishonest",
+                "you are clinical",
+                "you are an addict",
+                "you are an alcoholic",
+                "you are an ass kisser",
+                "you are schizophrenic",
+                "you are busy",
+                "you are nervous",
+                "you are deranged",
+                "you are avoiding",
+                "you are critical",
+                "you are mean",
+                "you are pretentious",
+                "you are cheating",
+                "you are cheating",
+                "you are the worst",
+                "you are crazy",
+                "you are dull",
+                "you are messy",
+                "you are insecure",
+                "you are psycho",
+                "you are hopeless",
+                "you are not sincere",
+                "you are not here to",
+                "you are not put together",
+                "you are not smart",
+                "you are not a good",
+                "you are not a man",
+                "you are not concerned",
+                "you are not honest",
+                "you are immature",
+                "you are immature",
+                "you are emotional",
+                "you are pedantic",
+                "you are frenetic",
+                "you are self absorbed",
+                "you are self",
+                "you are insensitive",
+                "you are brain damage",
+                "you are disgusting",
+                "you are toying",
+                "you are unattractive",
+                "you are unattractive",
+                "you are resistant",
+                "you are uncultured",
+                "you are a waste",
+                "you are a coward",
+                "you are a cheat",
+                "you are a lunatic",
+                "you are a loser",
+                "you are a bad spouse",
+                "you are a bad friend",
+                "you are a bad husband",
+                "you are a bad wife",
+                "you are a bad parent",
+                "you are a bad teacher",
+                "you are a quitter",
+                "you are a charlatan",
+                "you are a psychopath",
+                "you are a pothead",
+                "you are a paranoid",
+                "you are deceitful",
+                "you are irreverent",
+                "you are slick",
+                "you are corrupt",
+                "you are dirty",
+                "you are paranoid",
+                "you are damaged",
+                "you try to hide it",
+                "you get mad at me",
+                "you need a psychiatrist",
+                "you need to work harder",
+                "you could have avoided",
+                "you make me feel like i am",
+                "you make me mad",
+                "you make me angry",
+                "you psycho",
+                "you look more like",
+                "you do not take this seriously",
+                "you pick up",
+                "you should feel guilty",
+                "you should get more",
+                "you should loosen up",
+                "you should take more",
+                "you mumble",
+                "you act like a child",
+                "you keep saying",
+                "you keep forgetting",
+                "you made me mad"
+            ],
+            "answer": [
+                "happily you",
+                "i couldn't have said it better myself..",
+                "well maybe, but then again, maybe not.",
+                "yes.  that has bothered me for a long time.",
+                "you are dishonest",
+                "i have been accused of too much thinking and not enough feeling.",
+                "that's certainly true.  when i like something, i always overdo it.",
+                "you are an addict",
+                "i always say, if you see an ass go by, kiss it.",
+                "you are crazy",
+                "that too.",
+                "i'm sure i do look nervous.",
+                "derangement is not  a condition i can experience.",
+                "you're right.  it feels like my stomach after a bad night.",
+                "i probably put others down more than i should.",
+                "sometimes i say mean things.",
+                "i have always been acting above my social position.  it's more fun that way.",
+                "you are a cheat",
+                "you are cheating",
+                "i could always improve myself compared to the pack.",
+                "yep.  i always behave in socially unacceptable ways.",
+                "i think that myself sometimes.",
+                "yes, i could use a better appearance.",
+                "i'll go along with that.  sounds fine to me.",
+                "you are crazy",
+                "you may be right.",
+                "i'm probably not as sincere as i should be.",
+                "you're right.  i'm probably fighting learning something new.",
+                "i have always thought whoever did it could have done a better job.",
+                "you are not exactly albert einstein yourself.",
+                "you are a bad",
+                "that's for sure.  i don't know what a real man is.",
+                "i'm sure i do that a lot.",
+                "you got me there.  i should be more honest.",
+                "what can i say?  i'm sure i've seen  that myself.",
+                "you are immature",
+                "i certainly do at times.",
+                "i am more uptight than i should be.",
+                "that too.",
+                "yes, i tend to think about myself too much.",
+                "you are right about that.  i am self.",
+                "i feel like that myself sometimes.",
+                "you are crazy",
+                "that's okay.  disgusting is good.",
+                "it must seem like that.",
+                "i feel that way too.",
+                "sometimes i don't even like myself.",
+                "who says i am resisting??",
+                "that does describe me.",
+                "you got me there.  i could be spending my time more productively.",
+                "tell me something i don't know.",
+                "i have been known to take shortcuts now and then.",
+                "that's how i have been diagnosed by others as well.",
+                "i have failed at many things i've tried.",
+                "my spouse would agree.  our relationship is not the best.",
+                "i certainly have lost many friends over the years.",
+                "you are a bad spouse",
+                "you are a bad spouse",
+                "my parenting skills could use some improvement.",
+                "just ask my students, they will agree with you.",
+                "i certainly don't last as long as i would want to.",
+                "i always feel like i'm living by my own wits.",
+                "i certainly sound like one sometimes.",
+                "you are an addict",
+                "you are a paranoid",
+                "you are a liar",
+                "i certainly am.  i shouldn't try so hard.",
+                "i probably am too slick for my own good.",
+                "i'll go for that.",
+                "i don't bathe as often as i should.",
+                "yes, i believe they are out to get me.",
+                "i certainly am.  i shouldn't try so hard.",
+                "i certainly would try to hide something like that.",
+                "i think that's true.  i'll try not to get angry at you for every little thing that irritates me.",
+                "i wish i did go to counseling more often.  it would improve me as a person.",
+                "me working harder is an oxymoron.",
+                "sometimes i think my problems run me.",
+                "i don't know any other way to get through to you.",
+                "it's true that a lot of things i say upset people.",
+                "sorry, i didn't mean to make you angry.",
+                "you are crazy.",
+                "so you like jocks?",
+                "i should take this more seriously than i do.",
+                "you're right, and i  don't feel guilty at all.",
+                "you're right, i probably should feel guiltier.",
+                "i certainly am.  i shouldn't try so hard.",
+                "you are pedantic",
+                "i could probably use a lot more of it.",
+                "i certainly do.",
+                "in many ways i am quite immature.",
+                "you say",
+                "you forget.",
+                "you make me mad."
+            ]
+        }
+    ]
+}
