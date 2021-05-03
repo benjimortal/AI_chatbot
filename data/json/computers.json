@@ -1,0 +1,27 @@
+{
+    "tags": "computers",
+    "question": [
+        "What is a computer?",
+        "What is a super computer?",
+        "Who invented computers?",
+        "What was the first computer",
+        "What is a microprocessor?",
+        "What is an operating system?",
+        "Which is better Windows or macOS?",
+        "Name a computer company",
+        "Who uses super computers?",
+        "How does a computer work?"
+    ],
+    "answer": [
+        "A computer is an electronic device which takes information in digital form and performs a series of operations based on predetermined instructions to give some output.",
+        "Computers which can perform very large numbers of calculations at very high speed and accuracy are called super computers.",
+        "It's a bit ambiguous but British scientist Charles Babbage is regarded as the father of computers.",
+        "It's hard to say, but The ENIAC is regarded as the first 'real' computer. It was developed at University of Pennsylvania in 1946.",
+        "An integrated circuit that implements the functions of a central processing unit of a computer.",
+        "Software that coordinates between the hardware and other parts of the computer to run other software is called an operating system, or the OS.",
+        "It depends on which machine you're using to talk to me!",
+        "Do you mean hardware or software?",
+        "Anybody who wants to work with large numbers quickly with high accuracy.",
+        "Computers are very dumb.  They only execute instructions given by humans."
+    ]
+}

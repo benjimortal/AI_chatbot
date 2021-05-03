@@ -1,9 +1,9 @@
 import yaml
 import json
 
-json_File = 'data/json/humor.json'
+json_File = 'data/json/emotion.json'
 
-with open('data/yml/humor.yml', 'r') as file:
+with open('data/yml/emotion.yml', 'r') as file:
     reader = yaml.load(file)
     reader = reader['conversations']
 
@@ -13,7 +13,7 @@ with open('data/yml/humor.yml', 'r') as file:
         first_step.append(line)
 
     ai_dict = {
-        'tags': 'humor',
+        'tags': 'emotion',
         'question': [],
         'answer': []
     };
