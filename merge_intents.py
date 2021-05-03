@@ -10,7 +10,7 @@ files = json_path.glob('*.json')
 for file in files:
     with file.open('r', encoding='utf-8') as f:
         try:
-            data['intents'].extend(json.load(f))
+            data['intents'].append(json.load(f))
 
         except (KeyError, json.JSONDecodeError):
             pass
