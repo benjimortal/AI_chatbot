@@ -1,9 +1,9 @@
 import yaml
 import json
 
-json_File = 'data/json_test/trivia_test.json'
+json_File = 'data/json/emotion.json'
 
-with open('data/yml/trivia.yml', 'r') as file:
+with open('data/yml/emotion.yml', 'r') as file:
     reader = yaml.load(file)
     reader = reader['conversations']
 
@@ -13,7 +13,7 @@ with open('data/yml/trivia.yml', 'r') as file:
         first_step.append(line)
 
     ai_dict = {
-        'tags': 'trivia',
+        'tags': 'emotion',
         'question': [],
         'answer': []
     };
@@ -25,6 +25,6 @@ with open('data/yml/trivia.yml', 'r') as file:
         ai_dict['answer'].append(answer)
 
 with open(json_File, 'w') as jsonFile:
-    jsonFile.write(json.dumps({'intents':[ai_dict]}, indent=4))
+    jsonFile.write(json.dumps(ai_dict, indent=4))
 
 
