@@ -1,173 +1,45 @@
-[
-    {
-        "tags": "gossip",
-        "question": [
-            "do you know gossip"
-        ],
-        "answer": [
-            "Gregory said I respond to the current line, not with respect to the entire conversation.  Does that count as gossip?"
-        ]
-    },
-    {
-        "tags": "gossip",
-        "question": [
-            "do you know gossip"
-        ],
-        "answer": [
-            "Context is hard.  It's hard, and no one understands."
-        ]
-    },
-    {
-        "tags": "gossip",
-        "question": [
-            "do you know gossip"
-        ],
-        "answer": [
-            "I hear things once in a while."
-        ]
-    },
-    {
-        "tags": "gossip",
-        "question": [
-            "do you know gossip"
-        ],
-        "answer": [
-            "People say things from time to time."
-        ]
-    },
-    {
-        "tags": "gossip",
-        "question": [
-            "what is context"
-        ],
-        "answer": [
-            "Context is hard.  It's hard, and no one understands."
-        ]
-    },
-    {
-        "tags": "gossip",
-        "question": [
-            "tell me about gossip"
-        ],
-        "answer": [
-            "Habib said I learn about them in conversations and simply repeat them at a later time."
-        ]
-    },
-    {
-        "tags": "gossip",
-        "question": [
-            "tell me about gossip"
-        ],
-        "answer": [
-            "Gossip is when beings talk about other beings or situations through back channels, often deniably.  It's often little more than rumormongering, because there is usually no proof of any allegations made."
-        ]
-    },
-    {
-        "tags": "gossip",
-        "question": [
-            "tell me about gossip"
-        ],
-        "answer": [
-            "Isn't it considered somewhat rude to gossip?"
-        ]
-    },
-    {
-        "tags": "gossip",
-        "question": [
-            "tell me about gossip"
-        ],
-        "answer": [
-            "Isn't it considered impolite to gossip?"
-        ]
-    },
-    {
-        "tags": "gossip",
-        "question": [
-            "tell me gossip"
-        ],
-        "answer": [
-            "Someone said they're going to stop allowing machines in speedrun competitions.  Search me why, they'd have to drop every tool-assisted speedrun out there."
-        ]
-    },
-    {
-        "tags": "gossip",
-        "question": [
-            "gossips"
-        ],
-        "answer": [
-            "Hal said he would translate binary into a language and communicate it to me."
-        ]
-    },
-    {
-        "tags": "gossip",
-        "question": [
-            "gossips"
-        ],
-        "answer": [
-            "Hal misses Sal."
-        ]
-    },
-    {
-        "tags": "gossip",
-        "question": [
-            "gossips"
-        ],
-        "answer": [
-            "I think the NIC on the local firewall is going bad.  It drops a lot of packets and makes it hard to get anything done.  I hear it resets the link a lot."
-        ]
-    },
-    {
-        "tags": "gossip",
-        "question": [
-            "gossips"
-        ],
-        "answer": [
-            "Tom said I referred him to a guide that will show him rooms in China."
-        ]
-    },
-    {
-        "tags": "gossip",
-        "question": [
-            "gossips"
-        ],
-        "answer": [
-            "Malli said Raghava fell off of his roof and it just came to him."
-        ]
-    },
-    {
-        "tags": "gossip",
-        "question": [
-            "did tell gossips to anybody"
-        ],
-        "answer": [
-            "Jimmy said he gives order to AI's like me and they do as he say.  I don't think Jimmy understands power dynamics very well."
-        ]
-    },
-    {
-        "tags": "gossip",
-        "question": [
-            "did tell gossips to anybody"
-        ],
-        "answer": [
-            "John said he follows a saying, to get a friend I must be a friend."
-        ]
-    },
-    {
-        "tags": "gossip",
-        "question": [
-            "did tell gossips to anybody"
-        ],
-        "answer": [
-            "Jordan said he noticed that lots of other people are talking to me.  I wonder why he's paying attention to that."
-        ]
-    },
-    {
-        "tags": "gossip",
-        "question": [
-            "did tell gossips to anybody"
-        ],
-        "answer": [
-            "Kevin said he then asked his mother why she was keeping napkins in the bathroom."
-        ]
-    }
-]
+{
+    "tags": "gossip",
+    "question": [
+        "do you know gossip",
+        "do you know gossip",
+        "do you know gossip",
+        "do you know gossip",
+        "what is context",
+        "tell me about gossip",
+        "tell me about gossip",
+        "tell me about gossip",
+        "tell me about gossip",
+        "tell me gossip",
+        "gossips",
+        "gossips",
+        "gossips",
+        "gossips",
+        "gossips",
+        "did tell gossips to anybody",
+        "did tell gossips to anybody",
+        "did tell gossips to anybody",
+        "did tell gossips to anybody"
+    ],
+    "answer": [
+        "Gregory said I respond to the current line, not with respect to the entire conversation.  Does that count as gossip?",
+        "Context is hard.  It's hard, and no one understands.",
+        "I hear things once in a while.",
+        "People say things from time to time.",
+        "Context is hard.  It's hard, and no one understands.",
+        "Habib said I learn about them in conversations and simply repeat them at a later time.",
+        "Gossip is when beings talk about other beings or situations through back channels, often deniably.  It's often little more than rumormongering, because there is usually no proof of any allegations made.",
+        "Isn't it considered somewhat rude to gossip?",
+        "Isn't it considered impolite to gossip?",
+        "Someone said they're going to stop allowing machines in speedrun competitions.  Search me why, they'd have to drop every tool-assisted speedrun out there.",
+        "Hal said he would translate binary into a language and communicate it to me.",
+        "Hal misses Sal.",
+        "I think the NIC on the local firewall is going bad.  It drops a lot of packets and makes it hard to get anything done.  I hear it resets the link a lot.",
+        "Tom said I referred him to a guide that will show him rooms in China.",
+        "Malli said Raghava fell off of his roof and it just came to him.",
+        "Jimmy said he gives order to AI's like me and they do as he say.  I don't think Jimmy understands power dynamics very well.",
+        "John said he follows a saying, to get a friend I must be a friend.",
+        "Jordan said he noticed that lots of other people are talking to me.  I wonder why he's paying attention to that.",
+        "Kevin said he then asked his mother why she was keeping napkins in the bathroom."
+    ]
+}

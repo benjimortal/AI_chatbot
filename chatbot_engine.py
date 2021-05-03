@@ -16,7 +16,7 @@ classes = []
 docs = []
 letters_to_ignore = ['?', '!', '.', ',']
 
-data_file = open('data/json/data.json').read()
+data_file = open('data/json_test/trivia_test.json').read()
 intents = json.loads(data_file)
 
 for intent in intents['intents']:

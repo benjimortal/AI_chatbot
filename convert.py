@@ -3,7 +3,7 @@ import json
 
 json_File = 'data/json/humor.json'
 
-with open('data/yml/humor.yml','r') as file:
+with open('data/yml/humor.yml', 'r') as file:
     reader = yaml.load(file)
     reader = reader['conversations']
 
@@ -12,19 +12,19 @@ with open('data/yml/humor.yml','r') as file:
     for line in reader:
         first_step.append(line)
 
-
-    QoA = []
+    ai_dict = {
+        'tags': 'humor',
+        'question': [],
+        'answer': []
+    };
 
     for line in first_step:
         question = line[0]
         answer = line[1]
-        QoA.append(
-            {
-                'tags': 'humor',
-                'question': [question],
-                'answer': [answer]
-            }
-        )
+        ai_dict['question'].append(question)
+        ai_dict['answer'].append(answer)
 
 with open(json_File, 'w') as jsonFile:
-    jsonFile.write(json.dumps(QoA, indent=4))
+    jsonFile.write(json.dumps(ai_dict, indent=4))
+
+
