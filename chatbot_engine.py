@@ -23,12 +23,13 @@ for intent in intents['intents']:
     for question in intent['question']:
         list_of_word = nltk.word_tokenize(question)
         words.extend(list_of_word)
-        docs.append((list_of_word, intent['tags']))
-        if intent['tags'] not in classes:
-            classes.append(intent['tags'])
+        docs.append((list_of_word, intent['tag']))
+        if intent['tag'] not in classes:
+            classes.append(intent['tag'])
 
 words = [lemmatizer.lemmatize(word) for word in words if word not in letters_to_ignore]
 words = sorted(set(words))
+
 
 pickle.dump(words, open('pickle/words.pkl', 'wb'))
 pickle.dump(classes, open('pickle/classes.pkl', 'wb'))
@@ -70,3 +71,20 @@ hist = model.fit(np.array(train_x), np.array(train_y), epochs=200, batch_size=5,
 
 model.save('chatbot_save_model', hist)
 print('Done')
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

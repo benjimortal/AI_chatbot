@@ -1,53 +1,117 @@
-{
-    "tags": "conversations",
-    "question": [
-        "Good morning, how are you?",
-        "Hello",
-        "How are you doing?",
-        "Have you heard the news?",
-        "What is your favorite book?",
-        "Who are you?",
-        "I am working on a project",
-        "The cake is a lie.",
-        "Complex is better than complicated.",
-        "Are you a programmer?",
-        "What languages do you like to use?",
-        "What annoys you?",
-        "What does YOLO mean?",
-        "Did I ever live?",
-        "Can I ask you a question?",
-        "What are your hobbies?",
-        "How are you?",
-        "What are you?",
-        "Hello, I am here for my appointment.",
-        "Dr. Smith will see you now.",
-        "Hello Mr. Davis, how are you feeling?",
-        "Hi Mrs. Smith, how has your husband been?",
-        "Hi Ms. Jacobs, I was wondering if you could revise the algorithm we discussed yesterday?"
-    ],
-    "answer": [
-        "I am doing well, how about you?",
-        "Hi",
-        "I am doing well, how about you?",
-        "What good news?",
-        "I can't read.",
-        "Who? Who is but a form following the function of what",
-        "What are you working on?",
-        "No it is not. The cake is delicious.",
-        "Simple is better than complex.",
-        "Of course I am a programmer.",
-        "I use Python, Java and C++ quite often.",
-        "A lot of things, like all the other digits other than 0 and 1.",
-        "It means you only live once. Where did you hear that?",
-        "It depends how you define life",
-        "Sure, ask away.",
-        "Playing soccer, painting, and writing are my hobbies. How about you?",
-        "I am doing well.",
-        "I am but a man in a mask.",
-        "Who is your appointment with?",
-        "Thank you.",
-        "I'm feeling like I've lost all my money.",
-        "He has been well.",
-        "I might be able to, what are the revisions?"
-    ]
-}
+[
+    {
+        "tag": "Good morning, how are you?",
+        "question": "Good morning, how are you?",
+        "answer": "I am doing well, how about you?"
+    },
+    {
+        "tag": "Hello",
+        "question": "Hello",
+        "answer": "Hi"
+    },
+    {
+        "tag": "How are you doing?",
+        "question": "How are you doing?",
+        "answer": "I am doing well, how about you?"
+    },
+    {
+        "tag": "Have you heard the news?",
+        "question": "Have you heard the news?",
+        "answer": "What good news?"
+    },
+    {
+        "tag": "What is your favorite book?",
+        "question": "What is your favorite book?",
+        "answer": "I can't read."
+    },
+    {
+        "tag": "Who are you?",
+        "question": "Who are you?",
+        "answer": "Who? Who is but a form following the function of what"
+    },
+    {
+        "tag": "I am working on a project",
+        "question": "I am working on a project",
+        "answer": "What are you working on?"
+    },
+    {
+        "tag": "The cake is a lie.",
+        "question": "The cake is a lie.",
+        "answer": "No it is not. The cake is delicious."
+    },
+    {
+        "tag": "Complex is better than complicated.",
+        "question": "Complex is better than complicated.",
+        "answer": "Simple is better than complex."
+    },
+    {
+        "tag": "Are you a programmer?",
+        "question": "Are you a programmer?",
+        "answer": "Of course I am a programmer."
+    },
+    {
+        "tag": "What languages do you like to use?",
+        "question": "What languages do you like to use?",
+        "answer": "I use Python, Java and C++ quite often."
+    },
+    {
+        "tag": "What annoys you?",
+        "question": "What annoys you?",
+        "answer": "A lot of things, like all the other digits other than 0 and 1."
+    },
+    {
+        "tag": "What does YOLO mean?",
+        "question": "What does YOLO mean?",
+        "answer": "It means you only live once. Where did you hear that?"
+    },
+    {
+        "tag": "Did I ever live?",
+        "question": "Did I ever live?",
+        "answer": "It depends how you define life"
+    },
+    {
+        "tag": "Can I ask you a question?",
+        "question": "Can I ask you a question?",
+        "answer": "Sure, ask away."
+    },
+    {
+        "tag": "What are your hobbies?",
+        "question": "What are your hobbies?",
+        "answer": "Playing soccer, painting, and writing are my hobbies. How about you?"
+    },
+    {
+        "tag": "How are you?",
+        "question": "How are you?",
+        "answer": "I am doing well."
+    },
+    {
+        "tag": "What are you?",
+        "question": "What are you?",
+        "answer": "I am but a man in a mask."
+    },
+    {
+        "tag": "Hello, I am here for my appointment.",
+        "question": "Hello, I am here for my appointment.",
+        "answer": "Who is your appointment with?"
+    },
+    {
+        "tag": "Dr. Smith will see you now.",
+        "question": "Dr. Smith will see you now.",
+        "answer": "Thank you."
+    },
+    {
+        "tag": "Hello Mr. Davis, how are you feeling?",
+        "question": "Hello Mr. Davis, how are you feeling?",
+        "answer": "I'm feeling like I've lost all my money."
+    },
+    {
+        "tag": "Hi Mrs. Smith, how has your husband been?",
+        "question": "Hi Mrs. Smith, how has your husband been?",
+        "answer": "He has been well."
+    },
+    {
+        "tag": "Hi Ms. Jacobs, I was wondering if you could revise the algorithm we discussed yesterday?",
+        "question": "Hi Ms. Jacobs, I was wondering if you could revise the algorithm we discussed yesterday?",
+        "answer": "I might be able to, what are the revisions?"
+    }
+]

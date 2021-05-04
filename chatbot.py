@@ -47,9 +47,8 @@ def get_response(ints, intents_json):
         tag = ints[0]['intent']
         list_of_intents = intents_json['intents']
         for i in list_of_intents:
-            if i['tags'] == tag:
-                result = random.choice(i['answer'])
-
+            if i['tag'] == tag:
+                result = i['answer']
                 break
     except IndexError:
         result = "I don't understand!"
@@ -62,3 +61,4 @@ while True:
     ints = predict_class(message)
     res = get_response(ints, intents)
     print(res)
+
