@@ -18,3 +18,5 @@ for file in files:
 out_file = json_path.joinpath('data.json')
 with out_file.open('w', encoding='utf-8') as f:
     json.dump(data, f, indent=4)
+
+
