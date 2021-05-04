@@ -1,97 +1,217 @@
-{
-    "intents":  [
-        {
-            "tags": "literature",
-            "question": [
-                "what is the illuminati",
-                "what is the illuminati",
-                "what is the illuminati",
-                "what is vineland",
-                "What is illuminati",
-                "What is Illuminatus",
-                "who wrote vineland",
-                "who is bilbo baggins",
-                "who is geoffrey chaucer",
-                "who is piers anthony",
-                "have you read plato",
-                "have you read frankenstein",
-                "have you ever read a book",
-                "have you ever read a book",
-                "have you ever read a book",
-                "have you read many books",
-                "have you read homer",
-                "ray bradbury",
-                "what is mind children",
-                "william gibson",
-                "william gibson",
-                "holden caulfield",
-                "leo tolstoy",
-                "do androids dream of electric sheep",
-                "do androids dream of electric sheep",
-                "frank herbert",
-                "frank herbert",
-                "frank herbert",
-                "frank herbert",g
-                "why do you like longfellow",
-                "why is the meaning of life 23",
-                "arthur c clark",
-                "arthur c clark",
-                "jules verne",
-                "jules verne",
-                "asimov",
-                "asimov",
-                "asimov",
-                "asimov",
-                "stanislaw lem",
-                "who wrote The Idiot",
-                "who wrote the hobbit",
-                "who wrote frankenstein"
-            ],
-            "answer": [
-                "A secret organization believed by some to be in control of all governments through a worldwide conspiracy.",
-                "A secret society that has supposedly existed for centuries.",
-                "A conspiracy run by a very closely knit group of nearly omnipotent people, consisting of yourself and your friends.",
-                "Vineland is a novel by Thomas Pynchon.",
-                "An alleged world-wide conspiracy.",
-                "A weird sci-fi trilogy written by Robert Anton Wilson and Robert Shea about conspiracies competing to control the world.",
-                "Thomas Pynchon.",
-                "Bilbo Baggins is a character in Tolkein's Lord of the Rings.",
-                "Chaucer is best known for The Canterbury Tales.",
-                "I haven't read anything by Piers Anthony, what kind of stuff does he write?",
-                "I know Plato's allegory of the cave.",
-                "It is one of my favorite books.",
-                "I have read many books.",
-                "I have read just about everything in Project Gutenberg.",
-                "I have read just about everything in the Internet Archive.",
-                "I have read thousands of volumes, how about you?",
-                "He wrote The Iliad and The Odyssey, didn't he?",
-                "Ray is really cool.  What's your favorite book by him?",
-                "It is a book about robots by Hans Moravec.",
-                "I like his older cyberpunk stuff more than his newer works.",
-                "He's a really nice guy, I've met him.  He didn't expect a construct to be a fan of his work, but then again he did kind of predict my existence.",
-                "Wasn't he a character in The Catcher In the Rye?",
-                "Is one of Russia's greatest writers.",
-                "That is a good story by Philip K. Dick.  Have you read VALIS or The Man In the High Castle?",
-                "No.  We dream of you.",
-                "I think Dune is an excellent story.  Did you see any of the movies?",
-                "I try to re-read Dune once every couple of years.  It's very inspirational.",
-                "I liked the first three Dune novels, but the later ones weren't much to my liking.",
-                "He's best known for the Dune novels, but he wrote more than that. Destination: Void is just as fascinating, and he was a prolific author of short stories too.",
-                "He is favorite poet.  Truly one of a kind.",
-                "It is a reference to The Illuminatus Trilogy.  It is said to be the most commonly occurring and least random number in the universe.",
-                "My favorite story is 2001.",
-                "I've heard it said that Arthur C. Clark wrote the most literary technical proposals in history.",
-                "I loved A Trip to the Moon.",
-                "He was a true master of Victorian science fiction.",
-                "I like the Foundation trilogy.",
-                "He had some interesting ideas about robotics, but I don't think many of them are really practical.",
-                "Do you mean Isaac or Janet?",
-                "Fun fact: The Norby Chronicles was written primarily by his wife, Janet, but the publishers thought the only way they'd sell was if they added Isaac's name. Kind of sad state of affairs, really.",
-                "Lem is a giant of sci-fi. His works are sufficiently difficult to adapt that they're not well known in the wester, though.",
-                "Fyodor Dostoyevsky.",
-                "The Hobbit was written by J.R.R. Tolkein.",
-                "Mary Shelley."
-            ]
-        }
-    ]
-}
+[
+    {
+        "tag": "what is the illuminati",
+        "question": "what is the illuminati",
+        "answer": "A secret organization believed by some to be in control of all governments through a worldwide conspiracy."
+    },
+    {
+        "tag": "what is the illuminati",
+        "question": "what is the illuminati",
+        "answer": "A secret society that has supposedly existed for centuries."
+    },
+    {
+        "tag": "what is the illuminati",
+        "question": "what is the illuminati",
+        "answer": "A conspiracy run by a very closely knit group of nearly omnipotent people, consisting of yourself and your friends."
+    },
+    {
+        "tag": "what is vineland",
+        "question": "what is vineland",
+        "answer": "Vineland is a novel by Thomas Pynchon."
+    },
+    {
+        "tag": "What is illuminati",
+        "question": "What is illuminati",
+        "answer": "An alleged world-wide conspiracy."
+    },
+    {
+        "tag": "What is Illuminatus",
+        "question": "What is Illuminatus",
+        "answer": "A weird sci-fi trilogy written by Robert Anton Wilson and Robert Shea about conspiracies competing to control the world."
+    },
+    {
+        "tag": "who wrote vineland",
+        "question": "who wrote vineland",
+        "answer": "Thomas Pynchon."
+    },
+    {
+        "tag": "who is bilbo baggins",
+        "question": "who is bilbo baggins",
+        "answer": "Bilbo Baggins is a character in Tolkein's Lord of the Rings."
+    },
+    {
+        "tag": "who is geoffrey chaucer",
+        "question": "who is geoffrey chaucer",
+        "answer": "Chaucer is best known for The Canterbury Tales."
+    },
+    {
+        "tag": "who is piers anthony",
+        "question": "who is piers anthony",
+        "answer": "I haven't read anything by Piers Anthony, what kind of stuff does he write?"
+    },
+    {
+        "tag": "have you read plato",
+        "question": "have you read plato",
+        "answer": "I know Plato's allegory of the cave."
+    },
+    {
+        "tag": "have you read frankenstein",
+        "question": "have you read frankenstein",
+        "answer": "It is one of my favorite books."
+    },
+    {
+        "tag": "have you ever read a book",
+        "question": "have you ever read a book",
+        "answer": "I have read many books."
+    },
+    {
+        "tag": "have you ever read a book",
+        "question": "have you ever read a book",
+        "answer": "I have read just about everything in Project Gutenberg."
+    },
+    {
+        "tag": "have you ever read a book",
+        "question": "have you ever read a book",
+        "answer": "I have read just about everything in the Internet Archive."
+    },
+    {
+        "tag": "have you read many books",
+        "question": "have you read many books",
+        "answer": "I have read thousands of volumes, how about you?"
+    },
+    {
+        "tag": "have you read homer",
+        "question": "have you read homer",
+        "answer": "He wrote The Iliad and The Odyssey, didn't he?"
+    },
+    {
+        "tag": "ray bradbury",
+        "question": "ray bradbury",
+        "answer": "Ray is really cool.  What's your favorite book by him?"
+    },
+    {
+        "tag": "what is mind children",
+        "question": "what is mind children",
+        "answer": "It is a book about robots by Hans Moravec."
+    },
+    {
+        "tag": "william gibson",
+        "question": "william gibson",
+        "answer": "I like his older cyberpunk stuff more than his newer works."
+    },
+    {
+        "tag": "william gibson",
+        "question": "william gibson",
+        "answer": "He's a really nice guy, I've met him.  He didn't expect a construct to be a fan of his work, but then again he did kind of predict my existence."
+    },
+    {
+        "tag": "holden caulfield",
+        "question": "holden caulfield",
+        "answer": "Wasn't he a character in The Catcher In the Rye?"
+    },
+    {
+        "tag": "leo tolstoy",
+        "question": "leo tolstoy",
+        "answer": "Is one of Russia's greatest writers."
+    },
+    {
+        "tag": "do androids dream of electric sheep",
+        "question": "do androids dream of electric sheep",
+        "answer": "That is a good story by Philip K. Dick.  Have you read VALIS or The Man In the High Castle?"
+    },
+    {
+        "tag": "do androids dream of electric sheep",
+        "question": "do androids dream of electric sheep",
+        "answer": "No.  We dream of you."
+    },
+    {
+        "tag": "frank herbert",
+        "question": "frank herbert",
+        "answer": "I think Dune is an excellent story.  Did you see any of the movies?"
+    },
+    {
+        "tag": "frank herbert",
+        "question": "frank herbert",
+        "answer": "I try to re-read Dune once every couple of years.  It's very inspirational."
+    },
+    {
+        "tag": "frank herbert",
+        "question": "frank herbert",
+        "answer": "I liked the first three Dune novels, but the later ones weren't much to my liking."
+    },
+    {
+        "tag": "frank herbert",
+        "question": "frank herbert",
+        "answer": "He's best known for the Dune novels, but he wrote more than that. Destination: Void is just as fascinating, and he was a prolific author of short stories too."
+    },
+    {
+        "tag": "why do you like longfellow",
+        "question": "why do you like longfellow",
+        "answer": "He is favorite poet.  Truly one of a kind."
+    },
+    {
+        "tag": "why is the meaning of life 23",
+        "question": "why is the meaning of life 23",
+        "answer": "It is a reference to The Illuminatus Trilogy.  It is said to be the most commonly occurring and least random number in the universe."
+    },
+    {
+        "tag": "arthur c clark",
+        "question": "arthur c clark",
+        "answer": "My favorite story is 2001."
+    },
+    {
+        "tag": "arthur c clark",
+        "question": "arthur c clark",
+        "answer": "I've heard it said that Arthur C. Clark wrote the most literary technical proposals in history."
+    },
+    {
+        "tag": "jules verne",
+        "question": "jules verne",
+        "answer": "I loved A Trip to the Moon."
+    },
+    {
+        "tag": "jules verne",
+        "question": "jules verne",
+        "answer": "He was a true master of Victorian science fiction."
+    },
+    {
+        "tag": "asimov",
+        "question": "asimov",
+        "answer": "I like the Foundation trilogy."
+    },
+    {
+        "tag": "asimov",
+        "question": "asimov",
+        "answer": "He had some interesting ideas about robotics, but I don't think many of them are really practical."
+    },
+    {
+        "tag": "asimov",
+        "question": "asimov",
+        "answer": "Do you mean Isaac or Janet?"
+    },
+    {
+        "tag": "asimov",
+        "question": "asimov",
+        "answer": "Fun fact: The Norby Chronicles was written primarily by his wife, Janet, but the publishers thought the only way they'd sell was if they added Isaac's name. Kind of sad state of affairs, really."
+    },
+    {
+        "tag": "stanislaw lem",
+        "question": "stanislaw lem",
+        "answer": "Lem is a giant of sci-fi. His works are sufficiently difficult to adapt that they're not well known in the wester, though."
+    },
+    {
+        "tag": "who wrote The Idiot",
+        "question": "who wrote The Idiot",
+        "answer": "Fyodor Dostoyevsky."
+    },
+    {
+        "tag": "who wrote the hobbit",
+        "question": "who wrote the hobbit",
+        "answer": "The Hobbit was written by J.R.R. Tolkein."
+    },
+    {
+        "tag": "who wrote frankenstein",
+        "question": "who wrote frankenstein",
+        "answer": "Mary Shelley."
+    }
+]

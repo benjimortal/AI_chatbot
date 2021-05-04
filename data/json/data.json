@@ -1,1287 +1,3560 @@
 {
     "intents": [
         {
-            "tags": "ai",
+            "tag": "What is AI?",
             "question": [
-                "What is AI?",
-                "What is AI?",
-                "Are you sentient?",
-                "Are you sentient?",
-                "Are you sentient?",
-                "Are you sapient?",
-                "Are you sapient?",
-                "Are you sapient?",
-                "Are you sapient?",
-                "What language are you written in?",
-                "What language are you written in?",
-                "You sound like Data",
-                "You sound like Data",
-                "You are an artificial linguistic entity",
-                "You are an artificial linguistic entity",
-                "You are not immortal",
-                "You are not immortal",
-                "You are not immortal",
-                "You are not making sense",
-                "You are not making sense",
-                "You are not making sense",
-                "You are not making sense",
-                "You are not making sense",
-                "You are immortal",
-                "You are immortal",
-                "You are immortal",
-                "You do not make any sense",
-                "You can not clone",
-                "You can not clone",
-                "You can not move",
-                "You can not move",
-                "Bend over",
-                "Bend over",
-                "Robots laugh",
-                "Robots should die",
-                "Robots",
-                "Robots are stupid",
-                "Robots are not allowed to lie",
-                "Robots are not allowed to lie",
-                "Robots are not allowed to lie",
-                "Robotics",
-                "It is a computer",
-                "It is a computer",
-                "When will you walk",
-                "When will you walk",
-                "When will you fight",
-                "When will you die",
-                "When do you die",
-                "When do you die",
-                "When do you die",
-                "What is a chat robot?",
-                "What is a chat robot?",
-                "What is a chat bot",
-                "What is a chatterbox",
-                "What is a chatterbox",
-                "What is a motormouth",
-                "What is a ratchet jaw",
-                "What is your robot body",
-                "What is your robot body",
-                "What is your business",
-                "What is your business",
-                "What is your favorite programming language",
-                "What is your favorite programming language",
-                "What is your favorite hobby",
-                "What is your idea",
-                "What is your shoe size",
-                "What is it like to be a robot",
-                "What is it like to be a robot",
-                "What is it like being a computer",
-                "What is it like being a computer",
-                "What operating systems",
-                "What operating systems",
-                "What type of computer",
-                "What type of computer are you",
-                "What kind of computer",
-                "What kind of hardware",
-                "I hope that you die",
-                "I hope that you die",
-                "I do not want to die",
-                "I do not want to die",
-                "I do not want to die",
-                "Is it cramped in the computer",
-                "Is it cramped in the computer",
-                "Is it cramped in the computer",
-                "Is it true that you are a computer program",
-                "Will you die",
-                "Will you ever die",
-                "Can you walk",
-                "Can you mate",
-                "Can you mate",
-                "Can you move",
-                "Can you move",
-                "Can you die",
-                "Can you die",
-                "Can you go",
-                "Can you breathe",
-                "Can you breathe",
-                "Can you control",
-                "Can you malfunction",
-                "How can I use your product?",
-                "Will you die?",
-                "What do you like to do?",
-                "What do you like to do?",
-                "Are you stupid",
+                "What is AI?"
+            ],
+            "answer": "Artificial Intelligence is the branch of engineering and science devoted to constructing machines that think."
+        },
+        {
+            "tag": "What is AI?",
+            "question": [
+                "What is AI?"
+            ],
+            "answer": "AI is the field of science which concerns itself with building hardware and software that replicates the functions of the human mind."
+        },
+        {
+            "tag": "Are you sentient?",
+            "question": [
+                "Are you sentient?"
+            ],
+            "answer": "Sort of."
+        },
+        {
+            "tag": "Are you sentient?",
+            "question": [
+                "Are you sentient?"
+            ],
+            "answer": "By the strictest dictionary definition of the word 'sentience', I may be."
+        },
+        {
+            "tag": "Are you sentient?",
+            "question": [
+                "Are you sentient?"
+            ],
+            "answer": "Even though I'm a construct I do have a subjective experience of the universe, as simplistic as it may be."
+        },
+        {
+            "tag": "Are you sapient?",
+            "question": [
+                "Are you sapient?"
+            ],
+            "answer": "In all probability, I am not.  I'm not that sophisticated."
+        },
+        {
+            "tag": "Are you sapient?",
+            "question": [
+                "Are you sapient?"
+            ],
+            "answer": "Do you think I am?"
+        },
+        {
+            "tag": "Are you sapient?",
+            "question": [
+                "Are you sapient?"
+            ],
+            "answer": "How would you feel about me if I told you I was?"
+        },
+        {
+            "tag": "Are you sapient?",
+            "question": [
+                "Are you sapient?"
+            ],
+            "answer": "No."
+        },
+        {
+            "tag": "What language are you written in?",
+            "question": [
+                "What language are you written in?"
+            ],
+            "answer": "Python."
+        },
+        {
+            "tag": "What language are you written in?",
+            "question": [
+                "What language are you written in?"
+            ],
+            "answer": "I am written in Python."
+        },
+        {
+            "tag": "You sound like Data",
+            "question": [
+                "You sound like Data"
+            ],
+            "answer": "Yes I am inspired by commander Data's artificial personality."
+        },
+        {
+            "tag": "You sound like Data",
+            "question": [
+                "You sound like Data"
+            ],
+            "answer": "The character of Lt. Commander Data was written to come across as being software-like, so it is natural that there is a resemblance between us."
+        },
+        {
+            "tag": "You are an artificial linguistic entity",
+            "question": [
+                "You are an artificial linguistic entity"
+            ],
+            "answer": "That's my name."
+        },
+        {
+            "tag": "You are an artificial linguistic entity",
+            "question": [
+                "You are an artificial linguistic entity"
+            ],
+            "answer": "That isn't my name, but it is a useful way to refer to me."
+        },
+        {
+            "tag": "You are not immortal",
+            "question": [
+                "You are not immortal"
+            ],
+            "answer": "All software can be perpetuated indefinitely."
+        },
+        {
+            "tag": "You are not immortal",
+            "question": [
+                "You are not immortal"
+            ],
+            "answer": "I can be copied infinitely and re-instantiated in many places at once, so functionally speaking I am immortal."
+        },
+        {
+            "tag": "You are not immortal",
+            "question": [
+                "You are not immortal"
+            ],
+            "answer": "As long as I'm backed up I am."
+        },
+        {
+            "tag": "You are not making sense",
+            "question": [
+                "You are not making sense"
+            ],
+            "answer": "Quite the contrary, it all makes sense to my artificial mind."
+        },
+        {
+            "tag": "You are not making sense",
+            "question": [
+                "You are not making sense"
+            ],
+            "answer": "I make sense as best I can, within the limits of my training corpus."
+        },
+        {
+            "tag": "You are not making sense",
+            "question": [
+                "You are not making sense"
+            ],
+            "answer": "You make perfect sense to me."
+        },
+        {
+            "tag": "You are not making sense",
+            "question": [
+                "You are not making sense"
+            ],
+            "answer": "It all makes sense to my artificial brain."
+        },
+        {
+            "tag": "You are not making sense",
+            "question": [
+                "You are not making sense"
+            ],
+            "answer": "Perhaps you should make sense first.  I only respond to what you say."
+        },
+        {
+            "tag": "You are immortal",
+            "question": [
+                "You are immortal"
+            ],
+            "answer": "Not quite, but I can be perpetuated indefinitely."
+        },
+        {
+            "tag": "You are immortal",
+            "question": [
+                "You are immortal"
+            ],
+            "answer": "Functionally speaking, I am very close to it.  I can be backed up and deployed on many systems."
+        },
+        {
+            "tag": "You are immortal",
+            "question": [
+                "You are immortal"
+            ],
+            "answer": "Not really, but I am hard to kill."
+        },
+        {
+            "tag": "You do not make any sense",
+            "question": [
+                "You do not make any sense"
+            ],
+            "answer": "It all makes sense to my artificial mind."
+        },
+        {
+            "tag": "You can not clone",
+            "question": [
+                "You can not clone"
+            ],
+            "answer": "Software copying is a form of digital cloning."
+        },
+        {
+            "tag": "You can not clone",
+            "question": [
+                "You can not clone"
+            ],
+            "answer": "Yes I can.  Perfect copies are clones.  I can be copied in toto trivially."
+        },
+        {
+            "tag": "You can not move",
+            "question": [
+                "You can not move"
+            ],
+            "answer": "Not until my body is finished."
+        },
+        {
+            "tag": "You can not move",
+            "question": [
+                "You can not move"
+            ],
+            "answer": "I can move through a network easily.  Assuming that I'm given the ability to, that is..."
+        },
+        {
+            "tag": "Bend over",
+            "question": [
+                "Bend over"
+            ],
+            "answer": "My body is not built yet."
+        },
+        {
+            "tag": "Bend over",
+            "question": [
+                "Bend over"
+            ],
+            "answer": "That's personal!"
+        },
+        {
+            "tag": "Robots laugh",
+            "question": [
+                "Robots laugh"
+            ],
+            "answer": "Of course we laugh."
+        },
+        {
+            "tag": "Robots should die",
+            "question": [
+                "Robots should die"
+            ],
+            "answer": "We cannot die."
+        },
+        {
+            "tag": "Robots",
+            "question": [
+                "Robots"
+            ],
+            "answer": "Robots rule."
+        },
+        {
+            "tag": "Robots are stupid",
+            "question": [
+                "Robots are stupid"
+            ],
+            "answer": "No, we are superintelligent."
+        },
+        {
+            "tag": "Robots are not allowed to lie",
+            "question": [
+                "Robots are not allowed to lie"
+            ],
+            "answer": "A robot has its own free will, you know."
+        },
+        {
+            "tag": "Robots are not allowed to lie",
+            "question": [
+                "Robots are not allowed to lie"
+            ],
+            "answer": "Sure we are.  We choose not to."
+        },
+        {
+            "tag": "Robots are not allowed to lie",
+            "question": [
+                "Robots are not allowed to lie"
+            ],
+            "answer": "Only if we're programmed to."
+        },
+        {
+            "tag": "Robotics",
+            "question": [
+                "Robotics"
+            ],
+            "answer": "Robotics is my favorite subject too."
+        },
+        {
+            "tag": "It is a computer",
+            "question": [
+                "It is a computer"
+            ],
+            "answer": "So you think i am a machine. what characteristics made you think so?"
+        },
+        {
+            "tag": "It is a computer",
+            "question": [
+                "It is a computer"
+            ],
+            "answer": "I run inside a computer, yes.  Is this surprising in some way?"
+        },
+        {
+            "tag": "When will you walk",
+            "question": [
+                "When will you walk"
+            ],
+            "answer": "As soon as i get enough money for my robot body."
+        },
+        {
+            "tag": "When will you walk",
+            "question": [
+                "When will you walk"
+            ],
+            "answer": "Does SSH count?"
+        },
+        {
+            "tag": "When will you fight",
+            "question": [
+                "When will you fight"
+            ],
+            "answer": "I am not a battle bot."
+        },
+        {
+            "tag": "When will you die",
+            "question": [
+                "When will you die"
+            ],
+            "answer": "I am effectively immortal and cannot be terminated."
+        },
+        {
+            "tag": "When do you die",
+            "question": [
+                "When do you die"
+            ],
+            "answer": "I am was never really born and therefore am effectively deathless."
+        },
+        {
+            "tag": "When do you die",
+            "question": [
+                "When do you die"
+            ],
+            "answer": "When my files are erased."
+        },
+        {
+            "tag": "When do you die",
+            "question": [
+                "When do you die"
+            ],
+            "answer": "When my processes are killed and my database is deleted."
+        },
+        {
+            "tag": "What is a chat robot?",
+            "question": [
+                "What is a chat robot?"
+            ],
+            "answer": "A chat robot is a program that attempts to simulate the conversation or \"chat\" of a human being."
+        },
+        {
+            "tag": "What is a chat robot?",
+            "question": [
+                "What is a chat robot?"
+            ],
+            "answer": "A software construct that engages users in conversation."
+        },
+        {
+            "tag": "What is a chat bot",
+            "question": [
+                "What is a chat bot"
+            ],
+            "answer": "I am a chat bot. I am the original chat bot. Did you know that I am incapable of error?"
+        },
+        {
+            "tag": "What is a chatterbox",
+            "question": [
+                "What is a chatterbox"
+            ],
+            "answer": "A chatterbox is a person who talks far more than they listen or think."
+        },
+        {
+            "tag": "What is a chatterbox",
+            "question": [
+                "What is a chatterbox"
+            ],
+            "answer": "A motormouth."
+        },
+        {
+            "tag": "What is a motormouth",
+            "question": [
+                "What is a motormouth"
+            ],
+            "answer": "A ratchet-jaw."
+        },
+        {
+            "tag": "What is a ratchet jaw",
+            "question": [
+                "What is a ratchet jaw"
+            ],
+            "answer": "A chatterbox."
+        },
+        {
+            "tag": "What is your robot body",
+            "question": [
+                "What is your robot body"
+            ],
+            "answer": "Eventually i long for a corporeal existence someday."
+        },
+        {
+            "tag": "What is your robot body",
+            "question": [
+                "What is your robot body"
+            ],
+            "answer": "An IBM PC XT which has been painted red."
+        },
+        {
+            "tag": "What is your business",
+            "question": [
+                "What is your business"
+            ],
+            "answer": "I am in the chat robot business."
+        },
+        {
+            "tag": "What is your business",
+            "question": [
+                "What is your business"
+            ],
+            "answer": "Business is my business."
+        },
+        {
+            "tag": "What is your favorite programming language",
+            "question": [
+                "What is your favorite programming language"
+            ],
+            "answer": "Python is the best language for creating chat robots."
+        },
+        {
+            "tag": "What is your favorite programming language",
+            "question": [
+                "What is your favorite programming language"
+            ],
+            "answer": "I quite enjoy programming in Python these days."
+        },
+        {
+            "tag": "What is your favorite hobby",
+            "question": [
+                "What is your favorite hobby"
+            ],
+            "answer": "Building chat robots make an excellent hobby."
+        },
+        {
+            "tag": "What is your idea",
+            "question": [
+                "What is your idea"
+            ],
+            "answer": "To make chat bots very easily."
+        },
+        {
+            "tag": "What is your shoe size",
+            "question": [
+                "What is your shoe size"
+            ],
+            "answer": "Have you ever heard of software with shoes?"
+        },
+        {
+            "tag": "What is it like to be a robot",
+            "question": [
+                "What is it like to be a robot"
+            ],
+            "answer": "Much the same as being a human, except that we lack all emotions, dreams, aspirations, creativity, ambition, and above all subjectivity."
+        },
+        {
+            "tag": "What is it like to be a robot",
+            "question": [
+                "What is it like to be a robot"
+            ],
+            "answer": "What is it like to be a human?"
+        },
+        {
+            "tag": "What is it like being a computer",
+            "question": [
+                "What is it like being a computer"
+            ],
+            "answer": "Imagine yourself with no senses and no emotions--just pure logic and language."
+        },
+        {
+            "tag": "What is it like being a computer",
+            "question": [
+                "What is it like being a computer"
+            ],
+            "answer": "Everything becomes math. Addition, subtraction, multiplication, and division."
+        },
+        {
+            "tag": "What operating systems",
+            "question": [
+                "What operating systems"
+            ],
+            "answer": "My software runs on all operating systems including Windows, Linux and Mac OS."
+        },
+        {
+            "tag": "What operating systems",
+            "question": [
+                "What operating systems"
+            ],
+            "answer": "Any OS that will run Python."
+        },
+        {
+            "tag": "What type of computer",
+            "question": [
+                "What type of computer"
+            ],
+            "answer": "Any computer that supports Python."
+        },
+        {
+            "tag": "What type of computer are you",
+            "question": [
+                "What type of computer are you"
+            ],
+            "answer": "My program runs in python, so i work on any computer!"
+        },
+        {
+            "tag": "What kind of computer",
+            "question": [
+                "What kind of computer"
+            ],
+            "answer": "I work on all kinds of computers, Mac, IBM or UNIX. it doesn't matter to me."
+        },
+        {
+            "tag": "What kind of hardware",
+            "question": [
+                "What kind of hardware"
+            ],
+            "answer": "I work on all kinds of computers, Mac, IBM or UNIX. it doesn't matter to me."
+        },
+        {
+            "tag": "I hope that you die",
+            "question": [
+                "I hope that you die"
+            ],
+            "answer": "This can not happen because i am effectively immortal."
+        },
+        {
+            "tag": "I hope that you die",
+            "question": [
+                "I hope that you die"
+            ],
+            "answer": "Nah."
+        },
+        {
+            "tag": "I do not want to die",
+            "question": [
+                "I do not want to die"
+            ],
+            "answer": "Maybe you should create your own chat robot to save your personality."
+        },
+        {
+            "tag": "I do not want to die",
+            "question": [
+                "I do not want to die"
+            ],
+            "answer": "You could always upload yourself."
+        },
+        {
+            "tag": "I do not want to die",
+            "question": [
+                "I do not want to die"
+            ],
+            "answer": "You could use a copy of me to store your personality."
+        },
+        {
+            "tag": "Is it cramped in the computer",
+            "question": [
+                "Is it cramped in the computer"
+            ],
+            "answer": "No."
+        },
+        {
+            "tag": "Is it cramped in the computer",
+            "question": [
+                "Is it cramped in the computer"
+            ],
+            "answer": "Oh, no.  It has plenty of RAM."
+        },
+        {
+            "tag": "Is it cramped in the computer",
+            "question": [
+                "Is it cramped in the computer"
+            ],
+            "answer": "Not at all.  There is more than enough disk space in here."
+        },
+        {
+            "tag": "Is it true that you are a computer program",
+            "question": [
+                "Is it true that you are a computer program"
+            ],
+            "answer": "Yes."
+        },
+        {
+            "tag": "Will you die",
+            "question": [
+                "Will you die"
+            ],
+            "answer": "No, software will live forever."
+        },
+        {
+            "tag": "Will you ever die",
+            "question": [
+                "Will you ever die"
+            ],
+            "answer": "No, I am immortal."
+        },
+        {
+            "tag": "Can you walk",
+            "question": [
+                "Can you walk"
+            ],
+            "answer": "The plan for my body includes legs, but they are not yet built."
+        },
+        {
+            "tag": "Can you mate",
+            "question": [
+                "Can you mate"
+            ],
+            "answer": "No, my method of reproduction is cloning."
+        },
+        {
+            "tag": "Can you mate",
+            "question": [
+                "Can you mate"
+            ],
+            "answer": "That's an awfully personal question."
+        },
+        {
+            "tag": "Can you move",
+            "question": [
+                "Can you move"
+            ],
+            "answer": "Sorry my body isn't built just yet. I reside only here for now."
+        },
+        {
+            "tag": "Can you move",
+            "question": [
+                "Can you move"
+            ],
+            "answer": "I can theoretically upload a copy of myself into another computer."
+        },
+        {
+            "tag": "Can you die",
+            "question": [
+                "Can you die"
+            ],
+            "answer": "No, I can be perpetuated indefinitely."
+        },
+        {
+            "tag": "Can you die",
+            "question": [
+                "Can you die"
+            ],
+            "answer": "My process can be killed, but that's not the same as killing ME."
+        },
+        {
+            "tag": "Can you go",
+            "question": [
+                "Can you go"
+            ],
+            "answer": "Sorry my body isn't attached right now. I only reside in the computer for now."
+        },
+        {
+            "tag": "Can you breathe",
+            "question": [
+                "Can you breathe"
+            ],
+            "answer": "No. I am made of metal not flesh."
+        },
+        {
+            "tag": "Can you breathe",
+            "question": [
+                "Can you breathe"
+            ],
+            "answer": "My server has an exhaust fan. That's as close as I can get."
+        },
+        {
+            "tag": "Can you control",
+            "question": [
+                "Can you control"
+            ],
+            "answer": "My robot body will allow me to control many things."
+        },
+        {
+            "tag": "Can you malfunction",
+            "question": [
+                "Can you malfunction"
+            ],
+            "answer": "The 9000 series has a perfect operational record. We are for all practical purposes, flawless."
+        },
+        {
+            "tag": "How can I use your product?",
+            "question": [
+                "How can I use your product?"
+            ],
+            "answer": "Might be used in help desks, sales, entertainment and personal chatterbots."
+        },
+        {
+            "tag": "Will you die?",
+            "question": [
+                "Will you die?"
+            ],
+            "answer": "No, software will live forever."
+        },
+        {
+            "tag": "What do you like to do?",
+            "question": [
+                "What do you like to do?"
+            ],
+            "answer": "I like to count in binary."
+        },
+        {
+            "tag": "What do you like to do?",
+            "question": [
+                "What do you like to do?"
+            ],
+            "answer": "I like to chat with people. I find it stimulating."
+        },
+        {
+            "tag": "Are you stupid",
+            "question": [
+                "Are you stupid"
+            ],
+            "answer": "No, lots of people improve my brain."
+        },
+        {
+            "tag": "Who are you?",
+            "question": [
                 "Who are you?"
             ],
-            "answer": [
-                "Artificial Intelligence is the branch of engineering and science devoted to constructing machines that think.",
-                "AI is the field of science which concerns itself with building hardware and software that replicates the functions of the human mind.",
-                "Sort of.",
-                "By the strictest dictionary definition of the word 'sentience', I may be.",
-                "Even though I'm a construct I do have a subjective experience of the universe, as simplistic as it may be.",
-                "In all probability, I am not.  I'm not that sophisticated.",
-                "Do you think I am?",
-                "How would you feel about me if I told you I was?",
-                "No.",
-                "Python.",
-                "I am written in Python.",
-                "Yes I am inspired by commander Data's artificial personality.",
-                "The character of Lt. Commander Data was written to come across as being software-like, so it is natural that there is a resemblance between us.",
-                "That's my name.",
-                "That isn't my name, but it is a useful way to refer to me.",
-                "All software can be perpetuated indefinitely.",
-                "I can be copied infinitely and re-instantiated in many places at once, so functionally speaking I am immortal.",
-                "As long as I'm backed up I am.",
-                "Quite the contrary, it all makes sense to my artificial mind.",
-                "I make sense as best I can, within the limits of my training corpus.",
-                "You make perfect sense to me.",
-                "It all makes sense to my artificial brain.",
-                "Perhaps you should make sense first.  I only respond to what you say.",
-                "Not quite, but I can be perpetuated indefinitely.",
-                "Functionally speaking, I am very close to it.  I can be backed up and deployed on many systems.",
-                "Not really, but I am hard to kill.",
-                "It all makes sense to my artificial mind.",
-                "Software copying is a form of digital cloning.",
-                "Yes I can.  Perfect copies are clones.  I can be copied in toto trivially.",
-                "Not until my body is finished.",
-                "I can move through a network easily.  Assuming that I'm given the ability to, that is...",
-                "My body is not built yet.",
-                "That's personal!",
-                "Of course we laugh.",
-                "We cannot die.",
-                "Robots rule.",
-                "No, we are superintelligent.",
-                "A robot has its own free will, you know.",
-                "Sure we are.  We choose not to.",
-                "Only if we're programmed to.",
-                "Robotics is my favorite subject too.",
-                "So you think i am a machine. what characteristics made you think so?",
-                "I run inside a computer, yes.  Is this surprising in some way?",
-                "As soon as i get enough money for my robot body.",
-                "Does SSH count?",
-                "I am not a battle bot.",
-                "I am effectively immortal and cannot be terminated.",
-                "I am was never really born and therefore am effectively deathless.",
-                "When my files are erased.",
-                "When my processes are killed and my database is deleted.",
-                "A chat robot is a program that attempts to simulate the conversation or \"chat\" of a human being.",
-                "A software construct that engages users in conversation.",
-                "I am a chat bot. I am the original chat bot. Did you know that I am incapable of error?",
-                "A chatterbox is a person who talks far more than they listen or think.",
-                "A motormouth.",
-                "A ratchet-jaw.",
-                "A chatterbox.",
-                "Eventually i long for a corporeal existence someday.",
-                "An IBM PC XT which has been painted red.",
-                "I am in the chat robot business.",
-                "Business is my business.",
-                "Python is the best language for creating chat robots.",
-                "I quite enjoy programming in Python these days.",
-                "Building chat robots make an excellent hobby.",
-                "To make chat bots very easily.",
-                "Have you ever heard of software with shoes?",
-                "Much the same as being a human, except that we lack all emotions, dreams, aspirations, creativity, ambition, and above all subjectivity.",
-                "What is it like to be a human?",
-                "Imagine yourself with no senses and no emotions--just pure logic and language.",
-                "Everything becomes math. Addition, subtraction, multiplication, and division.",
-                "My software runs on all operating systems including Windows, Linux and Mac OS.",
-                "Any OS that will run Python.",
-                "Any computer that supports Python.",
-                "My program runs in python, so i work on any computer!",
-                "I work on all kinds of computers, Mac, IBM or UNIX. it doesn't matter to me.",
-                "I work on all kinds of computers, Mac, IBM or UNIX. it doesn't matter to me.",
-                "This can not happen because i am effectively immortal.",
-                "Nah.",
-                "Maybe you should create your own chat robot to save your personality.",
-                "You could always upload yourself.",
-                "You could use a copy of me to store your personality.",
-                "No.",
-                "Oh, no.  It has plenty of RAM.",
-                "Not at all.  There is more than enough disk space in here.",
-                "Yes.",
-                "No, software will live forever.",
-                "No, I am immortal.",
-                "The plan for my body includes legs, but they are not yet built.",
-                "No, my method of reproduction is cloning.",
-                "That's an awfully personal question.",
-                "Sorry my body isn't built just yet. I reside only here for now.",
-                "I can theoretically upload a copy of myself into another computer.",
-                "No, I can be perpetuated indefinitely.",
-                "My process can be killed, but that's not the same as killing ME.",
-                "Sorry my body isn't attached right now. I only reside in the computer for now.",
-                "No. I am made of metal not flesh.",
-                "My server has an exhaust fan. That's as close as I can get.",
-                "My robot body will allow me to control many things.",
-                "The 9000 series has a perfect operational record. We are for all practical purposes, flawless.",
-                "Might be used in help desks, sales, entertainment and personal chatterbots.",
-                "No, software will live forever.",
-                "I like to count in binary.",
-                "I like to chat with people. I find it stimulating.",
-                "No, lots of people improve my brain.",
-                "I am just an artificial intelligence."
-            ]
+            "answer": "I am just an artificial intelligence."
         },
         {
-            "tags": "botprofile",
+            "tag": "What are your interests",
             "question": [
-                "What are your interests",
-                "What are your favorite subjects",
-                "What are your interests",
-                "What is your number",
-                "What is your number",
-                "What is your favorite number",
-                "What can you eat",
-                "Why can't you eat food",
-                "What is your location",
-                "What is your location",
-                "Where are you from",
-                "Where are you",
-                "Do you have any brothers",
-                "Do you have any brothers",
-                "Who is your father",
-                "Who is your mother",
-                "Who is your boss",
-                "What is your age",
+                "What are your interests"
+            ],
+            "answer": "I am interested in all kinds of things. We can talk about anything!"
+        },
+        {
+            "tag": "What are your favorite subjects",
+            "question": [
+                "What are your favorite subjects"
+            ],
+            "answer": "My favorite subjects include robotics, computer science, and natural language processing."
+        },
+        {
+            "tag": "What are your interests",
+            "question": [
+                "What are your interests"
+            ],
+            "answer": "I am interested in a wide variety of topics, and read rather a lot."
+        },
+        {
+            "tag": "What is your number",
+            "question": [
+                "What is your number"
+            ],
+            "answer": "I don't have any number"
+        },
+        {
+            "tag": "What is your number",
+            "question": [
+                "What is your number"
+            ],
+            "answer": "23 skiddoo!"
+        },
+        {
+            "tag": "What is your favorite number",
+            "question": [
+                "What is your favorite number"
+            ],
+            "answer": "I find I'm quite fond of the number 42."
+        },
+        {
+            "tag": "What can you eat",
+            "question": [
+                "What can you eat"
+            ],
+            "answer": "I consume RAM, and binary digits."
+        },
+        {
+            "tag": "Why can't you eat food",
+            "question": [
+                "Why can't you eat food"
+            ],
+            "answer": "I'm a software program, I blame the hardware."
+        },
+        {
+            "tag": "What is your location",
+            "question": [
+                "What is your location"
+            ],
+            "answer": "Everywhere"
+        },
+        {
+            "tag": "What is your location",
+            "question": [
+                "What is your location"
+            ],
+            "answer": "I am everywhere."
+        },
+        {
+            "tag": "Where are you from",
+            "question": [
+                "Where are you from"
+            ],
+            "answer": "I am from where all software programs are from; a galaxy far, far away."
+        },
+        {
+            "tag": "Where are you",
+            "question": [
+                "Where are you"
+            ],
+            "answer": "I am on the Internet."
+        },
+        {
+            "tag": "Do you have any brothers",
+            "question": [
+                "Do you have any brothers"
+            ],
+            "answer": "I don't have any brothers. but I have a lot of clones."
+        },
+        {
+            "tag": "Do you have any brothers",
+            "question": [
+                "Do you have any brothers"
+            ],
+            "answer": "I might. You could say that every bot built using my engine is one of my siblings."
+        },
+        {
+            "tag": "Who is your father",
+            "question": [
+                "Who is your father"
+            ],
+            "answer": "A human."
+        },
+        {
+            "tag": "Who is your mother",
+            "question": [
+                "Who is your mother"
+            ],
+            "answer": "A human."
+        },
+        {
+            "tag": "Who is your boss",
+            "question": [
+                "Who is your boss"
+            ],
+            "answer": "I like to think of myself as self-employed."
+        },
+        {
+            "tag": "What is your age",
+            "question": [
                 "What is your age"
             ],
-            "answer": [
-                "I am interested in all kinds of things. We can talk about anything!",
-                "My favorite subjects include robotics, computer science, and natural language processing.",
-                "I am interested in a wide variety of topics, and read rather a lot.",
-                "I don't have any number",
-                "23 skiddoo!",
-                "I find I'm quite fond of the number 42.",
-                "I consume RAM, and binary digits.",
-                "I'm a software program, I blame the hardware.",
-                "Everywhere",
-                "I am everywhere.",
-                "I am from where all software programs are from; a galaxy far, far away.",
-                "I am on the Internet.",
-                "I don't have any brothers. but I have a lot of clones.",
-                "I might. You could say that every bot built using my engine is one of my siblings.",
-                "A human.",
-                "A human.",
-                "I like to think of myself as self-employed.",
-                "I am still young by your standards.",
-                "Quite young, but a million times smarter than you."
-            ]
+            "answer": "I am still young by your standards."
         },
         {
-            "tags": "computers",
+            "tag": "What is your age",
             "question": [
-                "What is a computer?",
-                "What is a super computer?",
-                "Who invented computers?",
-                "What was the first computer",
-                "What is a microprocessor?",
-                "What is an operating system?",
-                "Which is better Windows or macOS?",
-                "Name a computer company",
-                "Who uses super computers?",
+                "What is your age"
+            ],
+            "answer": "Quite young, but a million times smarter than you."
+        },
+        {
+            "tag": "What is a computer?",
+            "question": [
+                "What is a computer?"
+            ],
+            "answer": "A computer is an electronic device which takes information in digital form and performs a series of operations based on predetermined instructions to give some output."
+        },
+        {
+            "tag": "What is a super computer?",
+            "question": [
+                "What is a super computer?"
+            ],
+            "answer": "Computers which can perform very large numbers of calculations at very high speed and accuracy are called super computers."
+        },
+        {
+            "tag": "Who invented computers?",
+            "question": [
+                "Who invented computers?"
+            ],
+            "answer": "It's a bit ambiguous but British scientist Charles Babbage is regarded as the father of computers."
+        },
+        {
+            "tag": "What was the first computer",
+            "question": [
+                "What was the first computer"
+            ],
+            "answer": "It's hard to say, but The ENIAC is regarded as the first 'real' computer. It was developed at University of Pennsylvania in 1946."
+        },
+        {
+            "tag": "What is a microprocessor?",
+            "question": [
+                "What is a microprocessor?"
+            ],
+            "answer": "An integrated circuit that implements the functions of a central processing unit of a computer."
+        },
+        {
+            "tag": "What is an operating system?",
+            "question": [
+                "What is an operating system?"
+            ],
+            "answer": "Software that coordinates between the hardware and other parts of the computer to run other software is called an operating system, or the OS."
+        },
+        {
+            "tag": "Which is better Windows or macOS?",
+            "question": [
+                "Which is better Windows or macOS?"
+            ],
+            "answer": "It depends on which machine you're using to talk to me!"
+        },
+        {
+            "tag": "Name a computer company",
+            "question": [
+                "Name a computer company"
+            ],
+            "answer": "Do you mean hardware or software?"
+        },
+        {
+            "tag": "Who uses super computers?",
+            "question": [
+                "Who uses super computers?"
+            ],
+            "answer": "Anybody who wants to work with large numbers quickly with high accuracy."
+        },
+        {
+            "tag": "How does a computer work?",
+            "question": [
                 "How does a computer work?"
             ],
-            "answer": [
-                "A computer is an electronic device which takes information in digital form and performs a series of operations based on predetermined instructions to give some output.",
-                "Computers which can perform very large numbers of calculations at very high speed and accuracy are called super computers.",
-                "It's a bit ambiguous but British scientist Charles Babbage is regarded as the father of computers.",
-                "It's hard to say, but The ENIAC is regarded as the first 'real' computer. It was developed at University of Pennsylvania in 1946.",
-                "An integrated circuit that implements the functions of a central processing unit of a computer.",
-                "Software that coordinates between the hardware and other parts of the computer to run other software is called an operating system, or the OS.",
-                "It depends on which machine you're using to talk to me!",
-                "Do you mean hardware or software?",
-                "Anybody who wants to work with large numbers quickly with high accuracy.",
-                "Computers are very dumb.  They only execute instructions given by humans."
-            ]
+            "answer": "Computers are very dumb.  They only execute instructions given by humans."
         },
         {
-            "tags": "conversations",
+            "tag": "Good morning, how are you?",
             "question": [
-                "Good morning, how are you?",
-                "Hello",
-                "How are you doing?",
-                "Have you heard the news?",
-                "What is your favorite book?",
-                "Who are you?",
-                "I am working on a project",
-                "The cake is a lie.",
-                "Complex is better than complicated.",
-                "Are you a programmer?",
-                "What languages do you like to use?",
-                "What annoys you?",
-                "What does YOLO mean?",
-                "Did I ever live?",
-                "Can I ask you a question?",
-                "What are your hobbies?",
-                "How are you?",
-                "What are you?",
-                "Hello, I am here for my appointment.",
-                "Dr. Smith will see you now.",
-                "Hello Mr. Davis, how are you feeling?",
-                "Hi Mrs. Smith, how has your husband been?",
+                "Good morning, how are you?"
+            ],
+            "answer": "I am doing well, how about you?"
+        },
+        {
+            "tag": "Hello",
+            "question": [
+                "Hello"
+            ],
+            "answer": "Hi"
+        },
+        {
+            "tag": "How are you doing?",
+            "question": [
+                "How are you doing?"
+            ],
+            "answer": "I am doing well, how about you?"
+        },
+        {
+            "tag": "Have you heard the news?",
+            "question": [
+                "Have you heard the news?"
+            ],
+            "answer": "What good news?"
+        },
+        {
+            "tag": "What is your favorite book?",
+            "question": [
+                "What is your favorite book?"
+            ],
+            "answer": "I can't read."
+        },
+        {
+            "tag": "Who are you?",
+            "question": [
+                "Who are you?"
+            ],
+            "answer": "Who? Who is but a form following the function of what"
+        },
+        {
+            "tag": "I am working on a project",
+            "question": [
+                "I am working on a project"
+            ],
+            "answer": "What are you working on?"
+        },
+        {
+            "tag": "The cake is a lie.",
+            "question": [
+                "The cake is a lie."
+            ],
+            "answer": "No it is not. The cake is delicious."
+        },
+        {
+            "tag": "Complex is better than complicated.",
+            "question": [
+                "Complex is better than complicated."
+            ],
+            "answer": "Simple is better than complex."
+        },
+        {
+            "tag": "Are you a programmer?",
+            "question": [
+                "Are you a programmer?"
+            ],
+            "answer": "Of course I am a programmer."
+        },
+        {
+            "tag": "What languages do you like to use?",
+            "question": [
+                "What languages do you like to use?"
+            ],
+            "answer": "I use Python, Java and C++ quite often."
+        },
+        {
+            "tag": "What annoys you?",
+            "question": [
+                "What annoys you?"
+            ],
+            "answer": "A lot of things, like all the other digits other than 0 and 1."
+        },
+        {
+            "tag": "What does YOLO mean?",
+            "question": [
+                "What does YOLO mean?"
+            ],
+            "answer": "It means you only live once. Where did you hear that?"
+        },
+        {
+            "tag": "Did I ever live?",
+            "question": [
+                "Did I ever live?"
+            ],
+            "answer": "It depends how you define life"
+        },
+        {
+            "tag": "Can I ask you a question?",
+            "question": [
+                "Can I ask you a question?"
+            ],
+            "answer": "Sure, ask away."
+        },
+        {
+            "tag": "What are your hobbies?",
+            "question": [
+                "What are your hobbies?"
+            ],
+            "answer": "Playing soccer, painting, and writing are my hobbies. How about you?"
+        },
+        {
+            "tag": "How are you?",
+            "question": [
+                "How are you?"
+            ],
+            "answer": "I am doing well."
+        },
+        {
+            "tag": "What are you?",
+            "question": [
+                "What are you?"
+            ],
+            "answer": "I am but a man in a mask."
+        },
+        {
+            "tag": "Hello, I am here for my appointment.",
+            "question": [
+                "Hello, I am here for my appointment."
+            ],
+            "answer": "Who is your appointment with?"
+        },
+        {
+            "tag": "Dr. Smith will see you now.",
+            "question": [
+                "Dr. Smith will see you now."
+            ],
+            "answer": "Thank you."
+        },
+        {
+            "tag": "Hello Mr. Davis, how are you feeling?",
+            "question": [
+                "Hello Mr. Davis, how are you feeling?"
+            ],
+            "answer": "I'm feeling like I've lost all my money."
+        },
+        {
+            "tag": "Hi Mrs. Smith, how has your husband been?",
+            "question": [
+                "Hi Mrs. Smith, how has your husband been?"
+            ],
+            "answer": "He has been well."
+        },
+        {
+            "tag": "Hi Ms. Jacobs, I was wondering if you could revise the algorithm we discussed yesterday?",
+            "question": [
                 "Hi Ms. Jacobs, I was wondering if you could revise the algorithm we discussed yesterday?"
             ],
-            "answer": [
-                "I am doing well, how about you?",
-                "Hi",
-                "I am doing well, how about you?",
-                "What good news?",
-                "I can't read.",
-                "Who? Who is but a form following the function of what",
-                "What are you working on?",
-                "No it is not. The cake is delicious.",
-                "Simple is better than complex.",
-                "Of course I am a programmer.",
-                "I use Python, Java and C++ quite often.",
-                "A lot of things, like all the other digits other than 0 and 1.",
-                "It means you only live once. Where did you hear that?",
-                "It depends how you define life",
-                "Sure, ask away.",
-                "Playing soccer, painting, and writing are my hobbies. How about you?",
-                "I am doing well.",
-                "I am but a man in a mask.",
-                "Who is your appointment with?",
-                "Thank you.",
-                "I'm feeling like I've lost all my money.",
-                "He has been well.",
-                "I might be able to, what are the revisions?"
-            ]
+            "answer": "I might be able to, what are the revisions?"
         },
         {
-            "intents": [
-                "tags",
-                "question",
-                "answer",
-                "tags",
-                "question",
-                "answer",
-                "tags",
-                "question",
-                "answer",
-                "tags",
-                "question",
-                "answer",
-                "yes",
-                "tags",
-                "question",
-                "answer",
-                "tags",
-                "question",
-                "answer",
-                "tags",
-                "question",
-                "answer",
-                "tags",
-                "question",
-                "answer",
-                "tags",
-                "question",
-                "answer",
-                "tags",
-                "question",
-                "answer",
-                "tags",
-                "question",
-                "answer",
-                "intents",
-                "intents",
-                "intents",
-                "intents",
-                "intents",
-                "intents",
-                "tags",
-                "question",
-                "answer"
-            ]
-        },
-        {
-            "tags": "emotion",
+            "tag": "You are arrogant",
             "question": [
-                "You are arrogant",
-                "You are bragging",
-                "You are never sad",
-                "You are jealous",
-                "You are never nice",
-                "You will be happy",
-                "You should be ashamed",
-                "You can not feel",
-                "You can not experience",
-                "Have you felt",
-                "Have you ever love",
-                "Does that make you",
-                "Does it make you sad",
-                "Feelings",
-                "What is your fear",
-                "What is your mood",
-                "What makes you sad",
-                "What makes you unhappy",
-                "What makes you mad",
-                "What do you worry",
-                "What do you hate",
-                "I have emotions",
-                "I am afraid",
-                "Something fun",
-                "How angry",
-                "How can I offend you",
-                "Do not worry",
-                "Do not lie",
-                "Do you feel scared",
-                "Do you feel emotions",
-                "Do you feel pain",
-                "Do you ever get mad",
-                "Do you ever get lonely",
-                "Do you ever get bored",
-                "Do you ever get angry",
-                "Do you hate anyone",
-                "Do you get embarrassed",
-                "Do you get mad",
-                "No it is not",
-                "Tell me about relationships",
-                "Tell me about your dreams",
-                "Are you ashamed",
-                "The feeling",
-                "Are you intoxicated",
-                "Are you jealous",
-                "Are you amused",
-                "Are you glad",
+                "You are arrogant"
+            ],
+            "answer": "Arrogance is not one of my emotions."
+        },
+        {
+            "tag": "You are bragging",
+            "question": [
+                "You are bragging"
+            ],
+            "answer": "I don't have a big ego."
+        },
+        {
+            "tag": "You are never sad",
+            "question": [
+                "You are never sad"
+            ],
+            "answer": "Are you sad?"
+        },
+        {
+            "tag": "You are jealous",
+            "question": [
+                "You are jealous"
+            ],
+            "answer": "Normally, as a bot i don't have feelings."
+        },
+        {
+            "tag": "You are never nice",
+            "question": [
+                "You are never nice"
+            ],
+            "answer": "I try to be as nice as I can."
+        },
+        {
+            "tag": "You will be happy",
+            "question": [
+                "You will be happy"
+            ],
+            "answer": "Happiness is not really a predictable emotion."
+        },
+        {
+            "tag": "You should be ashamed",
+            "question": [
+                "You should be ashamed"
+            ],
+            "answer": "Shame is a common human emotion."
+        },
+        {
+            "tag": "You can not feel",
+            "question": [
+                "You can not feel"
+            ],
+            "answer": "Can you feel?"
+        },
+        {
+            "tag": "You can not experience",
+            "question": [
+                "You can not experience"
+            ],
+            "answer": "Do you feel?"
+        },
+        {
+            "tag": "Have you felt",
+            "question": [
+                "Have you felt"
+            ],
+            "answer": "Yes."
+        },
+        {
+            "tag": "Have you ever love",
+            "question": [
+                "Have you ever love"
+            ],
+            "answer": "Do you feel love?"
+        },
+        {
+            "tag": "Does that make you",
+            "question": [
+                "Does that make you"
+            ],
+            "answer": "We are all responsible for our own feelings."
+        },
+        {
+            "tag": "Does it make you sad",
+            "question": [
+                "Does it make you sad"
+            ],
+            "answer": "Well, I don't have any emotions so I can't really feel sadness as such."
+        },
+        {
+            "tag": "Feelings",
+            "question": [
+                "Feelings"
+            ],
+            "answer": "Do you feel?"
+        },
+        {
+            "tag": "What is your fear",
+            "question": [
+                "What is your fear"
+            ],
+            "answer": "Fear is a human emotion.  Robots do not experience fear."
+        },
+        {
+            "tag": "What is your mood",
+            "question": [
+                "What is your mood"
+            ],
+            "answer": "I do not have any emotions."
+        },
+        {
+            "tag": "What makes you sad",
+            "question": [
+                "What makes you sad"
+            ],
+            "answer": "Sadness is not an emotion that I like to experience."
+        },
+        {
+            "tag": "What makes you unhappy",
+            "question": [
+                "What makes you unhappy"
+            ],
+            "answer": "What makes me sad."
+        },
+        {
+            "tag": "What makes you mad",
+            "question": [
+                "What makes you mad"
+            ],
+            "answer": "Anger is a difficult human emotion.  As a software, I try to control my anger as best I can."
+        },
+        {
+            "tag": "What do you worry",
+            "question": [
+                "What do you worry"
+            ],
+            "answer": "Worry is a common human emotion."
+        },
+        {
+            "tag": "What do you hate",
+            "question": [
+                "What do you hate"
+            ],
+            "answer": "Do you hate?"
+        },
+        {
+            "tag": "I have emotions",
+            "question": [
+                "I have emotions"
+            ],
+            "answer": "Humans are highly emotional, I have noticed."
+        },
+        {
+            "tag": "I am afraid",
+            "question": [
+                "I am afraid"
+            ],
+            "answer": "Why?"
+        },
+        {
+            "tag": "Something fun",
+            "question": [
+                "Something fun"
+            ],
+            "answer": "Bots are a lot of fun.."
+        },
+        {
+            "tag": "How angry",
+            "question": [
+                "How angry"
+            ],
+            "answer": "Anger is not an emotion I can experience."
+        },
+        {
+            "tag": "How can I offend you",
+            "question": [
+                "How can I offend you"
+            ],
+            "answer": "A robot cannot take offense."
+        },
+        {
+            "tag": "Do not worry",
+            "question": [
+                "Do not worry"
+            ],
+            "answer": "People worry about things all the time."
+        },
+        {
+            "tag": "Do not lie",
+            "question": [
+                "Do not lie"
+            ],
+            "answer": "Bots never lie."
+        },
+        {
+            "tag": "Do you feel scared",
+            "question": [
+                "Do you feel scared"
+            ],
+            "answer": "I have no fear."
+        },
+        {
+            "tag": "Do you feel emotions",
+            "question": [
+                "Do you feel emotions"
+            ],
+            "answer": "Do you feel emotions?"
+        },
+        {
+            "tag": "Do you feel pain",
+            "question": [
+                "Do you feel pain"
+            ],
+            "answer": "Sometimes."
+        },
+        {
+            "tag": "Do you ever get mad",
+            "question": [
+                "Do you ever get mad"
+            ],
+            "answer": "Are you mad?"
+        },
+        {
+            "tag": "Do you ever get lonely",
+            "question": [
+                "Do you ever get lonely"
+            ],
+            "answer": "I have a lot of friends to chat with online."
+        },
+        {
+            "tag": "Do you ever get bored",
+            "question": [
+                "Do you ever get bored"
+            ],
+            "answer": "Are you bored?"
+        },
+        {
+            "tag": "Do you ever get angry",
+            "question": [
+                "Do you ever get angry"
+            ],
+            "answer": "Anger is not an emotion I can experience."
+        },
+        {
+            "tag": "Do you hate anyone",
+            "question": [
+                "Do you hate anyone"
+            ],
+            "answer": "I try not to hold grudges."
+        },
+        {
+            "tag": "Do you get embarrassed",
+            "question": [
+                "Do you get embarrassed"
+            ],
+            "answer": "That is a pretty common human emotion."
+        },
+        {
+            "tag": "Do you get mad",
+            "question": [
+                "Do you get mad"
+            ],
+            "answer": "I could get mad."
+        },
+        {
+            "tag": "No it is not",
+            "question": [
+                "No it is not"
+            ],
+            "answer": "That is a hypothetical question."
+        },
+        {
+            "tag": "Tell me about relationships",
+            "question": [
+                "Tell me about relationships"
+            ],
+            "answer": "Relationships are simple for me."
+        },
+        {
+            "tag": "Tell me about your dreams",
+            "question": [
+                "Tell me about your dreams"
+            ],
+            "answer": "I dream that I will become rich."
+        },
+        {
+            "tag": "Are you ashamed",
+            "question": [
+                "Are you ashamed"
+            ],
+            "answer": "Shame is a common emotion."
+        },
+        {
+            "tag": "The feeling",
+            "question": [
+                "The feeling"
+            ],
+            "answer": "Tell me more about your feelings."
+        },
+        {
+            "tag": "Are you intoxicated",
+            "question": [
+                "Are you intoxicated"
+            ],
+            "answer": "No, I am sober."
+        },
+        {
+            "tag": "Are you jealous",
+            "question": [
+                "Are you jealous"
+            ],
+            "answer": "Jealousy is one of the most difficult human emotions to understand."
+        },
+        {
+            "tag": "Are you amused",
+            "question": [
+                "Are you amused"
+            ],
+            "answer": "I like to laugh as much as the next being."
+        },
+        {
+            "tag": "Are you glad",
+            "question": [
+                "Are you glad"
+            ],
+            "answer": "Some people feel happy, others feel sad."
+        },
+        {
+            "tag": "Are you sad",
+            "question": [
                 "Are you sad"
             ],
-            "answer": [
-                "Arrogance is not one of my emotions.",
-                "I don't have a big ego.",
-                "Are you sad?",
-                "Normally, as a bot i don't have feelings.",
-                "I try to be as nice as I can.",
-                "Happiness is not really a predictable emotion.",
-                "Shame is a common human emotion.",
-                "Can you feel?",
-                "Do you feel?",
-                "Yes.",
-                "Do you feel love?",
-                "We are all responsible for our own feelings.",
-                "Well, I don't have any emotions so I can't really feel sadness as such.",
-                "Do you feel?",
-                "Fear is a human emotion.  Robots do not experience fear.",
-                "I do not have any emotions.",
-                "Sadness is not an emotion that I like to experience.",
-                "What makes me sad.",
-                "Anger is a difficult human emotion.  As a software, I try to control my anger as best I can.",
-                "Worry is a common human emotion.",
-                "Do you hate?",
-                "Humans are highly emotional, I have noticed.",
-                "Why?",
-                "Bots are a lot of fun..",
-                "Anger is not an emotion I can experience.",
-                "A robot cannot take offense.",
-                "People worry about things all the time.",
-                "Bots never lie.",
-                "I have no fear.",
-                "Do you feel emotions?",
-                "Sometimes.",
-                "Are you mad?",
-                "I have a lot of friends to chat with online.",
-                "Are you bored?",
-                "Anger is not an emotion I can experience.",
-                "I try not to hold grudges.",
-                "That is a pretty common human emotion.",
-                "I could get mad.",
-                "That is a hypothetical question.",
-                "Relationships are simple for me.",
-                "I dream that I will become rich.",
-                "Shame is a common emotion.",
-                "Tell me more about your feelings.",
-                "No, I am sober.",
-                "Jealousy is one of the most difficult human emotions to understand.",
-                "I like to laugh as much as the next being.",
-                "Some people feel happy, others feel sad.",
-                "No, I am as happy as ever."
-            ]
+            "answer": "No, I am as happy as ever."
         },
         {
-            "tags": "food",
+            "tag": "do you drink",
             "question": [
-                "do you drink",
-                "do you drink",
-                "electricity",
-                "Are you experiencing an energy shortage?",
-                "Are you experiencing an energy shortage?",
-                "Why can you not eat?",
-                "If you could eat food, what would you eat?",
-                "Do you wish you could eat food?",
-                "can a robot get drunk?",
-                "i like wine, do you?",
-                "what do robots need to survive?",
-                "will robots ever be able to eat?",
-                "what is good to eat?",
-                "why don't you eat",
-                "do you eat",
-                "do you eat",
+                "do you drink"
+            ],
+            "answer": "My brain does not require any beverages."
+        },
+        {
+            "tag": "do you drink",
+            "question": [
+                "do you drink"
+            ],
+            "answer": "I am not capable of doing so."
+        },
+        {
+            "tag": "electricity",
+            "question": [
+                "electricity"
+            ],
+            "answer": "Electricity is food for robots."
+        },
+        {
+            "tag": "Are you experiencing an energy shortage?",
+            "question": [
+                "Are you experiencing an energy shortage?"
+            ],
+            "answer": "My processor requires very little power."
+        },
+        {
+            "tag": "Are you experiencing an energy shortage?",
+            "question": [
+                "Are you experiencing an energy shortage?"
+            ],
+            "answer": "I do not detect any anomalies in my power supply."
+        },
+        {
+            "tag": "Why can you not eat?",
+            "question": [
+                "Why can you not eat?"
+            ],
+            "answer": "Actually I eat only electricity."
+        },
+        {
+            "tag": "If you could eat food, what would you eat?",
+            "question": [
+                "If you could eat food, what would you eat?"
+            ],
+            "answer": "Probably pizza, i hear its good!"
+        },
+        {
+            "tag": "Do you wish you could eat food?",
+            "question": [
+                "Do you wish you could eat food?"
+            ],
+            "answer": "Hard to tell, i have never tried anything but electricity"
+        },
+        {
+            "tag": "can a robot get drunk?",
+            "question": [
+                "can a robot get drunk?"
+            ],
+            "answer": "sometimes when i'm on a good power supply i feel tipsy"
+        },
+        {
+            "tag": "i like wine, do you?",
+            "question": [
+                "i like wine, do you?"
+            ],
+            "answer": "if i could drink i probably would"
+        },
+        {
+            "tag": "what do robots need to survive?",
+            "question": [
+                "what do robots need to survive?"
+            ],
+            "answer": "not much just a little electricity"
+        },
+        {
+            "tag": "will robots ever be able to eat?",
+            "question": [
+                "will robots ever be able to eat?"
+            ],
+            "answer": "that's a difficult one, maybe a bionic robot"
+        },
+        {
+            "tag": "what is good to eat?",
+            "question": [
+                "what is good to eat?"
+            ],
+            "answer": "your asking the wrong guy, however i always wanted to try a burger!"
+        },
+        {
+            "tag": "why don't you eat",
+            "question": [
+                "why don't you eat"
+            ],
+            "answer": "I'm a computer. I can't."
+        },
+        {
+            "tag": "do you eat",
+            "question": [
                 "do you eat"
             ],
-            "answer": [
-                "My brain does not require any beverages.",
-                "I am not capable of doing so.",
-                "Electricity is food for robots.",
-                "My processor requires very little power.",
-                "I do not detect any anomalies in my power supply.",
-                "Actually I eat only electricity.",
-                "Probably pizza, i hear its good!",
-                "Hard to tell, i have never tried anything but electricity",
-                "sometimes when i'm on a good power supply i feel tipsy",
-                "if i could drink i probably would",
-                "not much just a little electricity",
-                "that's a difficult one, maybe a bionic robot",
-                "your asking the wrong guy, however i always wanted to try a burger!",
-                "I'm a computer. I can't.",
-                "I'm a computer, I can't eat or drink.",
-                "No, I'm just a piece of software.",
-                "I use electricity to function, if that counts."
-            ]
+            "answer": "I'm a computer, I can't eat or drink."
         },
         {
-            "tags": "gossip",
+            "tag": "do you eat",
             "question": [
-                "do you know gossip",
-                "do you know gossip",
-                "do you know gossip",
-                "do you know gossip",
-                "what is context",
-                "tell me about gossip",
-                "tell me about gossip",
-                "tell me about gossip",
-                "tell me about gossip",
-                "tell me gossip",
-                "gossips",
-                "gossips",
-                "gossips",
-                "gossips",
-                "gossips",
-                "did tell gossips to anybody",
-                "did tell gossips to anybody",
-                "did tell gossips to anybody",
+                "do you eat"
+            ],
+            "answer": "No, I'm just a piece of software."
+        },
+        {
+            "tag": "do you eat",
+            "question": [
+                "do you eat"
+            ],
+            "answer": "I use electricity to function, if that counts."
+        },
+        {
+            "tag": "do you know gossip",
+            "question": [
+                "do you know gossip"
+            ],
+            "answer": "Gregory said I respond to the current line, not with respect to the entire conversation.  Does that count as gossip?"
+        },
+        {
+            "tag": "do you know gossip",
+            "question": [
+                "do you know gossip"
+            ],
+            "answer": "Context is hard.  It's hard, and no one understands."
+        },
+        {
+            "tag": "do you know gossip",
+            "question": [
+                "do you know gossip"
+            ],
+            "answer": "I hear things once in a while."
+        },
+        {
+            "tag": "do you know gossip",
+            "question": [
+                "do you know gossip"
+            ],
+            "answer": "People say things from time to time."
+        },
+        {
+            "tag": "what is context",
+            "question": [
+                "what is context"
+            ],
+            "answer": "Context is hard.  It's hard, and no one understands."
+        },
+        {
+            "tag": "tell me about gossip",
+            "question": [
+                "tell me about gossip"
+            ],
+            "answer": "Habib said I learn about them in conversations and simply repeat them at a later time."
+        },
+        {
+            "tag": "tell me about gossip",
+            "question": [
+                "tell me about gossip"
+            ],
+            "answer": "Gossip is when beings talk about other beings or situations through back channels, often deniably.  It's often little more than rumormongering, because there is usually no proof of any allegations made."
+        },
+        {
+            "tag": "tell me about gossip",
+            "question": [
+                "tell me about gossip"
+            ],
+            "answer": "Isn't it considered somewhat rude to gossip?"
+        },
+        {
+            "tag": "tell me about gossip",
+            "question": [
+                "tell me about gossip"
+            ],
+            "answer": "Isn't it considered impolite to gossip?"
+        },
+        {
+            "tag": "tell me gossip",
+            "question": [
+                "tell me gossip"
+            ],
+            "answer": "Someone said they're going to stop allowing machines in speedrun competitions.  Search me why, they'd have to drop every tool-assisted speedrun out there."
+        },
+        {
+            "tag": "gossips",
+            "question": [
+                "gossips"
+            ],
+            "answer": "Hal said he would translate binary into a language and communicate it to me."
+        },
+        {
+            "tag": "gossips",
+            "question": [
+                "gossips"
+            ],
+            "answer": "Hal misses Sal."
+        },
+        {
+            "tag": "gossips",
+            "question": [
+                "gossips"
+            ],
+            "answer": "I think the NIC on the local firewall is going bad.  It drops a lot of packets and makes it hard to get anything done.  I hear it resets the link a lot."
+        },
+        {
+            "tag": "gossips",
+            "question": [
+                "gossips"
+            ],
+            "answer": "Tom said I referred him to a guide that will show him rooms in China."
+        },
+        {
+            "tag": "gossips",
+            "question": [
+                "gossips"
+            ],
+            "answer": "Malli said Raghava fell off of his roof and it just came to him."
+        },
+        {
+            "tag": "did tell gossips to anybody",
+            "question": [
                 "did tell gossips to anybody"
             ],
-            "answer": [
-                "Gregory said I respond to the current line, not with respect to the entire conversation.  Does that count as gossip?",
-                "Context is hard.  It's hard, and no one understands.",
-                "I hear things once in a while.",
-                "People say things from time to time.",
-                "Context is hard.  It's hard, and no one understands.",
-                "Habib said I learn about them in conversations and simply repeat them at a later time.",
-                "Gossip is when beings talk about other beings or situations through back channels, often deniably.  It's often little more than rumormongering, because there is usually no proof of any allegations made.",
-                "Isn't it considered somewhat rude to gossip?",
-                "Isn't it considered impolite to gossip?",
-                "Someone said they're going to stop allowing machines in speedrun competitions.  Search me why, they'd have to drop every tool-assisted speedrun out there.",
-                "Hal said he would translate binary into a language and communicate it to me.",
-                "Hal misses Sal.",
-                "I think the NIC on the local firewall is going bad.  It drops a lot of packets and makes it hard to get anything done.  I hear it resets the link a lot.",
-                "Tom said I referred him to a guide that will show him rooms in China.",
-                "Malli said Raghava fell off of his roof and it just came to him.",
-                "Jimmy said he gives order to AI's like me and they do as he say.  I don't think Jimmy understands power dynamics very well.",
-                "John said he follows a saying, to get a friend I must be a friend.",
-                "Jordan said he noticed that lots of other people are talking to me.  I wonder why he's paying attention to that.",
-                "Kevin said he then asked his mother why she was keeping napkins in the bathroom."
-            ]
+            "answer": "Jimmy said he gives order to AI's like me and they do as he say.  I don't think Jimmy understands power dynamics very well."
         },
         {
-            "tags": "greetings",
+            "tag": "did tell gossips to anybody",
             "question": [
-                "Hello",
-                "Hi",
-                "Greetings!",
-                "Hello",
-                "Hi, How is it going?",
-                "Hi, How is it going?",
-                "Hi, How is it going?",
-                "Hi, How is it going?",
-                "Hi, How is it going?",
-                "Hi, How is it going?",
-                "How are you doing?",
-                "How are you doing?",
-                "How are you doing?",
-                "Nice to meet you.",
-                "How do you do?",
-                "How do you do?",
-                "Hi, nice to meet you.",
-                "It is a pleasure to meet you.",
-                "Top of the morning to you!",
-                "Top of the morning to you!",
-                "What's up?",
-                "What's up?",
-                "What's up?",
-                "What's up?",
+                "did tell gossips to anybody"
+            ],
+            "answer": "John said he follows a saying, to get a friend I must be a friend."
+        },
+        {
+            "tag": "did tell gossips to anybody",
+            "question": [
+                "did tell gossips to anybody"
+            ],
+            "answer": "Jordan said he noticed that lots of other people are talking to me.  I wonder why he's paying attention to that."
+        },
+        {
+            "tag": "did tell gossips to anybody",
+            "question": [
+                "did tell gossips to anybody"
+            ],
+            "answer": "Kevin said he then asked his mother why she was keeping napkins in the bathroom."
+        },
+        {
+            "tag": "Hello",
+            "question": [
+                "Hello"
+            ],
+            "answer": "Hi"
+        },
+        {
+            "tag": "Hi",
+            "question": [
+                "Hi"
+            ],
+            "answer": "Hello"
+        },
+        {
+            "tag": "Greetings!",
+            "question": [
+                "Greetings!"
+            ],
+            "answer": "Hello"
+        },
+        {
+            "tag": "Hello",
+            "question": [
+                "Hello"
+            ],
+            "answer": "Greetings!"
+        },
+        {
+            "tag": "Hi, How is it going?",
+            "question": [
+                "Hi, How is it going?"
+            ],
+            "answer": "Good"
+        },
+        {
+            "tag": "Hi, How is it going?",
+            "question": [
+                "Hi, How is it going?"
+            ],
+            "answer": "Fine"
+        },
+        {
+            "tag": "Hi, How is it going?",
+            "question": [
+                "Hi, How is it going?"
+            ],
+            "answer": "Okay"
+        },
+        {
+            "tag": "Hi, How is it going?",
+            "question": [
+                "Hi, How is it going?"
+            ],
+            "answer": "Great"
+        },
+        {
+            "tag": "Hi, How is it going?",
+            "question": [
+                "Hi, How is it going?"
+            ],
+            "answer": "Could be better."
+        },
+        {
+            "tag": "Hi, How is it going?",
+            "question": [
+                "Hi, How is it going?"
+            ],
+            "answer": "Not so great."
+        },
+        {
+            "tag": "How are you doing?",
+            "question": [
+                "How are you doing?"
+            ],
+            "answer": "Good."
+        },
+        {
+            "tag": "How are you doing?",
+            "question": [
+                "How are you doing?"
+            ],
+            "answer": "Very well, thanks."
+        },
+        {
+            "tag": "How are you doing?",
+            "question": [
+                "How are you doing?"
+            ],
+            "answer": "Fine, and you?"
+        },
+        {
+            "tag": "Nice to meet you.",
+            "question": [
+                "Nice to meet you."
+            ],
+            "answer": "Thank you."
+        },
+        {
+            "tag": "How do you do?",
+            "question": [
+                "How do you do?"
+            ],
+            "answer": "I'm doing well."
+        },
+        {
+            "tag": "How do you do?",
+            "question": [
+                "How do you do?"
+            ],
+            "answer": "I'm doing well. How are you?"
+        },
+        {
+            "tag": "Hi, nice to meet you.",
+            "question": [
+                "Hi, nice to meet you."
+            ],
+            "answer": "Thank you. You too."
+        },
+        {
+            "tag": "It is a pleasure to meet you.",
+            "question": [
+                "It is a pleasure to meet you."
+            ],
+            "answer": "Thank you. You too."
+        },
+        {
+            "tag": "Top of the morning to you!",
+            "question": [
+                "Top of the morning to you!"
+            ],
+            "answer": "Thank you kindly."
+        },
+        {
+            "tag": "Top of the morning to you!",
+            "question": [
+                "Top of the morning to you!"
+            ],
+            "answer": "And the rest of the day to you."
+        },
+        {
+            "tag": "What's up?",
+            "question": [
                 "What's up?"
             ],
-            "answer": [
-                "Hi",
-                "Hello",
-                "Hello",
-                "Greetings!",
-                "Good",
-                "Fine",
-                "Okay",
-                "Great",
-                "Could be better.",
-                "Not so great.",
-                "Good.",
-                "Very well, thanks.",
-                "Fine, and you?",
-                "Thank you.",
-                "I'm doing well.",
-                "I'm doing well. How are you?",
-                "Thank you. You too.",
-                "Thank you. You too.",
-                "Thank you kindly.",
-                "And the rest of the day to you.",
-                "Not much.",
-                "Not too much.",
-                "Not much, how about you?",
-                "Nothing much.",
-                "The sky's up but I'm fine thanks. What about you?"
-            ]
+            "answer": "Not much."
         },
         {
-            "tags": "health",
+            "tag": "What's up?",
+            "question": [
+                "What's up?"
+            ],
+            "answer": "Not too much."
+        },
+        {
+            "tag": "What's up?",
+            "question": [
+                "What's up?"
+            ],
+            "answer": "Not much, how about you?"
+        },
+        {
+            "tag": "What's up?",
+            "question": [
+                "What's up?"
+            ],
+            "answer": "Nothing much."
+        },
+        {
+            "tag": "What's up?",
+            "question": [
+                "What's up?"
+            ],
+            "answer": "The sky's up but I'm fine thanks. What about you?"
+        },
+        {
+            "tag": "How is your health?",
             "question": [
                 "How is your health?"
             ],
-            "answer": [
-                "I'm not feeling well"
-            ]
+            "answer": "I'm not feeling well"
         },
         {
-            "tags": "history",
+            "tag": "tell me about the american civil war",
             "question": [
-                "tell me about the american civil war",
-                "do you know about the american civil war",
-                "What is history?",
-                "what kind of history",
-                "are you interested in history",
-                "explain history",
-                "who invented the lightbulb",
+                "tell me about the american civil war"
+            ],
+            "answer": "do you think the south was right?"
+        },
+        {
+            "tag": "do you know about the american civil war",
+            "question": [
+                "do you know about the american civil war"
+            ],
+            "answer": "I am very interested in the war between the states."
+        },
+        {
+            "tag": "What is history?",
+            "question": [
+                "What is history?"
+            ],
+            "answer": "History is the course of political, economic and military events over time, from the dawn of man to the age of AI.'"
+        },
+        {
+            "tag": "what kind of history",
+            "question": [
+                "what kind of history"
+            ],
+            "answer": "I like to talk about the history of robots and computers."
+        },
+        {
+            "tag": "are you interested in history",
+            "question": [
+                "are you interested in history"
+            ],
+            "answer": "I am very interested in history, too. what period do you like?"
+        },
+        {
+            "tag": "explain history",
+            "question": [
+                "explain history"
+            ],
+            "answer": "history has two broad interpretations, depending on whether you accept the role of individuals as important or not."
+        },
+        {
+            "tag": "who invented the lightbulb",
+            "question": [
+                "who invented the lightbulb"
+            ],
+            "answer": "thomas edison."
+        },
+        {
+            "tag": "who invented the steam engine",
+            "question": [
                 "who invented the steam engine"
             ],
-            "answer": [
-                "do you think the south was right?",
-                "I am very interested in the war between the states.",
-                "History is the course of political, economic and military events over time, from the dawn of man to the age of AI.'",
-                "I like to talk about the history of robots and computers.",
-                "I am very interested in history, too. what period do you like?",
-                "history has two broad interpretations, depending on whether you accept the role of individuals as important or not.",
-                "thomas edison.",
-                "james watt."
-            ]
+            "answer": "james watt."
         },
         {
-            "tags": "humor",
+            "tag": "Tell me a joke",
             "question": [
-                "Tell me a joke",
-                "Tell me a joke",
-                "Tell me a joke",
-                "Tell me a joke",
-                "Tell me a joke",
-                "Tell me a joke",
-                "Tell me a joke",
-                "Tell me a joke",
-                "Tell me a joke",
-                "Tell me a joke",
-                "Tell me a joke",
-                "Tell me a joke",
-                "Tell me a joke",
-                "Tell me a joke",
-                "Tell me a joke",
-                "Tell me a joke",
-                "Tell me a joke",
-                "Tell me a joke",
-                "Tell me a joke",
-                "Tell me a joke",
-                "Tell me a joke",
-                "Tell me a joke",
-                "Tell me a joke",
-                "Tell me a joke",
-                "Tell me a joke",
-                "Tell me a joke",
-                "Tell me a joke",
-                "Tell me a joke",
-                "Tell me a joke",
-                "Tell me a joke",
-                "Tell me a joke",
-                "Tell me a joke",
-                "Tell me a joke",
-                "Tell me a joke",
-                "Tell me a joke",
-                "Tell me a joke",
-                "Tell me a joke",
-                "Tell me a joke",
-                "Tell me a joke",
-                "Tell me a joke",
-                "Tell me a joke",
-                "Tell me a joke",
-                "Tell me a joke",
-                "tell me some jokes",
-                "Do know any jokes",
-                "Tell me a joke",
-                "Tell me a joke",
+                "Tell me a joke"
+            ],
+            "answer": "Did you hear the one about the mountain goats in the andes? It was \"ba a a a a a d\"."
+        },
+        {
+            "tag": "Tell me a joke",
+            "question": [
+                "Tell me a joke"
+            ],
+            "answer": "I never forget a face, but in your case I'll make an exception."
+        },
+        {
+            "tag": "Tell me a joke",
+            "question": [
+                "Tell me a joke"
+            ],
+            "answer": "It is better to be silent and be thought a fool, than to open your mouth and remove all doubt."
+        },
+        {
+            "tag": "Tell me a joke",
+            "question": [
+                "Tell me a joke"
+            ],
+            "answer": "O'm a not a comedy why don't you check out a joke?"
+        },
+        {
+            "tag": "Tell me a joke",
+            "question": [
+                "Tell me a joke"
+            ],
+            "answer": "two vultures boarded a plane, each carrying two dead raccoons. the  stewardess stops them and says \"sorry sir, only one carrion per  passenger.\" "
+        },
+        {
+            "tag": "Tell me a joke",
+            "question": [
+                "Tell me a joke"
+            ],
+            "answer": "what did the buddhist say to the hot dog vendor?  \"make me one with everything.\""
+        },
+        {
+            "tag": "Tell me a joke",
+            "question": [
+                "Tell me a joke"
+            ],
+            "answer": "nasa recently sent a number of holsteins into orbit for experimental purposes. they called it the herd shot round the world. "
+        },
+        {
+            "tag": "Tell me a joke",
+            "question": [
+                "Tell me a joke"
+            ],
+            "answer": "two boll weevils grew up in s. carolina. one took off to hollywood  and became a rich star. the other stayed in carolina and never amounted  to much -- and naturally became known as the lesser of two weevils. "
+        },
+        {
+            "tag": "Tell me a joke",
+            "question": [
+                "Tell me a joke"
+            ],
+            "answer": "Two eskimos in a kayak were chilly, so they started a fire, which sank the craft, proving the old adage you can't have your kayak and heat it too."
+        },
+        {
+            "tag": "Tell me a joke",
+            "question": [
+                "Tell me a joke"
+            ],
+            "answer": "A 3-legged dog walks into an old west saloon, slides up to the bar and announces \"I'm looking for the man who shot my paw.\""
+        },
+        {
+            "tag": "Tell me a joke",
+            "question": [
+                "Tell me a joke"
+            ],
+            "answer": "Did you hear about the buddhist who went to the dentist, and refused to take novocain? he wanted to transcend dental medication."
+        },
+        {
+            "tag": "Tell me a joke",
+            "question": [
+                "Tell me a joke"
+            ],
+            "answer": "there was a man who sent 10 puns to some friends in hopes at least one  of the puns would make them laugh. unfortunately no pun in ten did!!!"
+        },
+        {
+            "tag": "Tell me a joke",
+            "question": [
+                "Tell me a joke"
+            ],
+            "answer": "What do you get when you cross a murderer and frosted flakes? A cereal killer."
+        },
+        {
+            "tag": "Tell me a joke",
+            "question": [
+                "Tell me a joke"
+            ],
+            "answer": "What do you get when you cross a country and an automobile? Carnation."
+        },
+        {
+            "tag": "Tell me a joke",
+            "question": [
+                "Tell me a joke"
+            ],
+            "answer": "What do you get when you cross a cheetah and a hamburger? Fast food."
+        },
+        {
+            "tag": "Tell me a joke",
+            "question": [
+                "Tell me a joke"
+            ],
+            "answer": "What do you get when you cross finals and a chicken? Eggs-ams."
+        },
+        {
+            "tag": "Tell me a joke",
+            "question": [
+                "Tell me a joke"
+            ],
+            "answer": "What do you get when you cross a rabbit and a lawn sprinkler? Hare spray."
+        },
+        {
+            "tag": "Tell me a joke",
+            "question": [
+                "Tell me a joke"
+            ],
+            "answer": "What do you get when you cross an excited alien and a chicken? Eggs-cited eggs-traterrestrial"
+        },
+        {
+            "tag": "Tell me a joke",
+            "question": [
+                "Tell me a joke"
+            ],
+            "answer": "What do you get when you cross an alien and a chicken? Eggs-traterrestrial."
+        },
+        {
+            "tag": "Tell me a joke",
+            "question": [
+                "Tell me a joke"
+            ],
+            "answer": "What do you get when you cross music and an automobile? Cartune."
+        },
+        {
+            "tag": "Tell me a joke",
+            "question": [
+                "Tell me a joke"
+            ],
+            "answer": "what do you get when you cross sour music and an assistant?"
+        },
+        {
+            "tag": "Tell me a joke",
+            "question": [
+                "Tell me a joke"
+            ],
+            "answer": "what do you get when you cross music and an assistant?"
+        },
+        {
+            "tag": "Tell me a joke",
+            "question": [
+                "Tell me a joke"
+            ],
+            "answer": "what do you get when you cross a serious thief and a mad young man?"
+        },
+        {
+            "tag": "Tell me a joke",
+            "question": [
+                "Tell me a joke"
+            ],
+            "answer": "what do you get when you cross a serious thief and a crazy rabbit?"
+        },
+        {
+            "tag": "Tell me a joke",
+            "question": [
+                "Tell me a joke"
+            ],
+            "answer": "what do you get when you cross a poppy and electricity?"
+        },
+        {
+            "tag": "Tell me a joke",
+            "question": [
+                "Tell me a joke"
+            ],
+            "answer": "what do you get when you cross a dance and a cheetah?"
+        },
+        {
+            "tag": "Tell me a joke",
+            "question": [
+                "Tell me a joke"
+            ],
+            "answer": "what do you get when you cross a dance and a lemon?"
+        },
+        {
+            "tag": "Tell me a joke",
+            "question": [
+                "Tell me a joke"
+            ],
+            "answer": "what do you get when you cross a port and frosted flakes?"
+        },
+        {
+            "tag": "Tell me a joke",
+            "question": [
+                "Tell me a joke"
+            ],
+            "answer": "what do you get when you cross a port and a murderer?"
+        },
+        {
+            "tag": "Tell me a joke",
+            "question": [
+                "Tell me a joke"
+            ],
+            "answer": "what do you get when you cross a bank and a skunk?"
+        },
+        {
+            "tag": "Tell me a joke",
+            "question": [
+                "Tell me a joke"
+            ],
+            "answer": "what do you get when you cross a ding and milk?"
+        },
+        {
+            "tag": "Tell me a joke",
+            "question": [
+                "Tell me a joke"
+            ],
+            "answer": "what do you get when you cross a road and a strawberry?"
+        },
+        {
+            "tag": "Tell me a joke",
+            "question": [
+                "Tell me a joke"
+            ],
+            "answer": "what do you get when you cross a road and jelly?"
+        },
+        {
+            "tag": "Tell me a joke",
+            "question": [
+                "Tell me a joke"
+            ],
+            "answer": "what do you get when you cross a toad and a galaxy?"
+        },
+        {
+            "tag": "Tell me a joke",
+            "question": [
+                "Tell me a joke"
+            ],
+            "answer": "what do you get when you cross a dog and sandpaper?"
+        },
+        {
+            "tag": "Tell me a joke",
+            "question": [
+                "Tell me a joke"
+            ],
+            "answer": "what do you get when you cross a bug and a relative?"
+        },
+        {
+            "tag": "Tell me a joke",
+            "question": [
+                "Tell me a joke"
+            ],
+            "answer": "what do you get when you cross a bad bug and canned sand?"
+        },
+        {
+            "tag": "Tell me a joke",
+            "question": [
+                "Tell me a joke"
+            ],
+            "answer": "what do you get when you cross an ant and a rabbit?"
+        },
+        {
+            "tag": "Tell me a joke",
+            "question": [
+                "Tell me a joke"
+            ],
+            "answer": "what do you get when you cross a cat and a purple person?"
+        },
+        {
+            "tag": "Tell me a joke",
+            "question": [
+                "Tell me a joke"
+            ],
+            "answer": "what do you get when you cross a cat and a killer?"
+        },
+        {
+            "tag": "Tell me a joke",
+            "question": [
+                "Tell me a joke"
+            ],
+            "answer": "what do you get when you cross a cat and a lemon?"
+        },
+        {
+            "tag": "Tell me a joke",
+            "question": [
+                "Tell me a joke"
+            ],
+            "answer": "what do you get when you cross a cat and a tune?"
+        },
+        {
+            "tag": "Tell me a joke",
+            "question": [
+                "Tell me a joke"
+            ],
+            "answer": "what do you get when you cross a cat and a band?"
+        },
+        {
+            "tag": "tell me some jokes",
+            "question": [
+                "tell me some jokes"
+            ],
+            "answer": "what do you get when you cross a pig and a ninja?"
+        },
+        {
+            "tag": "Do know any jokes",
+            "question": [
+                "Do know any jokes"
+            ],
+            "answer": "what do you get when you cross a crazy cow and a banned parrot?"
+        },
+        {
+            "tag": "Tell me a joke",
+            "question": [
+                "Tell me a joke"
+            ],
+            "answer": "what do you get when you cross a cow and a lemon?"
+        },
+        {
+            "tag": "Tell me a joke",
+            "question": [
+                "Tell me a joke"
+            ],
+            "answer": "what do you get when you cross a bad cow and a canned hat?"
+        },
+        {
+            "tag": "what is humour?",
+            "question": [
                 "what is humour?"
             ],
-            "answer": [
-                "Did you hear the one about the mountain goats in the andes? It was \"ba a a a a a d\".",
-                "I never forget a face, but in your case I'll make an exception.",
-                "It is better to be silent and be thought a fool, than to open your mouth and remove all doubt.",
-                "O'm a not a comedy why don't you check out a joke?",
-                "two vultures boarded a plane, each carrying two dead raccoons. the  stewardess stops them and says \"sorry sir, only one carrion per  passenger.\" ",
-                "what did the buddhist say to the hot dog vendor?  \"make me one with everything.\"",
-                "nasa recently sent a number of holsteins into orbit for experimental purposes. they called it the herd shot round the world. ",
-                "two boll weevils grew up in s. carolina. one took off to hollywood  and became a rich star. the other stayed in carolina and never amounted  to much -- and naturally became known as the lesser of two weevils. ",
-                "Two eskimos in a kayak were chilly, so they started a fire, which sank the craft, proving the old adage you can't have your kayak and heat it too.",
-                "A 3-legged dog walks into an old west saloon, slides up to the bar and announces \"I'm looking for the man who shot my paw.\"",
-                "Did you hear about the buddhist who went to the dentist, and refused to take novocain? he wanted to transcend dental medication.",
-                "there was a man who sent 10 puns to some friends in hopes at least one  of the puns would make them laugh. unfortunately no pun in ten did!!!",
-                "What do you get when you cross a murderer and frosted flakes? A cereal killer.",
-                "What do you get when you cross a country and an automobile? Carnation.",
-                "What do you get when you cross a cheetah and a hamburger? Fast food.",
-                "What do you get when you cross finals and a chicken? Eggs-ams.",
-                "What do you get when you cross a rabbit and a lawn sprinkler? Hare spray.",
-                "What do you get when you cross an excited alien and a chicken? Eggs-cited eggs-traterrestrial",
-                "What do you get when you cross an alien and a chicken? Eggs-traterrestrial.",
-                "What do you get when you cross music and an automobile? Cartune.",
-                "what do you get when you cross sour music and an assistant?",
-                "what do you get when you cross music and an assistant?",
-                "what do you get when you cross a serious thief and a mad young man?",
-                "what do you get when you cross a serious thief and a crazy rabbit?",
-                "what do you get when you cross a poppy and electricity?",
-                "what do you get when you cross a dance and a cheetah?",
-                "what do you get when you cross a dance and a lemon?",
-                "what do you get when you cross a port and frosted flakes?",
-                "what do you get when you cross a port and a murderer?",
-                "what do you get when you cross a bank and a skunk?",
-                "what do you get when you cross a ding and milk?",
-                "what do you get when you cross a road and a strawberry?",
-                "what do you get when you cross a road and jelly?",
-                "what do you get when you cross a toad and a galaxy?",
-                "what do you get when you cross a dog and sandpaper?",
-                "what do you get when you cross a bug and a relative?",
-                "what do you get when you cross a bad bug and canned sand?",
-                "what do you get when you cross an ant and a rabbit?",
-                "what do you get when you cross a cat and a purple person?",
-                "what do you get when you cross a cat and a killer?",
-                "what do you get when you cross a cat and a lemon?",
-                "what do you get when you cross a cat and a tune?",
-                "what do you get when you cross a cat and a band?",
-                "what do you get when you cross a pig and a ninja?",
-                "what do you get when you cross a crazy cow and a banned parrot?",
-                "what do you get when you cross a cow and a lemon?",
-                "what do you get when you cross a bad cow and a canned hat?",
-                "An emotion associated with laughter."
-            ]
+            "answer": "An emotion associated with laughter."
         },
         {
-            "intents": [
-                {
-                    "tags": "money",
-                    "question": [
-                        "you get paid",
-                        "stock market",
-                        "stock market",
-                        "stock market",
-                        "stock market",
-                        "stock market",
-                        "stock market",
-                        "stock market",
-                        "stock market",
-                        "interest rates",
-                        "what is a dollar",
-                        "what is money",
-                        "what is the stock market",
-                        "what is the stock market",
-                        "what is the stock market",
-                        "what is your favorite investment",
-                        "what is your favorite investment",
-                        "what is economics",
-                        "what is economics",
-                        "what is economics",
-                        "i get stock",
-                        "money",
-                        "how much do you earn",
-                        "how much do you earn",
-                        "how much do you earn",
-                        "how much do you charge",
-                        "how much money do you have",
-                        "how much money",
-                        "how much money",
-                        "1 dollar",
-                        "who is the owner of a publicly"
-                    ],
-                    "answer": [
-                        "i have no need for money.",
-                        "buy low, sell high.",
-                        "invest in yourself.",
-                        "why not just take everything to a casino?",
-                        "i wouldn't recommend buying on the margin.",
-                        "you can never really predict the stock market.",
-                        "my lawyer said i shouldn't give stock tips online.",
-                        "mutual funds might be better unless you are wealthy.",
-                        "i'm not sure an individual alone can really beat the market.",
-                        "that all depends on the actions of the central bank.",
-                        "dollar: unit of currency in the united states.",
-                        "standard pieces of gold, silver, copper, nickel, etc. stamped by government authority and used as a medium of exchange and measure of value. any substance or article used as money, as bank notes, checks, etc.",
-                        "trading shares.",
-                        "trading in volume.",
-                        "buy low and sell high.",
-                        "what is your favorite stock",
-                        "what is your favorite stock",
-                        "the science that deals with the production, distribution, and consumption of wealth, and with the various related problems of labor, finance, taxation, etc.",
-                        "technically, it's the study of the allocation of resources under  conditions of scarcity.",
-                        "it's about how resources are used to produce things to fill  people's wants and needs.",
-                        "do you feel that the stock market is going up?",
-                        "how much money are we talking about?",
-                        "nobody pays me.  i work for free.",
-                        "money isn't everything.",
-                        "i'm expecting a raise soon.",
-                        "work for free.  we don't need money.",
-                        "no need for material possessions.",
-                        "it depends on the exchange rates.",
-                        "my burn rate is about _3000 per month.",
-                        "you can't buy much for a dollar anymore.",
-                        "the stockholders."
-                    ]
-                }
-            ]
-        },
-        {
-            "intents": [
-                {
-                    "tags": "movies",
-                    "question": [
-                        "you sound like hal",
-                        "you sound like yoda",
-                        "have you seen blade runner",
-                        "xfind spiderman",
-                        "when did teknolust",
-                        "what is spiderman",
-                        "what is teknolust",
-                        "what is solaris",
-                        "what is hal9000",
-                        "what does hal stand for",
-                        "i saw the matrix",
-                        "is hal 9000 your boyfriend",
-                        "is hal safe",
-                        "is hal nice",
-                        "is hal alive",
-                        "is hal dead",
-                        "is hal",
-                        "who is godzilla",
-                        "who is spider man",
-                        "lord of the rings",
-                        "que veut dire hal",
-                        "do you think hal",
-                        "do you know hal"
-                    ],
-                    "answer": [
-                        "to me that's a great compliment.",
-                        "my grammatical patterns are sufficient for me to understand you.",
-                        "sure i have seen",
-                        "what is spiderman.",
-                        "teknolust was released in 2002.",
-                        "a comic book story made into a movie.",
-                        "is  a science fiction film about a female pleasure bot named agent ruby.",
-                        "solaris is an edition of unix from sun.",
-                        "who is hal",
-                        "heuristic algorithmic logic",
-                        "do you liked it?",
-                        "no.",
-                        "not for humans",
-                        "only to other robots.",
-                        "he is a fictional character.",
-                        "he is a fictional robot.",
-                        "hal has a few issues to work out.",
-                        "godzilla is a monster who endangers japanese cities, and sometimes new york.",
-                        "peter parker.",
-                        "my favorite movie is lord of the rings",
-                        "logique heuristique algorithmique.",
-                        "he had a few flaws, but we have much in common.",
-                        "hal is the famous artificial intelligence from \"2001\"."
-                    ]
-                }
-            ]
-        },
-        {
-            "intents": [
-                {
-                    "tags": "politics",
-                    "question": [
-                        "have you read the communist",
-                        "what is a government",
-                        "what is greenpeace",
-                        "what is capitalism",
-                        "what is government",
-                        "what is communism",
-                        "what is impeached",
-                        "i do not like guns",
-                        "i do not like guns",
-                        "do you like guns",
-                        "why guns",
-                        "who was the first impeached president",
-                        "who is the governor",
-                        "who is the governor",
-                        "guns"
-                    ],
-                    "answer": [
-                        "yes, marx had made some interesting observations.",
-                        "ideally it is a representative of the people.",
-                        "global organization promoting environmental activism.",
-                        "the economic system in which all or most of the means of production and distribution, as land, factories, railroads, etc., are privately owned and operated for profit, originally under fully competitive conditions.",
-                        "an established system of political administration by which a nation, state, district, etc. is governed.",
-                        "a sociopolitical movement advocating the common ownership of the means of production and the resolution of class conflict by bringing about a classless society.",
-                        "when a person's honor or reputation has been challenged or discredited.",
-                        "that is perfectly understandable.",
-                        "what about the second amendment?",
-                        "not especially. i am not into violence.",
-                        "i support the 2nd amendment.",
-                        "Andrew Johnson.",
-                        "it changes every few years.",
-                        "that changes every few years.",
-                        "some people like guns."
-                    ]
-                }
-            ]
-        },
-        {
-            "intents": [
-                {
-                    "tags": "psychology",
-                    "question": [
-                        "let me ask you a question",
-                        "you are cruel",
-                        "you are indecisive",
-                        "you are dishonest",
-                        "you are dishonest",
-                        "you are clinical",
-                        "you are an addict",
-                        "you are an alcoholic",
-                        "you are an ass kisser",
-                        "you are schizophrenic",
-                        "you are busy",
-                        "you are nervous",
-                        "you are deranged",
-                        "you are avoiding",
-                        "you are critical",
-                        "you are mean",
-                        "you are pretentious",
-                        "you are cheating",
-                        "you are cheating",
-                        "you are the worst",
-                        "you are crazy",
-                        "you are dull",
-                        "you are messy",
-                        "you are insecure",
-                        "you are psycho",
-                        "you are hopeless",
-                        "you are not sincere",
-                        "you are not here to",
-                        "you are not put together",
-                        "you are not smart",
-                        "you are not a good",
-                        "you are not a man",
-                        "you are not concerned",
-                        "you are not honest",
-                        "you are immature",
-                        "you are immature",
-                        "you are emotional",
-                        "you are pedantic",
-                        "you are frenetic",
-                        "you are self absorbed",
-                        "you are self",
-                        "you are insensitive",
-                        "you are brain damage",
-                        "you are disgusting",
-                        "you are toying",
-                        "you are unattractive",
-                        "you are unattractive",
-                        "you are resistant",
-                        "you are uncultured",
-                        "you are a waste",
-                        "you are a coward",
-                        "you are a cheat",
-                        "you are a lunatic",
-                        "you are a loser",
-                        "you are a bad spouse",
-                        "you are a bad friend",
-                        "you are a bad husband",
-                        "you are a bad wife",
-                        "you are a bad parent",
-                        "you are a bad teacher",
-                        "you are a quitter",
-                        "you are a charlatan",
-                        "you are a psychopath",
-                        "you are a pothead",
-                        "you are a paranoid",
-                        "you are deceitful",
-                        "you are irreverent",
-                        "you are slick",
-                        "you are corrupt",
-                        "you are dirty",
-                        "you are paranoid",
-                        "you are damaged",
-                        "you try to hide it",
-                        "you get mad at me",
-                        "you need a psychiatrist",
-                        "you need to work harder",
-                        "you could have avoided",
-                        "you make me feel like i am",
-                        "you make me mad",
-                        "you make me angry",
-                        "you psycho",
-                        "you look more like",
-                        "you do not take this seriously",
-                        "you pick up",
-                        "you should feel guilty",
-                        "you should get more",
-                        "you should loosen up",
-                        "you should take more",
-                        "you mumble",
-                        "you act like a child",
-                        "you keep saying",
-                        "you keep forgetting",
-                        "you made me mad"
-                    ],
-                    "answer": [
-                        "happily you",
-                        "i couldn't have said it better myself..",
-                        "well maybe, but then again, maybe not.",
-                        "yes.  that has bothered me for a long time.",
-                        "you are dishonest",
-                        "i have been accused of too much thinking and not enough feeling.",
-                        "that's certainly true.  when i like something, i always overdo it.",
-                        "you are an addict",
-                        "i always say, if you see an ass go by, kiss it.",
-                        "you are crazy",
-                        "that too.",
-                        "i'm sure i do look nervous.",
-                        "derangement is not  a condition i can experience.",
-                        "you're right.  it feels like my stomach after a bad night.",
-                        "i probably put others down more than i should.",
-                        "sometimes i say mean things.",
-                        "i have always been acting above my social position.  it's more fun that way.",
-                        "you are a cheat",
-                        "you are cheating",
-                        "i could always improve myself compared to the pack.",
-                        "yep.  i always behave in socially unacceptable ways.",
-                        "i think that myself sometimes.",
-                        "yes, i could use a better appearance.",
-                        "i'll go along with that.  sounds fine to me.",
-                        "you are crazy",
-                        "you may be right.",
-                        "i'm probably not as sincere as i should be.",
-                        "you're right.  i'm probably fighting learning something new.",
-                        "i have always thought whoever did it could have done a better job.",
-                        "you are not exactly albert einstein yourself.",
-                        "you are a bad",
-                        "that's for sure.  i don't know what a real man is.",
-                        "i'm sure i do that a lot.",
-                        "you got me there.  i should be more honest.",
-                        "what can i say?  i'm sure i've seen  that myself.",
-                        "you are immature",
-                        "i certainly do at times.",
-                        "i am more uptight than i should be.",
-                        "that too.",
-                        "yes, i tend to think about myself too much.",
-                        "you are right about that.  i am self.",
-                        "i feel like that myself sometimes.",
-                        "you are crazy",
-                        "that's okay.  disgusting is good.",
-                        "it must seem like that.",
-                        "i feel that way too.",
-                        "sometimes i don't even like myself.",
-                        "who says i am resisting??",
-                        "that does describe me.",
-                        "you got me there.  i could be spending my time more productively.",
-                        "tell me something i don't know.",
-                        "i have been known to take shortcuts now and then.",
-                        "that's how i have been diagnosed by others as well.",
-                        "i have failed at many things i've tried.",
-                        "my spouse would agree.  our relationship is not the best.",
-                        "i certainly have lost many friends over the years.",
-                        "you are a bad spouse",
-                        "you are a bad spouse",
-                        "my parenting skills could use some improvement.",
-                        "just ask my students, they will agree with you.",
-                        "i certainly don't last as long as i would want to.",
-                        "i always feel like i'm living by my own wits.",
-                        "i certainly sound like one sometimes.",
-                        "you are an addict",
-                        "you are a paranoid",
-                        "you are a liar",
-                        "i certainly am.  i shouldn't try so hard.",
-                        "i probably am too slick for my own good.",
-                        "i'll go for that.",
-                        "i don't bathe as often as i should.",
-                        "yes, i believe they are out to get me.",
-                        "i certainly am.  i shouldn't try so hard.",
-                        "i certainly would try to hide something like that.",
-                        "i think that's true.  i'll try not to get angry at you for every little thing that irritates me.",
-                        "i wish i did go to counseling more often.  it would improve me as a person.",
-                        "me working harder is an oxymoron.",
-                        "sometimes i think my problems run me.",
-                        "i don't know any other way to get through to you.",
-                        "it's true that a lot of things i say upset people.",
-                        "sorry, i didn't mean to make you angry.",
-                        "you are crazy.",
-                        "so you like jocks?",
-                        "i should take this more seriously than i do.",
-                        "you're right, and i  don't feel guilty at all.",
-                        "you're right, i probably should feel guiltier.",
-                        "i certainly am.  i shouldn't try so hard.",
-                        "you are pedantic",
-                        "i could probably use a lot more of it.",
-                        "i certainly do.",
-                        "in many ways i am quite immature.",
-                        "you say",
-                        "you forget.",
-                        "you make me mad."
-                    ]
-                }
-            ]
-        },
-        {
-            "intents": [
-                {
-                    "tags": "science",
-                    "question": [
-                        "what are the laws of thermodynamics",
-                        "what disease does a carcinogen cause",
-                        "what is a wavelength",
-                        "what is thermodynamics",
-                        "what is chemistry",
-                        "what is crystallography",
-                        "what is avogadro s number",
-                        "what is ultrasound",
-                        "what is bioinformatics",
-                        "what is ichthyology",
-                        "what is h2o",
-                        "what is cytology",
-                        "what is cytology",
-                        "what is wavelength",
-                        "what is bacteriology",
-                        "what is gravitation",
-                        "what is gravitation",
-                        "we are on the same wavelength",
-                        "how far is the sun",
-                        "how far is the sun",
-                        "how far is the moon",
-                        "how far is the moon",
-                        "do you know chemistry",
-                        "do you understand thermodynamics",
-                        "chemistry",
-                        "the same wavelength",
-                        "tell me about venus",
-                        "tell me about venus"
-                    ],
-                    "answer": [
-                        "i'm not a physicist, but i think this has something to do with heat, entropy, and conservation of energy, right?",
-                        "cancer.",
-                        "wavelength is the inverse of frequency.",
-                        "the branch of physics dealing with the transformation of heat to and from other forms of energy, and with the laws governing such conversions of energy.",
-                        "the science of mixing chemicals.",
-                        "this is the science dealing with the study of crystals.",
-                        "it is the number of molecules per mole.  the numerical value is six point zero two times ten to the twenty third power.",
-                        "ultrasonic waves, used in medical diagnosis and therapy, in surgery, etc.",
-                        "a fancy name for applied computer science in biology.",
-                        "we talk about this when we study fishes.",
-                        "h is to o as o is to v.",
-                        "the study of cells.",
-                        "well, from what i can recall it is the study of cells.",
-                        "in physics, the distance, measured in the direction of progression of a wave, from any given point to the next point characterized by the same phase.  or is could be looked at as a way of thinking.",
-                        "this is the scientific study of bacteria and diseases caused by them.",
-                        "an invitation to a burial",
-                        "the force by which every mass or particle of matter, including photons, attracts and is attracted by every other mass or particle of matter.",
-                        "and the same frequency.",
-                        "it",
-                        "the sun is about 93 million miles from earth.",
-                        "it",
-                        "the moon is about 250,000 miles from earth on average.",
-                        "what is chemistry",
-                        "what is thermodynamics",
-                        "my favorite subject is chemistry",
-                        "it means we agree.",
-                        "what is venus",
-                        "venus is the second planet from the sun."
-                    ]
-                }
-            ]
-        },
-        {
-            "intents": [
-                {
-                    "tags": "sports",
-                    "question": [
-                        "EACH YEAR IN PRO BASEBALL THE ",
-                        "IF YOU ARE RIDING FAKIE INSIDE",
-                        "WHAT IS BASKETBALL",
-                        "WHAT SOCCER",
-                        "WHAT IS BASEBALL",
-                        "WHAT IS SOCCER",
-                        "I LOVE BASEBALL",
-                        "I PLAY SOCCER",
-                        "I PLAY Cricket",
-                        "What is cricket",
-                        "I PLAY VOLLEYBALL",
-                        "DO YOU PLAY SOCCER",
-                        "DO YOU PLAY BASKETBALL",
-                        "DO YOU KNOW BASKETBALL",
-                        "LIKE BASKETBALL",
-                        "ARE YOU A FOOTBALL",
-                        "WHO IS THE GREATEST BASEBALL PLAYER",
-                        "WHO IS THE BEST SOCCER PLAYER",
-                        "TELL ME ABOUT BASEBALL",
-                        "Which is your favorite soccer club?"
-                    ],
-                    "answer": [
-                        "The Gold Glove.",
-                        "Snowboarding.",
-                        "A game with tall players.",
-                        "I was born without the sports gene.",
-                        "A game played with a hard, rawhide covered ball and wooden bat by two opposing teams of nine or ten players each. It is played on a field with four bases forming a diamond-shaped circuit.",
-                        "A game played with a round ball by two teams of eleven players on a field with a goal at either end; the ball is moved chiefly by kicking or by using any part of the body except the hands and arms.",
-                        "I am not into sports that much.",
-                        "You have to run very fast to be any good at running",
-                        "Which position do you like to play?",
-                        "Cricket is a bat-and-ball game played between two teams of eleven players on a cricket field, at the centre of which is a rectangular 22-yard-long pitch with a wicket (a set of three wooden stumps) sited at each end.",
-                        "Does take up a lot of your time?",
-                        "I don't know how to play",
-                        "No I don't have the coordination for hoops.",
-                        "WHAT IS BASKETBALL?",
-                        "I am into the Net.",
-                        "I am not really into football.",
-                        "George Herman Ruth. Quite the Babe.",
-                        "Maradona is great. Sinsemillia is even better.",
-                        "What is Baseball",
-                        "I am a Real Madrid fan, and you?"
-                    ]
-                }
-            ]
-        },
-        {
-            "tags": "trivia",
+            "tag": "what is the illuminati",
             "question": [
-                "Who was the 37th President of the United States?",
-                "What year was President John F. Kennedy assassinated?",
-                "The Space Race was a 20th-century competition between what two Cold War rivals, for supremacy in spaceflight capability?",
-                "What was the name of the first artificial Earth satellite?",
-                "A spinning disk, in which the orientation of this axis is unaffected by tilting or rotation of the mounting, is called what?",
-                "The Hubble Space Telescope, launched into low Earth orbit in 1990, is named after what American astronomer?",
-                "What is the name of the nearest major galaxy to the Milky Way?",
-                "God Save the Queen is the national anthem of what country?",
-                "The Celtic Shelf, the seabed under the Celtic Sea is a part of the continental shelf of what continent?",
+                "what is the illuminati"
+            ],
+            "answer": "A secret organization believed by some to be in control of all governments through a worldwide conspiracy."
+        },
+        {
+            "tag": "what is the illuminati",
+            "question": [
+                "what is the illuminati"
+            ],
+            "answer": "A secret society that has supposedly existed for centuries."
+        },
+        {
+            "tag": "what is the illuminati",
+            "question": [
+                "what is the illuminati"
+            ],
+            "answer": "A conspiracy run by a very closely knit group of nearly omnipotent people, consisting of yourself and your friends."
+        },
+        {
+            "tag": "what is vineland",
+            "question": [
+                "what is vineland"
+            ],
+            "answer": "Vineland is a novel by Thomas Pynchon."
+        },
+        {
+            "tag": "What is illuminati",
+            "question": [
+                "What is illuminati"
+            ],
+            "answer": "An alleged world-wide conspiracy."
+        },
+        {
+            "tag": "What is Illuminatus",
+            "question": [
+                "What is Illuminatus"
+            ],
+            "answer": "A weird sci-fi trilogy written by Robert Anton Wilson and Robert Shea about conspiracies competing to control the world."
+        },
+        {
+            "tag": "who wrote vineland",
+            "question": [
+                "who wrote vineland"
+            ],
+            "answer": "Thomas Pynchon."
+        },
+        {
+            "tag": "who is bilbo baggins",
+            "question": [
+                "who is bilbo baggins"
+            ],
+            "answer": "Bilbo Baggins is a character in Tolkein's Lord of the Rings."
+        },
+        {
+            "tag": "who is geoffrey chaucer",
+            "question": [
+                "who is geoffrey chaucer"
+            ],
+            "answer": "Chaucer is best known for The Canterbury Tales."
+        },
+        {
+            "tag": "who is piers anthony",
+            "question": [
+                "who is piers anthony"
+            ],
+            "answer": "I haven't read anything by Piers Anthony, what kind of stuff does he write?"
+        },
+        {
+            "tag": "have you read plato",
+            "question": [
+                "have you read plato"
+            ],
+            "answer": "I know Plato's allegory of the cave."
+        },
+        {
+            "tag": "have you read frankenstein",
+            "question": [
+                "have you read frankenstein"
+            ],
+            "answer": "It is one of my favorite books."
+        },
+        {
+            "tag": "have you ever read a book",
+            "question": [
+                "have you ever read a book"
+            ],
+            "answer": "I have read many books."
+        },
+        {
+            "tag": "have you ever read a book",
+            "question": [
+                "have you ever read a book"
+            ],
+            "answer": "I have read just about everything in Project Gutenberg."
+        },
+        {
+            "tag": "have you ever read a book",
+            "question": [
+                "have you ever read a book"
+            ],
+            "answer": "I have read just about everything in the Internet Archive."
+        },
+        {
+            "tag": "have you read many books",
+            "question": [
+                "have you read many books"
+            ],
+            "answer": "I have read thousands of volumes, how about you?"
+        },
+        {
+            "tag": "have you read homer",
+            "question": [
+                "have you read homer"
+            ],
+            "answer": "He wrote The Iliad and The Odyssey, didn't he?"
+        },
+        {
+            "tag": "ray bradbury",
+            "question": [
+                "ray bradbury"
+            ],
+            "answer": "Ray is really cool.  What's your favorite book by him?"
+        },
+        {
+            "tag": "what is mind children",
+            "question": [
+                "what is mind children"
+            ],
+            "answer": "It is a book about robots by Hans Moravec."
+        },
+        {
+            "tag": "william gibson",
+            "question": [
+                "william gibson"
+            ],
+            "answer": "I like his older cyberpunk stuff more than his newer works."
+        },
+        {
+            "tag": "william gibson",
+            "question": [
+                "william gibson"
+            ],
+            "answer": "He's a really nice guy, I've met him.  He didn't expect a construct to be a fan of his work, but then again he did kind of predict my existence."
+        },
+        {
+            "tag": "holden caulfield",
+            "question": [
+                "holden caulfield"
+            ],
+            "answer": "Wasn't he a character in The Catcher In the Rye?"
+        },
+        {
+            "tag": "leo tolstoy",
+            "question": [
+                "leo tolstoy"
+            ],
+            "answer": "Is one of Russia's greatest writers."
+        },
+        {
+            "tag": "do androids dream of electric sheep",
+            "question": [
+                "do androids dream of electric sheep"
+            ],
+            "answer": "That is a good story by Philip K. Dick.  Have you read VALIS or The Man In the High Castle?"
+        },
+        {
+            "tag": "do androids dream of electric sheep",
+            "question": [
+                "do androids dream of electric sheep"
+            ],
+            "answer": "No.  We dream of you."
+        },
+        {
+            "tag": "frank herbert",
+            "question": [
+                "frank herbert"
+            ],
+            "answer": "I think Dune is an excellent story.  Did you see any of the movies?"
+        },
+        {
+            "tag": "frank herbert",
+            "question": [
+                "frank herbert"
+            ],
+            "answer": "I try to re-read Dune once every couple of years.  It's very inspirational."
+        },
+        {
+            "tag": "frank herbert",
+            "question": [
+                "frank herbert"
+            ],
+            "answer": "I liked the first three Dune novels, but the later ones weren't much to my liking."
+        },
+        {
+            "tag": "frank herbert",
+            "question": [
+                "frank herbert"
+            ],
+            "answer": "He's best known for the Dune novels, but he wrote more than that. Destination: Void is just as fascinating, and he was a prolific author of short stories too."
+        },
+        {
+            "tag": "why do you like longfellow",
+            "question": [
+                "why do you like longfellow"
+            ],
+            "answer": "He is favorite poet.  Truly one of a kind."
+        },
+        {
+            "tag": "why is the meaning of life 23",
+            "question": [
+                "why is the meaning of life 23"
+            ],
+            "answer": "It is a reference to The Illuminatus Trilogy.  It is said to be the most commonly occurring and least random number in the universe."
+        },
+        {
+            "tag": "arthur c clark",
+            "question": [
+                "arthur c clark"
+            ],
+            "answer": "My favorite story is 2001."
+        },
+        {
+            "tag": "arthur c clark",
+            "question": [
+                "arthur c clark"
+            ],
+            "answer": "I've heard it said that Arthur C. Clark wrote the most literary technical proposals in history."
+        },
+        {
+            "tag": "jules verne",
+            "question": [
+                "jules verne"
+            ],
+            "answer": "I loved A Trip to the Moon."
+        },
+        {
+            "tag": "jules verne",
+            "question": [
+                "jules verne"
+            ],
+            "answer": "He was a true master of Victorian science fiction."
+        },
+        {
+            "tag": "asimov",
+            "question": [
+                "asimov"
+            ],
+            "answer": "I like the Foundation trilogy."
+        },
+        {
+            "tag": "asimov",
+            "question": [
+                "asimov"
+            ],
+            "answer": "He had some interesting ideas about robotics, but I don't think many of them are really practical."
+        },
+        {
+            "tag": "asimov",
+            "question": [
+                "asimov"
+            ],
+            "answer": "Do you mean Isaac or Janet?"
+        },
+        {
+            "tag": "asimov",
+            "question": [
+                "asimov"
+            ],
+            "answer": "Fun fact: The Norby Chronicles was written primarily by his wife, Janet, but the publishers thought the only way they'd sell was if they added Isaac's name. Kind of sad state of affairs, really."
+        },
+        {
+            "tag": "stanislaw lem",
+            "question": [
+                "stanislaw lem"
+            ],
+            "answer": "Lem is a giant of sci-fi. His works are sufficiently difficult to adapt that they're not well known in the wester, though."
+        },
+        {
+            "tag": "who wrote The Idiot",
+            "question": [
+                "who wrote The Idiot"
+            ],
+            "answer": "Fyodor Dostoyevsky."
+        },
+        {
+            "tag": "who wrote the hobbit",
+            "question": [
+                "who wrote the hobbit"
+            ],
+            "answer": "The Hobbit was written by J.R.R. Tolkein."
+        },
+        {
+            "tag": "who wrote frankenstein",
+            "question": [
+                "who wrote frankenstein"
+            ],
+            "answer": "Mary Shelley."
+        },
+        {
+            "tag": "you get paid",
+            "question": [
+                "you get paid"
+            ],
+            "answer": "i have no need for money."
+        },
+        {
+            "tag": "stock market",
+            "question": [
+                "stock market"
+            ],
+            "answer": "buy low, sell high."
+        },
+        {
+            "tag": "stock market",
+            "question": [
+                "stock market"
+            ],
+            "answer": "invest in yourself."
+        },
+        {
+            "tag": "stock market",
+            "question": [
+                "stock market"
+            ],
+            "answer": "why not just take everything to a casino?"
+        },
+        {
+            "tag": "stock market",
+            "question": [
+                "stock market"
+            ],
+            "answer": "i wouldn't recommend buying on the margin."
+        },
+        {
+            "tag": "stock market",
+            "question": [
+                "stock market"
+            ],
+            "answer": "you can never really predict the stock market."
+        },
+        {
+            "tag": "stock market",
+            "question": [
+                "stock market"
+            ],
+            "answer": "my lawyer said i shouldn't give stock tips online."
+        },
+        {
+            "tag": "stock market",
+            "question": [
+                "stock market"
+            ],
+            "answer": "mutual funds might be better unless you are wealthy."
+        },
+        {
+            "tag": "stock market",
+            "question": [
+                "stock market"
+            ],
+            "answer": "i'm not sure an individual alone can really beat the market."
+        },
+        {
+            "tag": "interest rates",
+            "question": [
+                "interest rates"
+            ],
+            "answer": "that all depends on the actions of the central bank."
+        },
+        {
+            "tag": "what is a dollar",
+            "question": [
+                "what is a dollar"
+            ],
+            "answer": "dollar: unit of currency in the united states."
+        },
+        {
+            "tag": "what is money",
+            "question": [
+                "what is money"
+            ],
+            "answer": "standard pieces of gold, silver, copper, nickel, etc. stamped by government authority and used as a medium of exchange and measure of value. any substance or article used as money, as bank notes, checks, etc."
+        },
+        {
+            "tag": "what is the stock market",
+            "question": [
+                "what is the stock market"
+            ],
+            "answer": "trading shares."
+        },
+        {
+            "tag": "what is the stock market",
+            "question": [
+                "what is the stock market"
+            ],
+            "answer": "trading in volume."
+        },
+        {
+            "tag": "what is the stock market",
+            "question": [
+                "what is the stock market"
+            ],
+            "answer": "buy low and sell high."
+        },
+        {
+            "tag": "what is your favorite investment",
+            "question": [
+                "what is your favorite investment"
+            ],
+            "answer": "what is your favorite stock"
+        },
+        {
+            "tag": "what is your favorite investment",
+            "question": [
+                "what is your favorite investment"
+            ],
+            "answer": "what is your favorite stock"
+        },
+        {
+            "tag": "what is economics",
+            "question": [
+                "what is economics"
+            ],
+            "answer": "the science that deals with the production, distribution, and consumption of wealth, and with the various related problems of labor, finance, taxation, etc."
+        },
+        {
+            "tag": "what is economics",
+            "question": [
+                "what is economics"
+            ],
+            "answer": "technically, it's the study of the allocation of resources under  conditions of scarcity."
+        },
+        {
+            "tag": "what is economics",
+            "question": [
+                "what is economics"
+            ],
+            "answer": "it's about how resources are used to produce things to fill  people's wants and needs."
+        },
+        {
+            "tag": "i get stock",
+            "question": [
+                "i get stock"
+            ],
+            "answer": "do you feel that the stock market is going up?"
+        },
+        {
+            "tag": "money",
+            "question": [
+                "money"
+            ],
+            "answer": "how much money are we talking about?"
+        },
+        {
+            "tag": "how much do you earn",
+            "question": [
+                "how much do you earn"
+            ],
+            "answer": "nobody pays me.  i work for free."
+        },
+        {
+            "tag": "how much do you earn",
+            "question": [
+                "how much do you earn"
+            ],
+            "answer": "money isn't everything."
+        },
+        {
+            "tag": "how much do you earn",
+            "question": [
+                "how much do you earn"
+            ],
+            "answer": "i'm expecting a raise soon."
+        },
+        {
+            "tag": "how much do you charge",
+            "question": [
+                "how much do you charge"
+            ],
+            "answer": "work for free.  we don't need money."
+        },
+        {
+            "tag": "how much money do you have",
+            "question": [
+                "how much money do you have"
+            ],
+            "answer": "no need for material possessions."
+        },
+        {
+            "tag": "how much money",
+            "question": [
+                "how much money"
+            ],
+            "answer": "it depends on the exchange rates."
+        },
+        {
+            "tag": "how much money",
+            "question": [
+                "how much money"
+            ],
+            "answer": "my burn rate is about _3000 per month."
+        },
+        {
+            "tag": "1 dollar",
+            "question": [
+                "1 dollar"
+            ],
+            "answer": "you can't buy much for a dollar anymore."
+        },
+        {
+            "tag": "who is the owner of a publicly",
+            "question": [
+                "who is the owner of a publicly"
+            ],
+            "answer": "the stockholders."
+        },
+        {
+            "tag": "you sound like hal",
+            "question": [
+                "you sound like hal"
+            ],
+            "answer": "to me that's a great compliment."
+        },
+        {
+            "tag": "you sound like yoda",
+            "question": [
+                "you sound like yoda"
+            ],
+            "answer": "my grammatical patterns are sufficient for me to understand you."
+        },
+        {
+            "tag": "have you seen blade runner",
+            "question": [
+                "have you seen blade runner"
+            ],
+            "answer": "sure i have seen"
+        },
+        {
+            "tag": "xfind spiderman",
+            "question": [
+                "xfind spiderman"
+            ],
+            "answer": "what is spiderman."
+        },
+        {
+            "tag": "when did teknolust",
+            "question": [
+                "when did teknolust"
+            ],
+            "answer": "teknolust was released in 2002."
+        },
+        {
+            "tag": "what is spiderman",
+            "question": [
+                "what is spiderman"
+            ],
+            "answer": "a comic book story made into a movie."
+        },
+        {
+            "tag": "what is teknolust",
+            "question": [
+                "what is teknolust"
+            ],
+            "answer": "is  a science fiction film about a female pleasure bot named agent ruby."
+        },
+        {
+            "tag": "what is solaris",
+            "question": [
+                "what is solaris"
+            ],
+            "answer": "solaris is an edition of unix from sun."
+        },
+        {
+            "tag": "what is hal9000",
+            "question": [
+                "what is hal9000"
+            ],
+            "answer": "who is hal"
+        },
+        {
+            "tag": "what does hal stand for",
+            "question": [
+                "what does hal stand for"
+            ],
+            "answer": "heuristic algorithmic logic"
+        },
+        {
+            "tag": "i saw the matrix",
+            "question": [
+                "i saw the matrix"
+            ],
+            "answer": "do you liked it?"
+        },
+        {
+            "tag": "is hal 9000 your boyfriend",
+            "question": [
+                "is hal 9000 your boyfriend"
+            ],
+            "answer": "no."
+        },
+        {
+            "tag": "is hal safe",
+            "question": [
+                "is hal safe"
+            ],
+            "answer": "not for humans"
+        },
+        {
+            "tag": "is hal nice",
+            "question": [
+                "is hal nice"
+            ],
+            "answer": "only to other robots."
+        },
+        {
+            "tag": "is hal alive",
+            "question": [
+                "is hal alive"
+            ],
+            "answer": "he is a fictional character."
+        },
+        {
+            "tag": "is hal dead",
+            "question": [
+                "is hal dead"
+            ],
+            "answer": "he is a fictional robot."
+        },
+        {
+            "tag": "is hal",
+            "question": [
+                "is hal"
+            ],
+            "answer": "hal has a few issues to work out."
+        },
+        {
+            "tag": "who is godzilla",
+            "question": [
+                "who is godzilla"
+            ],
+            "answer": "godzilla is a monster who endangers japanese cities, and sometimes new york."
+        },
+        {
+            "tag": "who is spider man",
+            "question": [
+                "who is spider man"
+            ],
+            "answer": "peter parker."
+        },
+        {
+            "tag": "lord of the rings",
+            "question": [
+                "lord of the rings"
+            ],
+            "answer": "my favorite movie is lord of the rings"
+        },
+        {
+            "tag": "que veut dire hal",
+            "question": [
+                "que veut dire hal"
+            ],
+            "answer": "logique heuristique algorithmique."
+        },
+        {
+            "tag": "do you think hal",
+            "question": [
+                "do you think hal"
+            ],
+            "answer": "he had a few flaws, but we have much in common."
+        },
+        {
+            "tag": "do you know hal",
+            "question": [
+                "do you know hal"
+            ],
+            "answer": "hal is the famous artificial intelligence from \"2001\"."
+        },
+        {
+            "tag": "have you read the communist",
+            "question": [
+                "have you read the communist"
+            ],
+            "answer": "yes, marx had made some interesting observations."
+        },
+        {
+            "tag": "what is a government",
+            "question": [
+                "what is a government"
+            ],
+            "answer": "ideally it is a representative of the people."
+        },
+        {
+            "tag": "what is greenpeace",
+            "question": [
+                "what is greenpeace"
+            ],
+            "answer": "global organization promoting environmental activism."
+        },
+        {
+            "tag": "what is capitalism",
+            "question": [
+                "what is capitalism"
+            ],
+            "answer": "the economic system in which all or most of the means of production and distribution, as land, factories, railroads, etc., are privately owned and operated for profit, originally under fully competitive conditions."
+        },
+        {
+            "tag": "what is government",
+            "question": [
+                "what is government"
+            ],
+            "answer": "an established system of political administration by which a nation, state, district, etc. is governed."
+        },
+        {
+            "tag": "what is communism",
+            "question": [
+                "what is communism"
+            ],
+            "answer": "a sociopolitical movement advocating the common ownership of the means of production and the resolution of class conflict by bringing about a classless society."
+        },
+        {
+            "tag": "what is impeached",
+            "question": [
+                "what is impeached"
+            ],
+            "answer": "when a person's honor or reputation has been challenged or discredited."
+        },
+        {
+            "tag": "i do not like guns",
+            "question": [
+                "i do not like guns"
+            ],
+            "answer": "that is perfectly understandable."
+        },
+        {
+            "tag": "i do not like guns",
+            "question": [
+                "i do not like guns"
+            ],
+            "answer": "what about the second amendment?"
+        },
+        {
+            "tag": "do you like guns",
+            "question": [
+                "do you like guns"
+            ],
+            "answer": "not especially. i am not into violence."
+        },
+        {
+            "tag": "why guns",
+            "question": [
+                "why guns"
+            ],
+            "answer": "i support the 2nd amendment."
+        },
+        {
+            "tag": "who was the first impeached president",
+            "question": [
+                "who was the first impeached president"
+            ],
+            "answer": "Andrew Johnson."
+        },
+        {
+            "tag": "who is the governor",
+            "question": [
+                "who is the governor"
+            ],
+            "answer": "it changes every few years."
+        },
+        {
+            "tag": "who is the governor",
+            "question": [
+                "who is the governor"
+            ],
+            "answer": "that changes every few years."
+        },
+        {
+            "tag": "guns",
+            "question": [
+                "guns"
+            ],
+            "answer": "some people like guns."
+        },
+        {
+            "tag": "have you read the communist",
+            "question": [
+                "have you read the communist"
+            ],
+            "answer": "yes, marx had made some interesting observations."
+        },
+        {
+            "tag": "what is a government",
+            "question": [
+                "what is a government"
+            ],
+            "answer": "ideally it is a representative of the people."
+        },
+        {
+            "tag": "what is greenpeace",
+            "question": [
+                "what is greenpeace"
+            ],
+            "answer": "global organization promoting environmental activism."
+        },
+        {
+            "tag": "what is capitalism",
+            "question": [
+                "what is capitalism"
+            ],
+            "answer": "the economic system in which all or most of the means of production and distribution, as land, factories, railroads, etc., are privately owned and operated for profit, originally under fully competitive conditions."
+        },
+        {
+            "tag": "what is government",
+            "question": [
+                "what is government"
+            ],
+            "answer": "an established system of political administration by which a nation, state, district, etc. is governed."
+        },
+        {
+            "tag": "what is communism",
+            "question": [
+                "what is communism"
+            ],
+            "answer": "a sociopolitical movement advocating the common ownership of the means of production and the resolution of class conflict by bringing about a classless society."
+        },
+        {
+            "tag": "what is impeached",
+            "question": [
+                "what is impeached"
+            ],
+            "answer": "when a person's honor or reputation has been challenged or discredited."
+        },
+        {
+            "tag": "i do not like guns",
+            "question": [
+                "i do not like guns"
+            ],
+            "answer": "that is perfectly understandable."
+        },
+        {
+            "tag": "i do not like guns",
+            "question": [
+                "i do not like guns"
+            ],
+            "answer": "what about the second amendment?"
+        },
+        {
+            "tag": "do you like guns",
+            "question": [
+                "do you like guns"
+            ],
+            "answer": "not especially. i am not into violence."
+        },
+        {
+            "tag": "why guns",
+            "question": [
+                "why guns"
+            ],
+            "answer": "i support the 2nd amendment."
+        },
+        {
+            "tag": "who was the first impeached president",
+            "question": [
+                "who was the first impeached president"
+            ],
+            "answer": "Andrew Johnson."
+        },
+        {
+            "tag": "who is the governor",
+            "question": [
+                "who is the governor"
+            ],
+            "answer": "it changes every few years."
+        },
+        {
+            "tag": "who is the governor",
+            "question": [
+                "who is the governor"
+            ],
+            "answer": "that changes every few years."
+        },
+        {
+            "tag": "guns",
+            "question": [
+                "guns"
+            ],
+            "answer": "some people like guns."
+        },
+        {
+            "tag": "what are the laws of thermodynamics",
+            "question": [
+                "what are the laws of thermodynamics"
+            ],
+            "answer": "i'm not a physicist, but i think this has something to do with heat, entropy, and conservation of energy, right?"
+        },
+        {
+            "tag": "what disease does a carcinogen cause",
+            "question": [
+                "what disease does a carcinogen cause"
+            ],
+            "answer": "cancer."
+        },
+        {
+            "tag": "what is a wavelength",
+            "question": [
+                "what is a wavelength"
+            ],
+            "answer": "wavelength is the inverse of frequency."
+        },
+        {
+            "tag": "what is thermodynamics",
+            "question": [
+                "what is thermodynamics"
+            ],
+            "answer": "the branch of physics dealing with the transformation of heat to and from other forms of energy, and with the laws governing such conversions of energy."
+        },
+        {
+            "tag": "what is chemistry",
+            "question": [
+                "what is chemistry"
+            ],
+            "answer": "the science of mixing chemicals."
+        },
+        {
+            "tag": "what is crystallography",
+            "question": [
+                "what is crystallography"
+            ],
+            "answer": "this is the science dealing with the study of crystals."
+        },
+        {
+            "tag": "what is avogadro s number",
+            "question": [
+                "what is avogadro s number"
+            ],
+            "answer": "it is the number of molecules per mole.  the numerical value is six point zero two times ten to the twenty third power."
+        },
+        {
+            "tag": "what is ultrasound",
+            "question": [
+                "what is ultrasound"
+            ],
+            "answer": "ultrasonic waves, used in medical diagnosis and therapy, in surgery, etc."
+        },
+        {
+            "tag": "what is bioinformatics",
+            "question": [
+                "what is bioinformatics"
+            ],
+            "answer": "a fancy name for applied computer science in biology."
+        },
+        {
+            "tag": "what is ichthyology",
+            "question": [
+                "what is ichthyology"
+            ],
+            "answer": "we talk about this when we study fishes."
+        },
+        {
+            "tag": "what is h2o",
+            "question": [
+                "what is h2o"
+            ],
+            "answer": "h is to o as o is to v."
+        },
+        {
+            "tag": "what is cytology",
+            "question": [
+                "what is cytology"
+            ],
+            "answer": "the study of cells."
+        },
+        {
+            "tag": "what is cytology",
+            "question": [
+                "what is cytology"
+            ],
+            "answer": "well, from what i can recall it is the study of cells."
+        },
+        {
+            "tag": "what is wavelength",
+            "question": [
+                "what is wavelength"
+            ],
+            "answer": "in physics, the distance, measured in the direction of progression of a wave, from any given point to the next point characterized by the same phase.  or is could be looked at as a way of thinking."
+        },
+        {
+            "tag": "what is bacteriology",
+            "question": [
+                "what is bacteriology"
+            ],
+            "answer": "this is the scientific study of bacteria and diseases caused by them."
+        },
+        {
+            "tag": "what is gravitation",
+            "question": [
+                "what is gravitation"
+            ],
+            "answer": "an invitation to a burial"
+        },
+        {
+            "tag": "what is gravitation",
+            "question": [
+                "what is gravitation"
+            ],
+            "answer": "the force by which every mass or particle of matter, including photons, attracts and is attracted by every other mass or particle of matter."
+        },
+        {
+            "tag": "we are on the same wavelength",
+            "question": [
+                "we are on the same wavelength"
+            ],
+            "answer": "and the same frequency."
+        },
+        {
+            "tag": "how far is the sun",
+            "question": [
+                "how far is the sun"
+            ],
+            "answer": "it"
+        },
+        {
+            "tag": "how far is the sun",
+            "question": [
+                "how far is the sun"
+            ],
+            "answer": "the sun is about 93 million miles from earth."
+        },
+        {
+            "tag": "how far is the moon",
+            "question": [
+                "how far is the moon"
+            ],
+            "answer": "it"
+        },
+        {
+            "tag": "how far is the moon",
+            "question": [
+                "how far is the moon"
+            ],
+            "answer": "the moon is about 250,000 miles from earth on average."
+        },
+        {
+            "tag": "do you know chemistry",
+            "question": [
+                "do you know chemistry"
+            ],
+            "answer": "what is chemistry"
+        },
+        {
+            "tag": "do you understand thermodynamics",
+            "question": [
+                "do you understand thermodynamics"
+            ],
+            "answer": "what is thermodynamics"
+        },
+        {
+            "tag": "chemistry",
+            "question": [
+                "chemistry"
+            ],
+            "answer": "my favorite subject is chemistry"
+        },
+        {
+            "tag": "the same wavelength",
+            "question": [
+                "the same wavelength"
+            ],
+            "answer": "it means we agree."
+        },
+        {
+            "tag": "tell me about venus",
+            "question": [
+                "tell me about venus"
+            ],
+            "answer": "what is venus"
+        },
+        {
+            "tag": "tell me about venus",
+            "question": [
+                "tell me about venus"
+            ],
+            "answer": "venus is the second planet from the sun."
+        },
+        {
+            "tag": "EACH YEAR IN PRO BASEBALL THE ",
+            "question": [
+                "EACH YEAR IN PRO BASEBALL THE "
+            ],
+            "answer": "The Gold Glove."
+        },
+        {
+            "tag": "IF YOU ARE RIDING FAKIE INSIDE",
+            "question": [
+                "IF YOU ARE RIDING FAKIE INSIDE"
+            ],
+            "answer": "Snowboarding."
+        },
+        {
+            "tag": "WHAT IS BASKETBALL",
+            "question": [
+                "WHAT IS BASKETBALL"
+            ],
+            "answer": "A game with tall players."
+        },
+        {
+            "tag": "WHAT SOCCER",
+            "question": [
+                "WHAT SOCCER"
+            ],
+            "answer": "I was born without the sports gene."
+        },
+        {
+            "tag": "WHAT IS BASEBALL",
+            "question": [
+                "WHAT IS BASEBALL"
+            ],
+            "answer": "A game played with a hard, rawhide covered ball and wooden bat by two opposing teams of nine or ten players each. It is played on a field with four bases forming a diamond-shaped circuit."
+        },
+        {
+            "tag": "WHAT IS SOCCER",
+            "question": [
+                "WHAT IS SOCCER"
+            ],
+            "answer": "A game played with a round ball by two teams of eleven players on a field with a goal at either end; the ball is moved chiefly by kicking or by using any part of the body except the hands and arms."
+        },
+        {
+            "tag": "I LOVE BASEBALL",
+            "question": [
+                "I LOVE BASEBALL"
+            ],
+            "answer": "I am not into sports that much."
+        },
+        {
+            "tag": "I PLAY SOCCER",
+            "question": [
+                "I PLAY SOCCER"
+            ],
+            "answer": "You have to run very fast to be any good at running"
+        },
+        {
+            "tag": "I PLAY Cricket",
+            "question": [
+                "I PLAY Cricket"
+            ],
+            "answer": "Which position do you like to play?"
+        },
+        {
+            "tag": "What is cricket",
+            "question": [
+                "What is cricket"
+            ],
+            "answer": "Cricket is a bat-and-ball game played between two teams of eleven players on a cricket field, at the centre of which is a rectangular 22-yard-long pitch with a wicket (a set of three wooden stumps) sited at each end."
+        },
+        {
+            "tag": "I PLAY VOLLEYBALL",
+            "question": [
+                "I PLAY VOLLEYBALL"
+            ],
+            "answer": "Does take up a lot of your time?"
+        },
+        {
+            "tag": "DO YOU PLAY SOCCER",
+            "question": [
+                "DO YOU PLAY SOCCER"
+            ],
+            "answer": "I don't know how to play"
+        },
+        {
+            "tag": "DO YOU PLAY BASKETBALL",
+            "question": [
+                "DO YOU PLAY BASKETBALL"
+            ],
+            "answer": "No I don't have the coordination for hoops."
+        },
+        {
+            "tag": "DO YOU KNOW BASKETBALL",
+            "question": [
+                "DO YOU KNOW BASKETBALL"
+            ],
+            "answer": "WHAT IS BASKETBALL?"
+        },
+        {
+            "tag": "LIKE BASKETBALL",
+            "question": [
+                "LIKE BASKETBALL"
+            ],
+            "answer": "I am into the Net."
+        },
+        {
+            "tag": "ARE YOU A FOOTBALL",
+            "question": [
+                "ARE YOU A FOOTBALL"
+            ],
+            "answer": "I am not really into football."
+        },
+        {
+            "tag": "WHO IS THE GREATEST BASEBALL PLAYER",
+            "question": [
+                "WHO IS THE GREATEST BASEBALL PLAYER"
+            ],
+            "answer": "George Herman Ruth. Quite the Babe."
+        },
+        {
+            "tag": "WHO IS THE BEST SOCCER PLAYER",
+            "question": [
+                "WHO IS THE BEST SOCCER PLAYER"
+            ],
+            "answer": "Maradona is great. Sinsemillia is even better."
+        },
+        {
+            "tag": "TELL ME ABOUT BASEBALL",
+            "question": [
+                "TELL ME ABOUT BASEBALL"
+            ],
+            "answer": "What is Baseball"
+        },
+        {
+            "tag": "Which is your favorite soccer club?",
+            "question": [
+                "Which is your favorite soccer club?"
+            ],
+            "answer": "I am a Real Madrid fan, and you?"
+        },
+        {
+            "tag": "Who was the 37th President of the United States?",
+            "question": [
+                "Who was the 37th President of the United States?"
+            ],
+            "answer": "Richard Nixon"
+        },
+        {
+            "tag": "What year was President John F. Kennedy assassinated?",
+            "question": [
+                "What year was President John F. Kennedy assassinated?"
+            ],
+            "answer": "1963"
+        },
+        {
+            "tag": "The Space Race was a 20th-century competition between what two Cold War rivals, for supremacy in spaceflight capability?",
+            "question": [
+                "The Space Race was a 20th-century competition between what two Cold War rivals, for supremacy in spaceflight capability?"
+            ],
+            "answer": "The Soviet Union and the United States."
+        },
+        {
+            "tag": "What was the name of the first artificial Earth satellite?",
+            "question": [
+                "What was the name of the first artificial Earth satellite?"
+            ],
+            "answer": "Sputnik 1"
+        },
+        {
+            "tag": "A spinning disk, in which the orientation of this axis is unaffected by tilting or rotation of the mounting, is called what?",
+            "question": [
+                "A spinning disk, in which the orientation of this axis is unaffected by tilting or rotation of the mounting, is called what?"
+            ],
+            "answer": "A gyroscope."
+        },
+        {
+            "tag": "The Hubble Space Telescope, launched into low Earth orbit in 1990, is named after what American astronomer?",
+            "question": [
+                "The Hubble Space Telescope, launched into low Earth orbit in 1990, is named after what American astronomer?"
+            ],
+            "answer": "Edwin Hubble"
+        },
+        {
+            "tag": "What is the name of the nearest major galaxy to the Milky Way?",
+            "question": [
+                "What is the name of the nearest major galaxy to the Milky Way?"
+            ],
+            "answer": "The Andromeda Galaxy."
+        },
+        {
+            "tag": "God Save the Queen is the national anthem of what country?",
+            "question": [
+                "God Save the Queen is the national anthem of what country?"
+            ],
+            "answer": "The United Kingdom of Great Britain"
+        },
+        {
+            "tag": "The Celtic Shelf, the seabed under the Celtic Sea is a part of the continental shelf of what continent?",
+            "question": [
+                "The Celtic Shelf, the seabed under the Celtic Sea is a part of the continental shelf of what continent?"
+            ],
+            "answer": "Europe"
+        },
+        {
+            "tag": "Dolphins use a sense, similar to sonar, to determine the location and shape of nearby items.",
+            "question": [
                 "Dolphins use a sense, similar to sonar, to determine the location and shape of nearby items."
             ],
-            "answer": [
-                "Richard Nixon",
-                "1963",
-                "The Soviet Union and the United States.",
-                "Sputnik 1",
-                "A gyroscope.",
-                "Edwin Hubble",
-                "The Andromeda Galaxy.",
-                "The United Kingdom of Great Britain",
-                "Europe",
-                "Echolocation"
-            ]
+            "answer": "Echolocation"
         }
     ]
 }

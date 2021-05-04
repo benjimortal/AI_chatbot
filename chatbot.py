@@ -9,7 +9,7 @@ from nltk.stem import WordNetLemmatizer
 from tensorflow.keras.models import load_model
 
 lemmatizer = WordNetLemmatizer()
-intents = json.loads(open('data/json_test/trivia_test.json').read())
+intents = json.loads(open('data/json/data.json').read())
 
 words = pickle.load(open('pickle/words.pkl', 'rb'))
 classes = pickle.load(open('pickle/classes.pkl', 'rb'))
@@ -47,8 +47,8 @@ def get_response(ints, intents_json):
         tag = ints[0]['intent']
         list_of_intents = intents_json['intents']
         for i in list_of_intents:
-            if i['tags'] == tag:
-                result = random.choice(i['answer'])
+            if i['tag'] == tag:
+                result = i['answer']
                 break
     except IndexError:
         result = "I don't understand!"
@@ -61,3 +61,4 @@ while True:
     ints = predict_class(message)
     res = get_response(ints, intents)
     print(res)
+
