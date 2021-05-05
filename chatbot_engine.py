@@ -11,6 +11,7 @@ from tensorflow.keras.optimizers import SGD
 import random
 
 
+
 words = []
 classes = []
 docs = []
