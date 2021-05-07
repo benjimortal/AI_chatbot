@@ -61,4 +61,9 @@ while True:
     ints = predict_class(message)
     res = get_response(ints, intents)
     print(res)
+    print('Are you happy with the answer? Yes/No')
+    response = input('')
+    if response == 'yes':
+        print('I am happy for your response :)')
+        
 
