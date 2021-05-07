@@ -64,5 +64,6 @@ while True:
     print('Are you happy with the answer? Yes/No')
     response = input('')
     if response == 'yes':
+        print('I am happy for your response :)')
         
 
