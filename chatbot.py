@@ -9,7 +9,7 @@ from nltk.stem import WordNetLemmatizer
 from tensorflow.keras.models import load_model
 
 lemmatizer = WordNetLemmatizer()
-intents = json.loads(open('data/json/data.json').read())
+intents = json.loads(open('data/json_test/data_test_new.json').read())
 
 words = pickle.load(open('pickle/words.pkl', 'rb'))
 classes = pickle.load(open('pickle/classes.pkl', 'rb'))
@@ -61,8 +61,6 @@ while True:
     ints = predict_class(message)
     res = get_response(ints, intents)
     print(res)
-    print('Are you happy with the answer? Yes/No')
-    response = input('')
-    if response == 'yes':
+
         
 

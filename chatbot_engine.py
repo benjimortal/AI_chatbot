@@ -1,8 +1,11 @@
+import csv
+
 import nltk
 from nltk.stem import WordNetLemmatizer
 lemmatizer = WordNetLemmatizer()
 import json
 import pickle
+import sqlite3 as sql
 
 import numpy as np
 from tensorflow.keras.models import Sequential
@@ -16,26 +19,36 @@ classes = []
 docs = []
 letters_to_ignore = ['?', '!', '.', ',']
 
-data_file = open('data/json/data.json').read()
+data_file = open('data/json_test/data_test_new.json').read()
 intents = json.loads(data_file)
 
+
 for intent in intents['intents']:
-    for question in intent['question']:
-        list_of_word = nltk.word_tokenize(question)
-        words.extend(list_of_word)
-        docs.append((list_of_word, intent['tag']))
-        if intent['tag'] not in classes:
-            classes.append(intent['tag'])
+    for intent in intents['intents']:
+        for question in intent['question']:
+            list_of_word = nltk.word_tokenize(question)
+            words.extend(list_of_word)
+            docs.append((list_of_word, intent['tag']))
+            if intent['tag'] not in classes:
+                classes.append(intent['tag'])
 
 words = [lemmatizer.lemmatize(word) for word in words if word not in letters_to_ignore]
 words = sorted(set(words))
 
 
+
 pickle.dump(words, open('pickle/words.pkl', 'wb'))
 pickle.dump(classes, open('pickle/classes.pkl', 'wb'))
 
+
 training = []
 empty_out = [0] * len(classes)
+
+
+
+
+
+
 
 for doc in docs:
     BoW = []
@@ -47,6 +60,8 @@ for doc in docs:
     output_row = list(empty_out)
     output_row[classes.index(doc[1])] = 1
     training.append([BoW, output_row])
+
+
 
 
 random.shuffle(training)
