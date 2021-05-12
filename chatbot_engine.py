@@ -16,7 +16,7 @@ classes = []
 docs = []
 letters_to_ignore = ['?', '!', '.', ',']
 
-data_file = open('data/json/data.json').read()
+data_file = open('data/json_test/data_test_new.json').read()
 intents = json.loads(data_file)
 
 for intent in intents['intents']:
@@ -40,7 +40,7 @@ empty_out = [0] * len(classes)
 for doc in docs:
     BoW = []
     word_patterns = doc[0]
-    word_patterns= [lemmatizer.lemmatize(word.lower()) for word in word_patterns]
+    word_patterns = [lemmatizer.lemmatize(word.lower()) for word in word_patterns]
     for word in words:
         BoW.append(1) if word in word_patterns else BoW.append(0)
 
