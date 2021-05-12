@@ -9,7 +9,7 @@ from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Dense, Activation, Dropout
 from tensorflow.keras.optimizers import SGD
 import random
-
+import gc
 
 words = []
 classes = []
@@ -20,28 +20,27 @@ intents_list = []
 training = []
 empty_out = [0] * len(classes)
 
-data_file = open('data/json_test/data_test_new.json').read()
+
+
+data_file = open('data/json/data.json').read()
 intents = json.loads(data_file)
 
-first = [intents_list.append(intent) for intent in intents['intents']]
 
 
-def dataset_to_list(intents_list):
+def dataset_to_lists(intents, docs, words, classes):
 
-    for line in intents_list:
-        question = str(line['question'])
-        question = question.replace('[','').replace(']','').replace("'","")
-        list_of_word = nltk.word_tokenize(question)
-        words.extend(list_of_word)
-        tag = line['tag']
-        docs.append((list_of_word, tag))
-        if tag not in classes:
-            classes.append(tag)
-    return
+    for intent in intents['intents']:
+        for question in intent['question']:
+            list_of_word = nltk.word_tokenize(question)
+            words.extend(list_of_word)
+            docs.append((list_of_word, intent['tag']))
+            if intent['tag'] not in classes:
+                classes.append(intent['tag'])
 
+    return words, classes, docs
 
 
-def lemmatiz(words):
+def lemmatize(words, letters_to_ignore):
     words = [lemmatizer.lemmatize(word) for word in words if word not in letters_to_ignore]
     return words
 
@@ -51,12 +50,16 @@ def sort_words(words):
 
 
 def pickle_words_and_classes(words, classes):
-    pickle.dump(words, open('pickle/words_second.pkl', 'wb'))
-    pickle.dump(classes, open('pickle/classes_second.pkl', 'wb'))
+    pickle.dump(words, open('pickle/words.pkl', 'wb'))
+    pickle.dump(classes, open('pickle/classes.pkl', 'wb'))
     return words, classes
 
+def prepare_training(docs, words, training, classes):
+    empty_out = [0] * len(classes)
+    print("inne")
+    gc.collect()
 
-def prepare_train(docs, words):
+
     for doc in docs:
         BoW = []
         word_patterns = doc[0]
@@ -67,10 +70,15 @@ def prepare_train(docs, words):
         output_row = list(empty_out)
         output_row[classes.index(doc[1])] = 1
         training.append([BoW, output_row])
-    return
+    return training
+
+
+
+
 
 
 def neuron_train(training):
+
     random.shuffle(training)
     training = np.array(training)
 
@@ -90,19 +98,25 @@ def neuron_train(training):
     hist = model.fit(np.array(train_x), np.array(train_y), epochs=200, batch_size=5, verbose=1)
 
     model.save('chatbot_save_model', hist)
+    print('Done')
+    return model
 
-def start_chabot_engine():
+def start_chatbot_engine():
     print('Start engine')
-    dataset_to_list(intents_list)
-    print('1. step: Done')
-    lemmatiz(words)
-    print('2. step: Done')
+    print('process')
+    dataset_to_lists(intents, docs, words, classes)
+    print('1. step : Done')
+    lemmatize(words, letters_to_ignore)
+    print('2. step : Done')
     sort_words(words)
-    print('3. step: Done')
+    print('3. step : Done')
     pickle_words_and_classes(words, classes)
-    print('4. step: Done')
-    prepare_train(docs, words)
-    print('5. step: Done')
+    print('4. step : Done')
+    prepare_training(docs, words, training, classes)
+    print('5. step : Done')
     neuron_train(training)
-    print('6. step: Done')
+
+
+print(start_chatbot_engine())
+print('Done')
 

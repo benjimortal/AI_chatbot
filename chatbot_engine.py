@@ -1,5 +1,6 @@
 import csv
-
+import warnings
+warnings.filterwarnings("ignore", category=DeprecationWarning)
 import nltk
 from nltk.stem import WordNetLemmatizer
 lemmatizer = WordNetLemmatizer()
@@ -25,13 +26,12 @@ intents = json.loads(data_file)
 
 
 for intent in intents['intents']:
-    for intent in intents['intents']:
-        for question in intent['question']:
-            list_of_word = nltk.word_tokenize(question)
-            words.extend(list_of_word)
-            docs.append((list_of_word, intent['tag']))
-            if intent['tag'] not in classes:
-                classes.append(intent['tag'])
+    for question in intent['question']:
+        list_of_word = nltk.word_tokenize(question)
+        words.extend(list_of_word)
+        docs.append((list_of_word, intent['tag']))
+        if intent['tag'] not in classes:
+            classes.append(intent['tag'])
 
 words = [lemmatizer.lemmatize(word) for word in words if word not in letters_to_ignore]
 words = sorted(set(words))
@@ -44,10 +44,6 @@ pickle.dump(classes, open('pickle/classes.pkl', 'wb'))
 
 training = []
 empty_out = [0] * len(classes)
-
-
-
-
 
 
 

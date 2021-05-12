@@ -12,7 +12,7 @@ def stemming(word):
 
 def BoW(tokenized_sentence, words):
     word_sentence = [stemming(word) for word in tokenized_sentence]
-    bag = np.zeros(len(words), dtype=np.int8)
+    bag = np.zeros(len(words), dtype=np.int16)
     for id, w in enumerate(words):
         if w in word_sentence:
             bag[id] = 1
