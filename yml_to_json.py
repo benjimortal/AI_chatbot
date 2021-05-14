@@ -15,7 +15,7 @@ with open('data/yml/computers.yml', 'r') as file:
 
         questions_answers.append(
             {
-                'Tags': 'Computers',
+                'Tag': 'Computers',
                 'patterns': question,
                 'responses': answer
             }
