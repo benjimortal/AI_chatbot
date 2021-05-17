@@ -50,7 +50,7 @@ empty_out = [0] * len(classes)
 for doc in docs:
     BoW = []
     word_patterns = doc[0]
-    word_patterns= [lemmatizer.lemmatize(word.lower()) for word in word_patterns]
+    word_patterns = [lemmatizer.lemmatize(word.lower()) for word in word_patterns]
     for word in words:
         BoW.append(1) if word in word_patterns else BoW.append(0)
 

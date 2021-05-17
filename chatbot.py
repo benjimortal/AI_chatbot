@@ -2,6 +2,7 @@ import random
 import json
 import pickle
 import numpy as np
+import keyboard
 
 import nltk
 from nltk.stem import WordNetLemmatizer
@@ -9,7 +10,7 @@ from nltk.stem import WordNetLemmatizer
 from tensorflow.keras.models import load_model
 
 lemmatizer = WordNetLemmatizer()
-intents = json.loads(open('data/json_test/data_test_new.json').read())
+intents = json.loads(open('data/json/data.json').read())
 
 words = pickle.load(open('pickle/words.pkl', 'rb'))
 classes = pickle.load(open('pickle/classes.pkl', 'rb'))
@@ -42,6 +43,7 @@ def predict_class(sentence):
     return return_list
 
 
+
 def get_response(ints, intents_json):
     try:
         tag = ints[0]['intent']
@@ -54,13 +56,45 @@ def get_response(ints, intents_json):
         result = "I don't understand!"
     return result
 
-print('GO! Bot is running')
 
-while True:
-    message = input('')
-    ints = predict_class(message)
-    res = get_response(ints, intents)
-    print(res)
+def write_json(data, filename='data/json/user_train.json'):
+    with open(filename, 'w') as f:
+        json.dump(data, f, indent=2)
 
-        
+with open('data/json/user_train.json') as json_file:
+    data = json.load(json_file)
+    temp = data
+
+    print("werent you happy with your answer? press § to add one")
+    restart = True
+    while restart:
+        message = input('')
+        ints = predict_class(message)
+        res = get_response(ints, intents)
+        print(res)
+        while True:
+            if keyboard.read_key() == "§":
+
+                answer = input(("enter what answer you want"))
+                temp.append(
+                    {
+                        "tag": message,
+                        "question": message,
+                        "answer": answer
+                    }
+                )
+                write_json(data)
+                break
+
+
+
+
+
+
+
+
+
+
+
+
 
