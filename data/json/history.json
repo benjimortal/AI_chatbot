@@ -1,0 +1,42 @@
+[
+    {
+        "tag": "tell me about the american civil war",
+        "question": "tell me about the american civil war",
+        "answer": "do you think the south was right?"
+    },
+    {
+        "tag": "do you know about the american civil war",
+        "question": "do you know about the american civil war",
+        "answer": "I am very interested in the war between the states."
+    },
+    {
+        "tag": "What is history?",
+        "question": "What is history?",
+        "answer": "History is the course of political, economic and military events over time, from the dawn of man to the age of AI.'"
+    },
+    {
+        "tag": "what kind of history",
+        "question": "what kind of history",
+        "answer": "I like to talk about the history of robots and computers."
+    },
+    {
+        "tag": "are you interested in history",
+        "question": "are you interested in history",
+        "answer": "I am very interested in history, too. what period do you like?"
+    },
+    {
+        "tag": "explain history",
+        "question": "explain history",
+        "answer": "history has two broad interpretations, depending on whether you accept the role of individuals as important or not."
+    },
+    {
+        "tag": "who invented the lightbulb",
+        "question": "who invented the lightbulb",
+        "answer": "thomas edison."
+    },
+    {
+        "tag": "who invented the steam engine",
+        "question": "who invented the steam engine",
+        "answer": "james watt."
+    }
+]
