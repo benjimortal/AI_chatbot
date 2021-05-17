@@ -59,8 +59,6 @@ for doc in docs:
     training.append([BoW, output_row])
 
 
-
-
 random.shuffle(training)
 training = np.array(training)
 
