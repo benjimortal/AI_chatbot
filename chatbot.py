@@ -139,5 +139,5 @@ with open('data/json/user_train.json') as json_file:
 
 
 
->>>>>>> 1c5f2c9e8a3252d13185dfd198fe32d9e511e93f
+
 
