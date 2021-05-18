@@ -23,11 +23,11 @@ for line in data:
     answer = line['answer']
     to_dict = {
         'tag': tag,
-        'question': [question],
+        'question': question,
         'answer': answer
     }
     dict_to_json['intents'].append(to_dict)
 
-out_file = json_path.joinpath('data.json')
-with out_file.open('w', encoding='utf-8') as f:
+out_file = 'clean_data_to_train/data.json'
+with open(out_file,'w', encoding='utf-8') as f:
     json.dump(dict_to_json, f, indent=4)

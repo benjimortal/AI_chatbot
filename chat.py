@@ -1,53 +1,44 @@
-import random
 import json
+import numpy as np
+from tensorflow import keras
+from sklearn.preprocessing import LabelEncoder
 
-import torch
 
-from model import NeuralNet
-from nltk_utils import BoW, token
 
-device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
-with open('intents.json', 'r') as json_data:
-    intents = json.load(json_data)
 
-FILE = "data.pth"
-data = torch.load(FILE)
+import random
+import pickle
 
-input_size = data["input_size"]
-hidden_size = data["hidden_size"]
-output_size = data["output_size"]
-all_words = data['all_words']
-tags = data['tags']
-model_state = data["model_state"]
+with open("data/json/data.json") as file:
+    data = json.load(file)
 
-model = NeuralNet(input_size, hidden_size, output_size).to(device)
-model.load_state_dict(model_state)
-model.eval()
 
-bot_name = "Sam"
-print("Let's chat! (type 'quit' to exit)")
+
+# load trained model
+model = keras.models.load_model('chatbot_save_model/chat_model.h5')
+
+# load tokenizer object
+with open('pickle/tokenizer.pickle', 'rb') as handle:
+    tokenizer = pickle.load(handle)
+
+# load label encoder object
+with open('pickle/label_encoder.pickle', 'rb') as enc:
+    lbl_encoder = pickle.load(enc)
+
+# parameters
+max_len = 20
+print('Bot is running')
 while True:
-    # sentence = "do you use credit cards?"
-    sentence = input("You: ")
-    if sentence == "quit":
+
+    inp = input()
+    if inp.lower() == "quit":
         break
 
-    sentence = token(sentence)
-    X = BoW(sentence, all_words)
-    X = X.reshape(1, X.shape[0])
-    X = torch.from_numpy(X).to(device)
+    result = model.predict(keras.preprocessing.sequence.pad_sequences(tokenizer.texts_to_sequences([inp]),
+                                                                      truncating='post', maxlen=max_len))
+    tag = lbl_encoder.inverse_transform([np.argmax(result)])
 
-    output = model(X)
-    _, predicted = torch.max(output, dim=1)
-
-    tag = tags[predicted.item()]
-
-    probs = torch.softmax(output, dim=1)
-    prob = probs[0][predicted.item()]
-    if prob.item() > 0.75:
-        for intent in intents['intents']:
-            if tag == intent["tag"]:
-                print(f"{bot_name}: {random.choice(intent['answer'])}")
-    else:
-        print(f"{bot_name}: I do not understand...")
+    for i in data['intents']:
+        if i['tag'] == tag:
+            print(random.choice(i['answer']))
