@@ -3,20 +3,14 @@ import numpy as np
 from tensorflow import keras
 from sklearn.preprocessing import LabelEncoder
 
-
-
-
-
 import random
 import pickle
 
-with open("data/json/data.json") as file:
+with open("data/json_test/merged.json") as file:
     data = json.load(file)
 
-
-
 # load trained model
-model = keras.models.load_model('chatbot_save_model/chat_model.h5')
+model = keras.models.load_model('chat_model/chat_model.h5')
 
 # load tokenizer object
 with open('pickle/tokenizer.pickle', 'rb') as handle:
@@ -41,4 +35,5 @@ while True:
 
     for i in data['intents']:
         if i['tag'] == tag:
-            print(random.choice(i['answer']))
+            res = random.choice(i['answer'])
+    print(res)

@@ -9,7 +9,7 @@ from tensorflow.keras.preprocessing.sequence import pad_sequences
 from sklearn.preprocessing import LabelEncoder
 import pickle
 
-with open('data/json/data.json') as file:
+with open('data/json_test/merged.json') as file:
     data = json.load(file)
 
 training_sentence = []
@@ -49,7 +49,7 @@ model.add(Embedding(vocab_size, embedding_dim, input_length=max_len))
 model.add(GlobalAveragePooling1D())
 model.add(Dense(16, activation='relu'))
 model.add(Dense(16, activation='relu'))
-# model.add(Dense(16, activation='relu'))
+model.add(Dense(16, activation='relu'))
 model.add(Dense(num_classes, activation='softmax'))
 
 model.compile(loss='sparse_categorical_crossentropy', optimizer='adam', metrics=['accuracy'])
@@ -57,10 +57,10 @@ model.compile(loss='sparse_categorical_crossentropy', optimizer='adam', metrics=
 model.summary()
 
 
-epochs = 1000
+epochs = 2000
 history = model.fit(padded_sequences, np.array(training_labels), epochs=epochs)
 
-model.save('chatbot_save_model/chat_model.h5')
+model.save('chat_model/chat_model.h5')
 
 with open('pickle/tokenizer.pickle', 'wb') as handle:
     pickle.dump(tokenizer, handle, protocol=pickle.HIGHEST_PROTOCOL)
