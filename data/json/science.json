@@ -2,141 +2,116 @@
     {
         "tag": "what are the laws of thermodynamics",
         "question": "what are the laws of thermodynamics",
-        "answer": "i'm not a physicist, but i think this has something to do with heat, entropy, and conservation of energy, right?"
+        "answer": ["i'm not a physicist, but i think this has something to do with heat, entropy, and conservation of energy, right?"]
     },
     {
         "tag": "what disease does a carcinogen cause",
         "question": "what disease does a carcinogen cause",
-        "answer": "cancer."
+        "answer": ["cancer."]
     },
     {
         "tag": "what is a wavelength",
         "question": "what is a wavelength",
-        "answer": "wavelength is the inverse of frequency."
+        "answer": ["wavelength is the inverse of frequency."]
     },
     {
         "tag": "what is thermodynamics",
         "question": "what is thermodynamics",
-        "answer": "the branch of physics dealing with the transformation of heat to and from other forms of energy, and with the laws governing such conversions of energy."
+        "answer": ["the branch of physics dealing with the transformation of heat to and from other forms of energy, and with the laws governing such conversions of energy."]
     },
     {
         "tag": "what is chemistry",
         "question": "what is chemistry",
-        "answer": "the science of mixing chemicals."
+        "answer": ["the science of mixing chemicals."]
     },
     {
         "tag": "what is crystallography",
         "question": "what is crystallography",
-        "answer": "this is the science dealing with the study of crystals."
+        "answer": ["this is the science dealing with the study of crystals."]
     },
     {
         "tag": "what is avogadro s number",
         "question": "what is avogadro s number",
-        "answer": "it is the number of molecules per mole.  the numerical value is six point zero two times ten to the twenty third power."
+        "answer": ["it is the number of molecules per mole.  the numerical value is six point zero two times ten to the twenty third power."]
     },
     {
         "tag": "what is ultrasound",
         "question": "what is ultrasound",
-        "answer": "ultrasonic waves, used in medical diagnosis and therapy, in surgery, etc."
+        "answer": ["ultrasonic waves, used in medical diagnosis and therapy, in surgery, etc."]
     },
     {
         "tag": "what is bioinformatics",
         "question": "what is bioinformatics",
-        "answer": "a fancy name for applied computer science in biology."
+        "answer": ["a fancy name for applied computer science in biology."]
     },
     {
         "tag": "what is ichthyology",
         "question": "what is ichthyology",
-        "answer": "we talk about this when we study fishes."
+        "answer": ["we talk about this when we study fishes."]
     },
     {
         "tag": "what is h2o",
         "question": "what is h2o",
-        "answer": "h is to o as o is to v."
+        "answer": ["h is to o as o is to v."]
     },
     {
         "tag": "what is cytology",
         "question": "what is cytology",
-        "answer": "the study of cells."
-    },
-    {
-        "tag": "what is cytology",
-        "question": "what is cytology",
-        "answer": "well, from what i can recall it is the study of cells."
+        "answer": ["the study of cells.", "well, from what i can recall it is the study of cells."]
     },
     {
         "tag": "what is wavelength",
         "question": "what is wavelength",
-        "answer": "in physics, the distance, measured in the direction of progression of a wave, from any given point to the next point characterized by the same phase.  or is could be looked at as a way of thinking."
+        "answer": ["in physics, the distance, measured in the direction of progression of a wave, from any given point to the next point characterized by the same phase.  or is could be looked at as a way of thinking."]
     },
     {
         "tag": "what is bacteriology",
         "question": "what is bacteriology",
-        "answer": "this is the scientific study of bacteria and diseases caused by them."
+        "answer": ["this is the scientific study of bacteria and diseases caused by them."]
     },
     {
         "tag": "what is gravitation",
         "question": "what is gravitation",
-        "answer": "an invitation to a burial"
-    },
-    {
-        "tag": "what is gravitation",
-        "question": "what is gravitation",
-        "answer": "the force by which every mass or particle of matter, including photons, attracts and is attracted by every other mass or particle of matter."
+        "answer": ["an invitation to a burial", "the force by which every mass or particle of matter, including photons, attracts and is attracted by every other mass or particle of matter."]
     },
     {
         "tag": "we are on the same wavelength",
         "question": "we are on the same wavelength",
-        "answer": "and the same frequency."
+        "answer": ["and the same frequency."]
     },
     {
         "tag": "how far is the sun",
         "question": "how far is the sun",
-        "answer": "it"
-    },
-    {
-        "tag": "how far is the sun",
-        "question": "how far is the sun",
-        "answer": "the sun is about 93 million miles from earth."
+        "answer": ["the sun is about 93 million miles from earth."]
     },
     {
         "tag": "how far is the moon",
         "question": "how far is the moon",
-        "answer": "it"
-    },
-    {
-        "tag": "how far is the moon",
-        "question": "how far is the moon",
-        "answer": "the moon is about 250,000 miles from earth on average."
+        "answer": ["the moon is about 250,000 miles from earth on average."]
     },
     {
         "tag": "do you know chemistry",
         "question": "do you know chemistry",
-        "answer": "what is chemistry"
+        "answer": ["what is chemistry"]
     },
     {
         "tag": "do you understand thermodynamics",
         "question": "do you understand thermodynamics",
-        "answer": "what is thermodynamics"
+        "answer": ["what is thermodynamics"]
     },
     {
         "tag": "chemistry",
         "question": "chemistry",
-        "answer": "my favorite subject is chemistry"
+        "answer": ["my favorite subject is chemistry"]
     },
     {
         "tag": "the same wavelength",
         "question": "the same wavelength",
-        "answer": "it means we agree."
+        "answer": ["it means we agree."]
     },
     {
         "tag": "tell me about venus",
         "question": "tell me about venus",
-        "answer": "what is venus"
-    },
-    {
-        "tag": "tell me about venus",
-        "question": "tell me about venus",
-        "answer": "venus is the second planet from the sun."
+        "answer": ["what is venus", "venus is the second planet from the sun."]
     }
 ]

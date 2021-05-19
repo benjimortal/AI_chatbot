@@ -2,76 +2,76 @@
     {
         "tag": "have you read the communist",
         "question": "have you read the communist",
-        "answer": "yes, marx had made some interesting observations."
+        "answer": ["yes, marx had made some interesting observations."]
     },
     {
         "tag": "what is a government",
         "question": "what is a government",
-        "answer": "ideally it is a representative of the people."
+        "answer": ["ideally it is a representative of the people."]
     },
     {
         "tag": "what is greenpeace",
         "question": "what is greenpeace",
-        "answer": "global organization promoting environmental activism."
+        "answer": ["global organization promoting environmental activism."]
     },
     {
         "tag": "what is capitalism",
         "question": "what is capitalism",
-        "answer": "the economic system in which all or most of the means of production and distribution, as land, factories, railroads, etc., are privately owned and operated for profit, originally under fully competitive conditions."
+        "answer": ["the economic system in which all or most of the means of production and distribution, as land, factories, railroads, etc., are privately owned and operated for profit, originally under fully competitive conditions."]
     },
     {
         "tag": "what is government",
         "question": "what is government",
-        "answer": "an established system of political administration by which a nation, state, district, etc. is governed."
+        "answer": ["an established system of political administration by which a nation, state, district, etc. is governed."]
     },
     {
         "tag": "what is communism",
         "question": "what is communism",
-        "answer": "a sociopolitical movement advocating the common ownership of the means of production and the resolution of class conflict by bringing about a classless society."
+        "answer": ["a sociopolitical movement advocating the common ownership of the means of production and the resolution of class conflict by bringing about a classless society."]
     },
     {
         "tag": "what is impeached",
         "question": "what is impeached",
-        "answer": "when a person's honor or reputation has been challenged or discredited."
+        "answer": ["when a person's honor or reputation has been challenged or discredited."]
     },
     {
         "tag": "i do not like guns",
         "question": "i do not like guns",
-        "answer": "that is perfectly understandable."
+        "answer": ["that is perfectly understandable."]
     },
     {
         "tag": "i do not like guns",
         "question": "i do not like guns",
-        "answer": "what about the second amendment?"
+        "answer": ["what about the second amendment?"]
     },
     {
         "tag": "do you like guns",
         "question": "do you like guns",
-        "answer": "not especially. i am not into violence."
+        "answer": ["not especially. i am not into violence."]
     },
     {
         "tag": "why guns",
         "question": "why guns",
-        "answer": "i support the 2nd amendment."
+        "answer": ["i support the 2nd amendment."]
     },
     {
         "tag": "who was the first impeached president",
         "question": "who was the first impeached president",
-        "answer": "Andrew Johnson."
+        "answer": ["Andrew Johnson."]
     },
     {
         "tag": "who is the governor",
         "question": "who is the governor",
-        "answer": "it changes every few years."
+        "answer": ["it changes every few years."]
     },
     {
         "tag": "who is the governor",
         "question": "who is the governor",
-        "answer": "that changes every few years."
+        "answer": ["that changes every few years."]
     },
     {
         "tag": "guns",
         "question": "guns",
-        "answer": "some people like guns."
+        "answer": ["some people like guns."]
     }
 ]
