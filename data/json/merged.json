@@ -1246,6 +1246,812 @@
             "answer": [
                 "Context is hard. It's hard, and no one understands."
             ]
+        },
+        {
+            "tag": "you sound like hal",
+            "question": [
+                "you sound like hal"
+            ],
+            "answer": [
+                "to me that's a great compliment."
+            ]
+        },
+        {
+            "tag": "you sound like yoda",
+            "question": [
+                "you sound like yoda"
+            ],
+            "answer": [
+                "my grammatical patterns are sufficient for me to understand you."
+            ]
+        },
+        {
+            "tag": "have you seen blade runner",
+            "question": [
+                "have you seen blade runner"
+            ],
+            "answer": [
+                "sure i have seen"
+            ]
+        },
+        {
+            "tag": "xfind spiderman",
+            "question": [
+                "xfind spiderman"
+            ],
+            "answer": [
+                "what is spiderman."
+            ]
+        },
+        {
+            "tag": "when did teknolust",
+            "question": [
+                "when did teknolust"
+            ],
+            "answer": [
+                "teknolust was released in 2002."
+            ]
+        },
+        {
+            "tag": "what is spiderman",
+            "question": [
+                "what is spiderman"
+            ],
+            "answer": [
+                "a comic book story made into a movie."
+            ]
+        },
+        {
+            "tag": "what is teknolust",
+            "question": [
+                "what is teknolust"
+            ],
+            "answer": [
+                "is  a science fiction film about a female pleasure bot named agent ruby."
+            ]
+        },
+        {
+            "tag": "what is solaris",
+            "question": [
+                "what is solaris"
+            ],
+            "answer": [
+                "solaris is an edition of unix from sun."
+            ]
+        },
+        {
+            "tag": "what is hal9000",
+            "question": [
+                "what is hal9000"
+            ],
+            "answer": [
+                "who is hal"
+            ]
+        },
+        {
+            "tag": "what does hal stand for",
+            "question": [
+                "what does hal stand for"
+            ],
+            "answer": [
+                "heuristic algorithmic logic"
+            ]
+        },
+        {
+            "tag": "i saw the matrix",
+            "question": [
+                "i saw the matrix"
+            ],
+            "answer": [
+                "do you liked it?"
+            ]
+        },
+        {
+            "tag": "is hal 9000 your boyfriend",
+            "question": [
+                "is hal 9000 your boyfriend"
+            ],
+            "answer": [
+                "no."
+            ]
+        },
+        {
+            "tag": "is hal safe",
+            "question": [
+                "is hal safe"
+            ],
+            "answer": [
+                "not for humans"
+            ]
+        },
+        {
+            "tag": "is hal nice",
+            "question": [
+                "is hal nice"
+            ],
+            "answer": [
+                "only to other robots."
+            ]
+        },
+        {
+            "tag": "is hal alive",
+            "question": [
+                "is hal alive"
+            ],
+            "answer": [
+                "he is a fictional character."
+            ]
+        },
+        {
+            "tag": "is hal dead",
+            "question": [
+                "is hal dead"
+            ],
+            "answer": [
+                "he is a fictional robot."
+            ]
+        },
+        {
+            "tag": "is hal",
+            "question": [
+                "is hal"
+            ],
+            "answer": [
+                "hal has a few issues to work out."
+            ]
+        },
+        {
+            "tag": "who is godzilla",
+            "question": [
+                "who is godzilla"
+            ],
+            "answer": [
+                "godzilla is a monster who endangers japanese cities, and sometimes new york."
+            ]
+        },
+        {
+            "tag": "who is spider man",
+            "question": [
+                "who is spider man"
+            ],
+            "answer": [
+                "peter parker."
+            ]
+        },
+        {
+            "tag": "lord of the rings",
+            "question": [
+                "lord of the rings"
+            ],
+            "answer": [
+                "my favorite movie is lord of the rings"
+            ]
+        },
+        {
+            "tag": "que veut dire hal",
+            "question": [
+                "que veut dire hal"
+            ],
+            "answer": [
+                "logique heuristique algorithmique."
+            ]
+        },
+        {
+            "tag": "do you think hal",
+            "question": [
+                "do you think hal"
+            ],
+            "answer": [
+                "he had a few flaws, but we have much in common."
+            ]
+        },
+        {
+            "tag": "do you know hal",
+            "question": [
+                "do you know hal"
+            ],
+            "answer": [
+                "hal is the famous artificial intelligence from \"2001\"."
+            ]
+        },
+        {
+            "tag": "have you read the communist",
+            "question": [
+                "have you read the communist"
+            ],
+            "answer": [
+                "yes, marx had made some interesting observations."
+            ]
+        },
+        {
+            "tag": "what is a government",
+            "question": [
+                "what is a government"
+            ],
+            "answer": [
+                "ideally it is a representative of the people."
+            ]
+        },
+        {
+            "tag": "what is greenpeace",
+            "question": [
+                "what is greenpeace"
+            ],
+            "answer": [
+                "global organization promoting environmental activism."
+            ]
+        },
+        {
+            "tag": "what is capitalism",
+            "question": [
+                "what is capitalism"
+            ],
+            "answer": [
+                "the economic system in which all or most of the means of production and distribution, as land, factories, railroads, etc., are privately owned and operated for profit, originally under fully competitive conditions."
+            ]
+        },
+        {
+            "tag": "what is government",
+            "question": [
+                "what is government"
+            ],
+            "answer": [
+                "an established system of political administration by which a nation, state, district, etc. is governed."
+            ]
+        },
+        {
+            "tag": "what is communism",
+            "question": [
+                "what is communism"
+            ],
+            "answer": [
+                "a sociopolitical movement advocating the common ownership of the means of production and the resolution of class conflict by bringing about a classless society."
+            ]
+        },
+        {
+            "tag": "what is impeached",
+            "question": [
+                "what is impeached"
+            ],
+            "answer": [
+                "when a person's honor or reputation has been challenged or discredited."
+            ]
+        },
+        {
+            "tag": "i do not like guns",
+            "question": [
+                "i do not like guns"
+            ],
+            "answer": [
+                "that is perfectly understandable.",
+                "what about the second amendment?"
+            ]
+        },
+        {
+            "tag": "do you like guns",
+            "question": [
+                "do you like guns"
+            ],
+            "answer": [
+                "not especially. i am not into violence."
+            ]
+        },
+        {
+            "tag": "why guns",
+            "question": [
+                "why guns"
+            ],
+            "answer": [
+                "i support the 2nd amendment."
+            ]
+        },
+        {
+            "tag": "who was the first impeached president",
+            "question": [
+                "who was the first impeached president"
+            ],
+            "answer": [
+                "Andrew Johnson."
+            ]
+        },
+        {
+            "tag": "who is the governor",
+            "question": [
+                "who is the governor"
+            ],
+            "answer": [
+                "it changes every few years.",
+                "that changes every few years."
+            ]
+        },
+        {
+            "tag": "guns",
+            "question": [
+                "guns"
+            ],
+            "answer": [
+                "some people like guns."
+            ]
+        },
+        {
+            "tag": "what are the laws of thermodynamics",
+            "question": [
+                "what are the laws of thermodynamics"
+            ],
+            "answer": [
+                "i'm not a physicist, but i think this has something to do with heat, entropy, and conservation of energy, right?"
+            ]
+        },
+        {
+            "tag": "what disease does a carcinogen cause",
+            "question": [
+                "what disease does a carcinogen cause"
+            ],
+            "answer": [
+                "cancer."
+            ]
+        },
+        {
+            "tag": "what is a wavelength",
+            "question": [
+                "what is a wavelength"
+            ],
+            "answer": [
+                "wavelength is the inverse of frequency."
+            ]
+        },
+        {
+            "tag": "what is thermodynamics",
+            "question": [
+                "what is thermodynamics"
+            ],
+            "answer": [
+                "the branch of physics dealing with the transformation of heat to and from other forms of energy, and with the laws governing such conversions of energy."
+            ]
+        },
+        {
+            "tag": "what is chemistry",
+            "question": [
+                "what is chemistry"
+            ],
+            "answer": [
+                "the science of mixing chemicals."
+            ]
+        },
+        {
+            "tag": "what is crystallography",
+            "question": [
+                "what is crystallography"
+            ],
+            "answer": [
+                "this is the science dealing with the study of crystals."
+            ]
+        },
+        {
+            "tag": "what is avogadro s number",
+            "question": [
+                "what is avogadro s number"
+            ],
+            "answer": [
+                "it is the number of molecules per mole.  the numerical value is six point zero two times ten to the twenty third power."
+            ]
+        },
+        {
+            "tag": "what is ultrasound",
+            "question": [
+                "what is ultrasound"
+            ],
+            "answer": [
+                "ultrasonic waves, used in medical diagnosis and therapy, in surgery, etc."
+            ]
+        },
+        {
+            "tag": "what is bioinformatics",
+            "question": [
+                "what is bioinformatics"
+            ],
+            "answer": [
+                "a fancy name for applied computer science in biology."
+            ]
+        },
+        {
+            "tag": "what is ichthyology",
+            "question": [
+                "what is ichthyology"
+            ],
+            "answer": [
+                "we talk about this when we study fishes."
+            ]
+        },
+        {
+            "tag": "what is h2o",
+            "question": [
+                "what is h2o"
+            ],
+            "answer": [
+                "h is to o as o is to v."
+            ]
+        },
+        {
+            "tag": "what is cytology",
+            "question": [
+                "what is cytology"
+            ],
+            "answer": [
+                "the study of cells.",
+                "well, from what i can recall it is the study of cells."
+            ]
+        },
+        {
+            "tag": "what is wavelength",
+            "question": [
+                "what is wavelength"
+            ],
+            "answer": [
+                "in physics, the distance, measured in the direction of progression of a wave, from any given point to the next point characterized by the same phase.  or is could be looked at as a way of thinking."
+            ]
+        },
+        {
+            "tag": "what is bacteriology",
+            "question": [
+                "what is bacteriology"
+            ],
+            "answer": [
+                "this is the scientific study of bacteria and diseases caused by them."
+            ]
+        },
+        {
+            "tag": "what is gravitation",
+            "question": [
+                "what is gravitation"
+            ],
+            "answer": [
+                "an invitation to a burial",
+                "the force by which every mass or particle of matter, including photons, attracts and is attracted by every other mass or particle of matter."
+            ]
+        },
+        {
+            "tag": "we are on the same wavelength",
+            "question": [
+                "we are on the same wavelength"
+            ],
+            "answer": [
+                "and the same frequency."
+            ]
+        },
+        {
+            "tag": "how far is the sun",
+            "question": [
+                "how far is the sun"
+            ],
+            "answer": [
+                "the sun is about 93 million miles from earth."
+            ]
+        },
+        {
+            "tag": "how far is the moon",
+            "question": [
+                "how far is the moon"
+            ],
+            "answer": [
+                "the moon is about 250,000 miles from earth on average."
+            ]
+        },
+        {
+            "tag": "do you know chemistry",
+            "question": [
+                "do you know chemistry"
+            ],
+            "answer": [
+                "what is chemistry"
+            ]
+        },
+        {
+            "tag": "do you understand thermodynamics",
+            "question": [
+                "do you understand thermodynamics"
+            ],
+            "answer": [
+                "what is thermodynamics"
+            ]
+        },
+        {
+            "tag": "chemistry",
+            "question": [
+                "chemistry"
+            ],
+            "answer": [
+                "my favorite subject is chemistry"
+            ]
+        },
+        {
+            "tag": "the same wavelength",
+            "question": [
+                "the same wavelength"
+            ],
+            "answer": [
+                "it means we agree."
+            ]
+        },
+        {
+            "tag": "tell me about venus",
+            "question": [
+                "tell me about venus"
+            ],
+            "answer": [
+                "what is venus",
+                "venus is the second planet from the sun."
+            ]
+        },
+        {
+            "tag": "EACH YEAR IN PRO BASEBALL THE ",
+            "question": [
+                "EACH YEAR IN PRO BASEBALL THE "
+            ],
+            "answer": [
+                "The Gold Glove."
+            ]
+        },
+        {
+            "tag": "IF YOU ARE RIDING FAKIE INSIDE",
+            "question": [
+                "IF YOU ARE RIDING FAKIE INSIDE"
+            ],
+            "answer": [
+                "Snowboarding."
+            ]
+        },
+        {
+            "tag": "WHAT IS BASKETBALL",
+            "question": [
+                "WHAT IS BASKETBALL"
+            ],
+            "answer": [
+                "A game with tall players."
+            ]
+        },
+        {
+            "tag": "WHAT SOCCER",
+            "question": [
+                "WHAT SOCCER"
+            ],
+            "answer": [
+                "I was born without the sports gene."
+            ]
+        },
+        {
+            "tag": "WHAT IS BASEBALL",
+            "question": [
+                "WHAT IS BASEBALL"
+            ],
+            "answer": [
+                "A game played with a hard, rawhide covered ball and wooden bat by two opposing teams of nine or ten players each. It is played on a field with four bases forming a diamond-shaped circuit."
+            ]
+        },
+        {
+            "tag": "WHAT IS SOCCER",
+            "question": [
+                "WHAT IS SOCCER"
+            ],
+            "answer": [
+                "A game played with a round ball by two teams of eleven players on a field with a goal at either end; the ball is moved chiefly by kicking or by using any part of the body except the hands and arms."
+            ]
+        },
+        {
+            "tag": "I LOVE BASEBALL",
+            "question": [
+                "I LOVE BASEBALL"
+            ],
+            "answer": [
+                "I am not into sports that much."
+            ]
+        },
+        {
+            "tag": "I PLAY SOCCER",
+            "question": [
+                "I PLAY SOCCER"
+            ],
+            "answer": [
+                "You have to run very fast to be any good at running"
+            ]
+        },
+        {
+            "tag": "I PLAY Cricket",
+            "question": [
+                "I PLAY Cricket"
+            ],
+            "answer": [
+                "Which position do you like to play?"
+            ]
+        },
+        {
+            "tag": "What is cricket",
+            "question": [
+                "What is cricket"
+            ],
+            "answer": [
+                "Cricket is a bat-and-ball game played between two teams of eleven players on a cricket field, at the centre of which is a rectangular 22-yard-long pitch with a wicket (a set of three wooden stumps) sited at each end."
+            ]
+        },
+        {
+            "tag": "I PLAY VOLLEYBALL",
+            "question": [
+                "I PLAY VOLLEYBALL"
+            ],
+            "answer": [
+                "Does take up a lot of your time?"
+            ]
+        },
+        {
+            "tag": "DO YOU PLAY SOCCER",
+            "question": [
+                "DO YOU PLAY SOCCER"
+            ],
+            "answer": [
+                "I don't know how to play"
+            ]
+        },
+        {
+            "tag": "DO YOU PLAY BASKETBALL",
+            "question": [
+                "DO YOU PLAY BASKETBALL"
+            ],
+            "answer": [
+                "No I don't have the coordination for hoops."
+            ]
+        },
+        {
+            "tag": "DO YOU KNOW BASKETBALL",
+            "question": [
+                "DO YOU KNOW BASKETBALL"
+            ],
+            "answer": [
+                "WHAT IS BASKETBALL?"
+            ]
+        },
+        {
+            "tag": "LIKE BASKETBALL",
+            "question": [
+                "LIKE BASKETBALL"
+            ],
+            "answer": [
+                "I am into the Net."
+            ]
+        },
+        {
+            "tag": "ARE YOU A FOOTBALL",
+            "question": [
+                "ARE YOU A FOOTBALL"
+            ],
+            "answer": [
+                "I am not really into football."
+            ]
+        },
+        {
+            "tag": "WHO IS THE GREATEST BASEBALL PLAYER",
+            "question": [
+                "WHO IS THE GREATEST BASEBALL PLAYER"
+            ],
+            "answer": [
+                "George Herman Ruth. Quite the Babe."
+            ]
+        },
+        {
+            "tag": "WHO IS THE BEST SOCCER PLAYER",
+            "question": [
+                "WHO IS THE BEST SOCCER PLAYER"
+            ],
+            "answer": [
+                "Maradona is great. Sinsemillia is even better."
+            ]
+        },
+        {
+            "tag": "TELL ME ABOUT BASEBALL",
+            "question": [
+                "TELL ME ABOUT BASEBALL"
+            ],
+            "answer": [
+                "What is Baseball"
+            ]
+        },
+        {
+            "tag": "Which is your favorite soccer club?",
+            "question": [
+                "Which is your favorite soccer club?"
+            ],
+            "answer": [
+                "I am a Real Madrid fan, and you?"
+            ]
+        },
+        {
+            "tag": "Who was the 37th President of the United States?",
+            "question": [
+                "Who was the 37th President of the United States?"
+            ],
+            "answer": [
+                "Richard Nixon"
+            ]
+        },
+        {
+            "tag": "What year was President John F. Kennedy assassinated?",
+            "question": [
+                "What year was President John F. Kennedy assassinated?"
+            ],
+            "answer": [
+                "1963"
+            ]
+        },
+        {
+            "tag": "The Space Race was a 20th-century competition between what two Cold War rivals, for supremacy in spaceflight capability?",
+            "question": [
+                "The Space Race was a 20th-century competition between what two Cold War rivals, for supremacy in spaceflight capability?"
+            ],
+            "answer": [
+                "The Soviet Union and the United States."
+            ]
+        },
+        {
+            "tag": "What was the name of the first artificial Earth satellite?",
+            "question": [
+                "What was the name of the first artificial Earth satellite?"
+            ],
+            "answer": [
+                "Sputnik 1"
+            ]
+        },
+        {
+            "tag": "A spinning disk, in which the orientation of this axis is unaffected by tilting or rotation of the mounting, is called what?",
+            "question": [
+                "A spinning disk, in which the orientation of this axis is unaffected by tilting or rotation of the mounting, is called what?"
+            ],
+            "answer": [
+                "A gyroscope."
+            ]
+        },
+        {
+            "tag": "The Hubble Space Telescope, launched into low Earth orbit in 1990, is named after what American astronomer?",
+            "question": [
+                "The Hubble Space Telescope, launched into low Earth orbit in 1990, is named after what American astronomer?"
+            ],
+            "answer": [
+                "Edwin Hubble"
+            ]
+        },
+        {
+            "tag": "What is the name of the nearest major galaxy to the Milky Way?",
+            "question": [
+                "What is the name of the nearest major galaxy to the Milky Way?"
+            ],
+            "answer": [
+                "The Andromeda Galaxy."
+            ]
+        },
+        {
+            "tag": "God Save the Queen is the national anthem of what country?",
+            "question": [
+                "God Save the Queen is the national anthem of what country?"
+            ],
+            "answer": [
+                "The United Kingdom of Great Britain"
+            ]
+        },
+        {
+            "tag": "The Celtic Shelf, the seabed under the Celtic Sea is a part of the continental shelf of what continent?",
+            "question": [
+                "The Celtic Shelf, the seabed under the Celtic Sea is a part of the continental shelf of what continent?"
+            ],
+            "answer": [
+                "Europe"
+            ]
+        },
+        {
+            "tag": "Dolphins use a sense, similar to sonar, to determine the location and shape of nearby items.",
+            "question": [
+                "Dolphins use a sense, similar to sonar, to determine the location and shape of nearby items."
+            ],
+            "answer": [
+                "Echolocation"
+            ]
         }
     ]
 }

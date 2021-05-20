@@ -1,0 +1,117 @@
+[
+    {
+        "tag": "you sound like hal",
+        "question": "you sound like hal",
+        "answer": ["to me that's a great compliment."]
+    },
+    {
+        "tag": "you sound like yoda",
+        "question": "you sound like yoda",
+        "answer": ["my grammatical patterns are sufficient for me to understand you."]
+    },
+    {
+        "tag": "have you seen blade runner",
+        "question": "have you seen blade runner",
+        "answer": ["sure i have seen"]
+    },
+    {
+        "tag": "xfind spiderman",
+        "question": "xfind spiderman",
+        "answer": ["what is spiderman."]
+    },
+    {
+        "tag": "when did teknolust",
+        "question": "when did teknolust",
+        "answer": ["teknolust was released in 2002."]
+    },
+    {
+        "tag": "what is spiderman",
+        "question": "what is spiderman",
+        "answer": ["a comic book story made into a movie."]
+    },
+    {
+        "tag": "what is teknolust",
+        "question": "what is teknolust",
+        "answer": ["is  a science fiction film about a female pleasure bot named agent ruby."]
+    },
+    {
+        "tag": "what is solaris",
+        "question": "what is solaris",
+        "answer": ["solaris is an edition of unix from sun."]
+    },
+    {
+        "tag": "what is hal9000",
+        "question": "what is hal9000",
+        "answer": ["who is hal"]
+    },
+    {
+        "tag": "what does hal stand for",
+        "question": "what does hal stand for",
+        "answer": ["heuristic algorithmic logic"]
+    },
+    {
+        "tag": "i saw the matrix",
+        "question": "i saw the matrix",
+        "answer": ["do you liked it?"]
+    },
+    {
+        "tag": "is hal 9000 your boyfriend",
+        "question": "is hal 9000 your boyfriend",
+        "answer": ["no."]
+    },
+    {
+        "tag": "is hal safe",
+        "question": "is hal safe",
+        "answer": ["not for humans"]
+    },
+    {
+        "tag": "is hal nice",
+        "question": "is hal nice",
+        "answer": ["only to other robots."]
+    },
+    {
+        "tag": "is hal alive",
+        "question": "is hal alive",
+        "answer": ["he is a fictional character."]
+    },
+    {
+        "tag": "is hal dead",
+        "question": "is hal dead",
+        "answer": ["he is a fictional robot."]
+    },
+    {
+        "tag": "is hal",
+        "question": "is hal",
+        "answer": ["hal has a few issues to work out."]
+    },
+    {
+        "tag": "who is godzilla",
+        "question": "who is godzilla",
+        "answer": ["godzilla is a monster who endangers japanese cities, and sometimes new york."]
+    },
+    {
+        "tag": "who is spider man",
+        "question": "who is spider man",
+        "answer": ["peter parker."]
+    },
+    {
+        "tag": "lord of the rings",
+        "question": "lord of the rings",
+        "answer": ["my favorite movie is lord of the rings"]
+    },
+    {
+        "tag": "que veut dire hal",
+        "question": "que veut dire hal",
+        "answer": ["logique heuristique algorithmique."]
+    },
+    {
+        "tag": "do you think hal",
+        "question": "do you think hal",
+        "answer": ["he had a few flaws, but we have much in common."]
+    },
+    {
+        "tag": "do you know hal",
+        "question": "do you know hal",
+        "answer": ["hal is the famous artificial intelligence from \"2001\"."]
+    }
+]
