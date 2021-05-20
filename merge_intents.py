@@ -1,7 +1,6 @@
 import json
 from pathlib import Path
 
-
 data = []
 
 json_path = Path(__file__).parent.joinpath('data/json')
@@ -15,7 +14,7 @@ for file in files:
             pass
 
 dict_to_json = {
-    'intents':[]
+    'intents': []
 }
 for line in data:
     tag = line['tag']

@@ -1,16 +1,17 @@
+import csv
 import nltk
-from nltk.stem import WordNetLemmatizer
-lemmatizer = WordNetLemmatizer()
+import numpy as np
+import random
 import json
 import pickle
+import sqlite3 as sql
 
-import numpy as np
+from nltk.stem import WordNetLemmatizer
 from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Dense, Activation, Dropout
 from tensorflow.keras.optimizers import SGD
-import random
 
-
+lemmatizer = WordNetLemmatizer()
 words = []
 classes = []
 docs = []
@@ -19,23 +20,26 @@ letters_to_ignore = ['?', '!', '.', ',']
 data_file = open('data/json_test/data_test_new.json').read()
 intents = json.loads(data_file)
 
+
 for intent in intents['intents']:
-    for question in intent['question']:
-        list_of_word = nltk.word_tokenize(question)
-        words.extend(list_of_word)
-        docs.append((list_of_word, intent['tag']))
-        if intent['tag'] not in classes:
-            classes.append(intent['tag'])
+    for intent in intents['intents']:
+        for question in intent['question']:
+            list_of_word = nltk.word_tokenize(question)
+            words.extend(list_of_word)
+            docs.append((list_of_word, intent['tag']))
+            if intent['tag'] not in classes:
+                classes.append(intent['tag'])
 
 words = [lemmatizer.lemmatize(word) for word in words if word not in letters_to_ignore]
 words = sorted(set(words))
 
-
 pickle.dump(words, open('pickle/words.pkl', 'wb'))
 pickle.dump(classes, open('pickle/classes.pkl', 'wb'))
 
+
 training = []
 empty_out = [0] * len(classes)
+
 
 for doc in docs:
     BoW = []
@@ -57,7 +61,7 @@ train_y = list(training[:, 1])
 
 
 model = Sequential()
-model.add(Dense(128, input_shape=(len(train_x[0]),), activation= 'relu'))
+model.add(Dense(128, input_shape=(len(train_x[0]),), activation='relu'))
 model.add(Dropout(0.5))
 model.add(Dense(64, activation='relu'))
 model.add(Dropout(0.5))
@@ -71,20 +75,3 @@ hist = model.fit(np.array(train_x), np.array(train_y), epochs=200, batch_size=5,
 
 model.save('chatbot_save_model', hist)
 print('Done')
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
