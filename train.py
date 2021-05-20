@@ -1,12 +1,11 @@
 import numpy as np
 import random
 import json
-
 import torch
 import torch.nn as nn
-from torch.utils.data import Dataset, DataLoader
 
-from nltk_utils import BoW, token, stemming
+from torch.utils.data import Dataset, DataLoader
+from nltk_utils import bow, token, stemming
 from model import NeuralNet
 
 with open('data/json/data.json', 'r') as f:
@@ -40,7 +39,7 @@ X_train = []
 y_train = []
 for (pattern_sentence, tag) in xy:
     # X: bag of words for each pattern_sentence
-    bag = BoW(pattern_sentence, all_words)
+    bag = bow(pattern_sentence, all_words)
     X_train.append(bag)
     # y: PyTorch CrossEntropyLoss needs only class labels, not one-hot
     label = tags.index(tag)

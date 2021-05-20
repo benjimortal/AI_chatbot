@@ -1,10 +1,9 @@
 import random
 import json
-
 import torch
 
 from model import NeuralNet
-from nltk_utils import BoW, token
+from nltk_utils import bow, token
 
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
@@ -34,7 +33,7 @@ while True:
         break
 
     sentence = token(sentence)
-    X = BoW(sentence, all_words)
+    X = bow(sentence, all_words)
     X = X.reshape(1, X.shape[0])
     X = torch.from_numpy(X).to(device)
 

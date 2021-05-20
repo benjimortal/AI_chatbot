@@ -1,19 +1,17 @@
 import csv
-
 import nltk
-from nltk.stem import WordNetLemmatizer
-lemmatizer = WordNetLemmatizer()
+import numpy as np
+import random
 import json
 import pickle
 import sqlite3 as sql
 
-import numpy as np
+from nltk.stem import WordNetLemmatizer
 from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Dense, Activation, Dropout
 from tensorflow.keras.optimizers import SGD
-import random
 
-
+lemmatizer = WordNetLemmatizer()
 words = []
 classes = []
 docs = []
@@ -35,8 +33,6 @@ for intent in intents['intents']:
 words = [lemmatizer.lemmatize(word) for word in words if word not in letters_to_ignore]
 words = sorted(set(words))
 
-
-
 pickle.dump(words, open('pickle/words.pkl', 'wb'))
 pickle.dump(classes, open('pickle/classes.pkl', 'wb'))
 
@@ -45,23 +41,16 @@ training = []
 empty_out = [0] * len(classes)
 
 
-
-
-
-
-
 for doc in docs:
     BoW = []
     word_patterns = doc[0]
-    word_patterns= [lemmatizer.lemmatize(word.lower()) for word in word_patterns]
+    word_patterns = [lemmatizer.lemmatize(word.lower()) for word in word_patterns]
     for word in words:
         BoW.append(1) if word in word_patterns else BoW.append(0)
 
     output_row = list(empty_out)
     output_row[classes.index(doc[1])] = 1
     training.append([BoW, output_row])
-
-
 
 
 random.shuffle(training)
@@ -72,7 +61,7 @@ train_y = list(training[:, 1])
 
 
 model = Sequential()
-model.add(Dense(128, input_shape=(len(train_x[0]),), activation= 'relu'))
+model.add(Dense(128, input_shape=(len(train_x[0]),), activation='relu'))
 model.add(Dropout(0.5))
 model.add(Dense(64, activation='relu'))
 model.add(Dropout(0.5))
@@ -86,20 +75,3 @@ hist = model.fit(np.array(train_x), np.array(train_y), epochs=200, batch_size=5,
 
 model.save('chatbot_save_model', hist)
 print('Done')
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

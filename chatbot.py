@@ -2,10 +2,9 @@ import random
 import json
 import pickle
 import numpy as np
-
 import nltk
-from nltk.stem import WordNetLemmatizer
 
+from nltk.stem import WordNetLemmatizer
 from tensorflow.keras.models import load_model
 
 lemmatizer = WordNetLemmatizer()
@@ -15,10 +14,12 @@ words = pickle.load(open('pickle/words.pkl', 'rb'))
 classes = pickle.load(open('pickle/classes.pkl', 'rb'))
 model = load_model('chatbot_save_model')
 
+
 def clean_up_sentence(sentence):
     sentence_words = nltk.word_tokenize(sentence)
     sentence_words = [lemmatizer.lemmatize(word) for word in sentence_words]
     return sentence_words
+
 
 def bag_of_words(sentence):
     sentence_words = clean_up_sentence(sentence)
@@ -28,6 +29,7 @@ def bag_of_words(sentence):
             if word == w:
                 bag[i] = 1
     return np.array(bag)
+
 
 def predict_class(sentence):
     bow = bag_of_words(sentence)
@@ -61,6 +63,3 @@ while True:
     ints = predict_class(message)
     res = get_response(ints, intents)
     print(res)
-
-        
-

@@ -1,14 +1,14 @@
 import nltk
-from nltk.stem import WordNetLemmatizer
-lemmatizer = WordNetLemmatizer()
 import json
 import pickle
-
 import numpy as np
+import random
+
+from nltk.stem import WordNetLemmatizer
 from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Dense, Activation, Dropout
 from tensorflow.keras.optimizers import SGD
-import random
+lemmatizer = WordNetLemmatizer()
 
 words = []
 classes = []
@@ -18,12 +18,8 @@ letters_to_ignore = ['?', '!', '.', ',']
 training = []
 BoW = []
 
-
-
-
 data_file = open('data/json/data.json').read()
 intents = json.loads(data_file)
-
 
 
 def dataset_to_lists(intents, docs, words, classes):
@@ -43,6 +39,7 @@ def lemmatize(words, letters_to_ignore):
     words = [lemmatizer.lemmatize(word) for word in words if word not in letters_to_ignore]
     return words
 
+
 def sort_words(words):
     words = sorted(set(words))
     return words
@@ -52,6 +49,7 @@ def pickle_words_and_classes(words, classes):
     pickle.dump(words, open('pickle/words.pkl', 'wb'))
     pickle.dump(classes, open('pickle/classes.pkl', 'wb'))
     return words, classes
+
 
 def prepare_training(docs, words, empty_out):
 
@@ -69,9 +67,6 @@ def prepare_training(docs, words, empty_out):
     return
 
 
-
-
-
 def training_set(doc):
     training = []
     empty_out = [0] * len(classes)
@@ -80,18 +75,7 @@ def training_set(doc):
     training.append([BoW, output_row])
 
 
-
-
-
-
-
-
-
-
-
 def neuron_train(training):
-
-
     random.shuffle(training)
     training = np.array(training)
 
@@ -114,6 +98,7 @@ def neuron_train(training):
     print('Done')
     return model, hist
 
+
 def start_chatbot_engine():
     print('Start engine')
     dataset_to_lists(intents, docs, words, classes)
@@ -131,11 +116,3 @@ def start_chatbot_engine():
 
 print(start_chatbot_engine())
 print('Done')
-
-
-
-
-
-
-
-

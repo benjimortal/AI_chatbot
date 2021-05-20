@@ -1,12 +1,10 @@
 import yaml
 import json
 
-
 json_File = 'data/json/computers.json'
 
 with open('data/yml/computers.yml', 'r') as file:
     reader = yaml.load(file)
-
 
     questions_answers = []
     for q, a in reader['conversations']:
