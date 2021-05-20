@@ -8,7 +8,7 @@ from nltk.stem import WordNetLemmatizer
 from tensorflow.keras.models import load_model
 
 lemmatizer = WordNetLemmatizer()
-intents = json.loads(open('data/json_test/data_test_new.json').read())
+intents = json.loads(open('cleaned_data/cleaned_data.json').read())
 
 words = pickle.load(open('pickle/words.pkl', 'rb'))
 classes = pickle.load(open('pickle/classes.pkl', 'rb'))
@@ -34,7 +34,7 @@ def bag_of_words(sentence):
 def predict_class(sentence):
     bow = bag_of_words(sentence)
     res = model.predict(np.array([bow]))[0]
-    ERROR_THRESHOLD = 0.25
+    ERROR_THRESHOLD = 0.8
     results = [[i, r] for i, r in enumerate(res) if r > ERROR_THRESHOLD]
 
     results.sort(key=lambda x: x[1], reverse=True)
@@ -50,7 +50,7 @@ def get_response(ints, intents_json):
         list_of_intents = intents_json['intents']
         for i in list_of_intents:
             if i['tag'] == tag:
-                result = i['answer']
+                result = random.choice(i['answer'])
                 break
     except IndexError:
         result = "I don't understand!"

@@ -1,7 +1,7 @@
 import json
 
 
-json_File = 'data/json/QoA_dialog.json'
+json_File = '../data/json/QoA_dialog.json'
 answers = []
 questions = []
 with open('data/txt/questions.txt', 'r') as Qfile:

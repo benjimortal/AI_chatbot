@@ -1,7 +1,7 @@
 import json
 
 
-json_File = 'data/json/dialogs.json'
+json_File = '../data/json/dialogs.json'
 data = []
 with open('data/txt/dialogs.txt', 'r') as file:
     reader = file.readlines()

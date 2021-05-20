@@ -27,6 +27,6 @@ for line in data:
     }
     dict_to_json['intents'].append(to_dict)
 
-out_file = 'clean_data_to_train/data.json'
+out_file = 'cleaned_data/data.json'
 with open(out_file,'w', encoding='utf-8') as f:
     json.dump(dict_to_json, f, indent=4)

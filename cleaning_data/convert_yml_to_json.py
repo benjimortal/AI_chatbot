@@ -1,9 +1,9 @@
 import yaml
 import json
 
-json_File = 'data/json/trivia.json'
+json_File = '../data/json/trivia.json'
 
-with open('data/yml/trivia.yml', 'r') as file:
+with open('../data/yml/trivia.yml', 'r') as file:
     reader = yaml.load(file)
     reader = reader['conversations']
 
