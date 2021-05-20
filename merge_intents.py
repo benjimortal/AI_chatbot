@@ -1,20 +1,32 @@
 import json
 from pathlib import Path
 
+data = []
 
-data = {
-    'intents': [],
-}
 json_path = Path(__file__).parent.joinpath('data/json')
 files = json_path.glob('*.json')
 for file in files:
     with file.open('r', encoding='utf-8') as f:
         try:
-            data['intents'].extend(json.load(f))
+            data.extend(json.load(f))
 
         except (KeyError, json.JSONDecodeError):
             pass
 
+dict_to_json = {
+    'intents': []
+}
+for line in data:
+    tag = line['tag']
+    question = line['question']
+    answer = line['answer']
+    to_dict = {
+        'tag': tag,
+        'question': [question],
+        'answer': answer
+    }
+    dict_to_json['intents'].append(to_dict)
+
 out_file = json_path.joinpath('data.json')
 with out_file.open('w', encoding='utf-8') as f:
-    json.dump(data, f, indent=4)
+    json.dump(dict_to_json, f, indent=4)

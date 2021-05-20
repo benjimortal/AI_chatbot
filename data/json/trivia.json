@@ -1,0 +1,52 @@
+[
+    {
+        "tag": "Who was the 37th President of the United States?",
+        "question": "Who was the 37th President of the United States?",
+        "answer": "Richard Nixon"
+    },
+    {
+        "tag": "What year was President John F. Kennedy assassinated?",
+        "question": "What year was President John F. Kennedy assassinated?",
+        "answer": "1963"
+    },
+    {
+        "tag": "The Space Race was a 20th-century competition between what two Cold War rivals, for supremacy in spaceflight capability?",
+        "question": "The Space Race was a 20th-century competition between what two Cold War rivals, for supremacy in spaceflight capability?",
+        "answer": "The Soviet Union and the United States."
+    },
+    {
+        "tag": "What was the name of the first artificial Earth satellite?",
+        "question": "What was the name of the first artificial Earth satellite?",
+        "answer": "Sputnik 1"
+    },
+    {
+        "tag": "A spinning disk, in which the orientation of this axis is unaffected by tilting or rotation of the mounting, is called what?",
+        "question": "A spinning disk, in which the orientation of this axis is unaffected by tilting or rotation of the mounting, is called what?",
+        "answer": "A gyroscope."
+    },
+    {
+        "tag": "The Hubble Space Telescope, launched into low Earth orbit in 1990, is named after what American astronomer?",
+        "question": "The Hubble Space Telescope, launched into low Earth orbit in 1990, is named after what American astronomer?",
+        "answer": "Edwin Hubble"
+    },
+    {
+        "tag": "What is the name of the nearest major galaxy to the Milky Way?",
+        "question": "What is the name of the nearest major galaxy to the Milky Way?",
+        "answer": "The Andromeda Galaxy."
+    },
+    {
+        "tag": "God Save the Queen is the national anthem of what country?",
+        "question": "God Save the Queen is the national anthem of what country?",
+        "answer": "The United Kingdom of Great Britain"
+    },
+    {
+        "tag": "The Celtic Shelf, the seabed under the Celtic Sea is a part of the continental shelf of what continent?",
+        "question": "The Celtic Shelf, the seabed under the Celtic Sea is a part of the continental shelf of what continent?",
+        "answer": "Europe"
+    },
+    {
+        "tag": "Dolphins use a sense, similar to sonar, to determine the location and shape of nearby items.",
+        "question": "Dolphins use a sense, similar to sonar, to determine the location and shape of nearby items.",
+        "answer": "Echolocation"
+    }
+]

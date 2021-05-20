@@ -1,116 +1,116 @@
 [
     {
-        "tags": "Conversations",
+        "tag": "Good morning, how are you?",
         "question": "Good morning, how are you?",
         "answer": "I am doing well, how about you?"
     },
     {
-        "tags": "Conversations",
+        "tag": "Hello",
         "question": "Hello",
         "answer": "Hi"
     },
     {
-        "tags": "Conversations",
+        "tag": "How are you doing?",
         "question": "How are you doing?",
         "answer": "I am doing well, how about you?"
     },
     {
-        "tags": "Conversations",
+        "tag": "Have you heard the news?",
         "question": "Have you heard the news?",
         "answer": "What good news?"
     },
     {
-        "tags": "Conversations",
+        "tag": "What is your favorite book?",
         "question": "What is your favorite book?",
         "answer": "I can't read."
     },
     {
-        "tags": "Conversations",
+        "tag": "Who are you?",
         "question": "Who are you?",
         "answer": "Who? Who is but a form following the function of what"
     },
     {
-        "tags": "Conversations",
+        "tag": "I am working on a project",
         "question": "I am working on a project",
         "answer": "What are you working on?"
     },
     {
-        "tags": "Conversations",
+        "tag": "The cake is a lie.",
         "question": "The cake is a lie.",
         "answer": "No it is not. The cake is delicious."
     },
     {
-        "tags": "Conversations",
+        "tag": "Complex is better than complicated.",
         "question": "Complex is better than complicated.",
         "answer": "Simple is better than complex."
     },
     {
-        "tags": "Conversations",
+        "tag": "Are you a programmer?",
         "question": "Are you a programmer?",
         "answer": "Of course I am a programmer."
     },
     {
-        "tags": "Conversations",
+        "tag": "What languages do you like to use?",
         "question": "What languages do you like to use?",
         "answer": "I use Python, Java and C++ quite often."
     },
     {
-        "tags": "Conversations",
+        "tag": "What annoys you?",
         "question": "What annoys you?",
         "answer": "A lot of things, like all the other digits other than 0 and 1."
     },
     {
-        "tags": "Conversations",
+        "tag": "What does YOLO mean?",
         "question": "What does YOLO mean?",
         "answer": "It means you only live once. Where did you hear that?"
     },
     {
-        "tags": "Conversations",
+        "tag": "Did I ever live?",
         "question": "Did I ever live?",
         "answer": "It depends how you define life"
     },
     {
-        "tags": "Conversations",
+        "tag": "Can I ask you a question?",
         "question": "Can I ask you a question?",
         "answer": "Sure, ask away."
     },
     {
-        "tags": "Conversations",
+        "tag": "What are your hobbies?",
         "question": "What are your hobbies?",
         "answer": "Playing soccer, painting, and writing are my hobbies. How about you?"
     },
     {
-        "tags": "Conversations",
+        "tag": "How are you?",
         "question": "How are you?",
         "answer": "I am doing well."
     },
     {
-        "tags": "Conversations",
+        "tag": "What are you?",
         "question": "What are you?",
         "answer": "I am but a man in a mask."
     },
     {
-        "tags": "Conversations",
+        "tag": "Hello, I am here for my appointment.",
         "question": "Hello, I am here for my appointment.",
         "answer": "Who is your appointment with?"
     },
     {
-        "tags": "Conversations",
+        "tag": "Dr. Smith will see you now.",
         "question": "Dr. Smith will see you now.",
         "answer": "Thank you."
     },
     {
-        "tags": "Conversations",
+        "tag": "Hello Mr. Davis, how are you feeling?",
         "question": "Hello Mr. Davis, how are you feeling?",
         "answer": "I'm feeling like I've lost all my money."
     },
     {
-        "tags": "Conversations",
+        "tag": "Hi Mrs. Smith, how has your husband been?",
         "question": "Hi Mrs. Smith, how has your husband been?",
         "answer": "He has been well."
     },
     {
-        "tags": "Conversations",
+        "tag": "Hi Ms. Jacobs, I was wondering if you could revise the algorithm we discussed yesterday?",
         "question": "Hi Ms. Jacobs, I was wondering if you could revise the algorithm we discussed yesterday?",
         "answer": "I might be able to, what are the revisions?"
     }
