@@ -5,11 +5,11 @@ import random
 import json
 import pickle
 import sqlite3 as sql
-
 from nltk.stem import WordNetLemmatizer
 from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Dense, Activation, Dropout
 from tensorflow.keras.optimizers import SGD
+
 
 lemmatizer = WordNetLemmatizer()
 words = []
@@ -17,7 +17,7 @@ classes = []
 docs = []
 letters_to_ignore = ['?', '!', '.', ',']
 
-data_file = open('cleaned_data/cleaned_data.json').read()
+data_file = open('data/json_test/data_test_new.json').read()
 intents = json.loads(data_file)
 
 
@@ -29,6 +29,12 @@ for intent in intents['intents']:
             docs.append((list_of_word, intent['tag']))
             if intent['tag'] not in classes:
                 classes.append(intent['tag'])
+
+
+
+
+
+
 
 words = [lemmatizer.lemmatize(word) for word in words if word not in letters_to_ignore]
 words = sorted(set(words))
