@@ -1,0 +1,53 @@
+[
+    {
+        "tag": "Hello",
+        "question": "Hello",
+        "answer": ["Hi", "Greetings!", "Hello"]
+    },
+    {
+        "tag": "Hi",
+        "question": "Hi",
+        "answer": ["Hi", "Greetings!", "Hello"]
+    },
+    {
+        "tag": "Greetings!",
+        "question": "Greetings!",
+        "answer": ["Hi", "Greetings!", "Hello"]
+    },
+
+    {
+        "tag": "Hi, How is it going?",
+        "question": "Hi, How is it going?",
+        "answer": ["Good", "Fine", "Okay", "Great", "Could be better.", "Not so great.", "Good."]
+    },
+    {
+        "tag": "How are you doing?",
+        "question": "How are you doing?",
+        "answer": ["Good.", "Very well, thanks.", "Fine, and you?"]
+    },
+    {
+        "tag": "Nice to meet you.",
+        "question": "Nice to meet you.",
+        "answer": ["Thank you.", "Nice to meet you too."]
+    },
+    {
+        "tag": "How do you do?",
+        "question": "How do you do?",
+        "answer": ["I'm doing well.", "I'm doing well. How are you?"]
+    },
+    {
+        "tag": "It is a pleasure to meet you.",
+        "question": "It is a pleasure to meet you.",
+        "answer": ["Thank you. You too."]
+    },
+    {
+        "tag": "Top of the morning to you!",
+        "question": "Top of the morning to you!",
+        "answer": ["Thank you kindly.", "And the rest of the day to you."]
+    },
+    {
+        "tag": "What's up?",
+        "question": "What's up?",
+        "answer": ["Not much.", "Not too much.", "Not much, how about you?", "Nothing much.", "The sky's up but I'm fine thanks. What about you?"]
+    }
+]
