@@ -77,7 +77,7 @@ async def siri(ctx, *, inp):
 
 bot.run(TOKEN)
 
-
+'''testar att pusha till dev'''
 
 
 
