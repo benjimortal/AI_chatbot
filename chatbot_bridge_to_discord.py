@@ -1,17 +1,14 @@
-import json
-import numpy as np
-from tensorflow import keras
 from sklearn.preprocessing import LabelEncoder
+from discord.ext import commands
+from dotenv import load_dotenv
+from tensorflow import keras
+import numpy as np
 import random
 import pickle
-
-import os
-import random
-
 import discord
-from dotenv import load_dotenv
-from discord.ext import commands
-
+import random
+import json
+import os
 
 
 load_dotenv()

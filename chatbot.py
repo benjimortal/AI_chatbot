@@ -1,14 +1,14 @@
-import random
-import json
-import pickle
+from tensorflow.keras.models import load_model
+from nltk.stem import WordNetLemmatizer
 import numpy as np
+import random
+import pickle
+import json
 import nltk
 
-from nltk.stem import WordNetLemmatizer
-from tensorflow.keras.models import load_model
 
 lemmatizer = WordNetLemmatizer()
-intents = json.loads(open('cleaned_data/cleaned_data.json').read())
+intents = json.loads(open('cleaned_data/data_remove_stop.json').read())
 
 words = pickle.load(open('pickle/words.pkl', 'rb'))
 classes = pickle.load(open('pickle/classes.pkl', 'rb'))
@@ -34,7 +34,7 @@ def bag_of_words(sentence):
 def predict_class(sentence):
     bow = bag_of_words(sentence)
     res = model.predict(np.array([bow]))[0]
-    ERROR_THRESHOLD = 0.8
+    ERROR_THRESHOLD = 0.40
     results = [[i, r] for i, r in enumerate(res) if r > ERROR_THRESHOLD]
 
     results.sort(key=lambda x: x[1], reverse=True)
