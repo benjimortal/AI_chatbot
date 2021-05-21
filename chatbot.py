@@ -3,16 +3,23 @@ import json
 import pickle
 import numpy as np
 import nltk
-
 from nltk.stem import WordNetLemmatizer
 from tensorflow.keras.models import load_model
+import os
+from dotenv import load_dotenv
+from discord.ext import commands
+
+load_dotenv()
+TOKEN = os.getenv('DISCORD_TOKEN')
+
+bot = commands.Bot(command_prefix='')
 
 lemmatizer = WordNetLemmatizer()
-intents = json.loads(open('cleaned_data/cleaned_data.json').read())
+intents = json.loads(open('cleaned_data/data_remove_stop.json').read())
 
 words = pickle.load(open('pickle/words.pkl', 'rb'))
 classes = pickle.load(open('pickle/classes.pkl', 'rb'))
-model = load_model('chatbot_save_model')
+model = load_model('chat_model/chatter_model.h5')
 
 
 def clean_up_sentence(sentence):
@@ -58,8 +65,21 @@ def get_response(ints, intents_json):
 
 print('GO! Bot is running')
 
-while True:
-    message = input('')
+@bot.command()
+async def siri(ctx, *, inp):
+    message = inp
     ints = predict_class(message)
     res = get_response(ints, intents)
-    print(res)
+    inp = res
+    print(inp)
+    await ctx.send(inp)
+
+
+bot.run(TOKEN)
+
+
+
+
+
+
+
