@@ -18,7 +18,7 @@ classes = []
 docs = []
 letters_to_ignore = ['?', '!', '.', ',']
 
-data_file = open('cleaned_data/data_remove_stop.json').read()
+data_file = open('cleaned_data/cleaned_data.json').read()
 intents = json.loads(data_file)
 
 for intent in intents['intents']:
