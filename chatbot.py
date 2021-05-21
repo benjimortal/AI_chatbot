@@ -65,16 +65,16 @@ with open('data/json/user_train.json') as json_file:
     data = json.load(json_file)
     temp = data
 
-    print("werent you happy with your answer? press § to add one")
-    restart = True
-    while restart:
+    first = input(("do you want to start training? Enter yes, otherwise enter no."))
+    while True:
         message = input('')
         ints = predict_class(message)
         res = get_response(ints, intents)
         print(res)
-        while True:
-            if keyboard.read_key() == "§":
 
+        if first == 'yes':
+            second = input(("are you happy with the answer?"))
+            if second == 'no':
                 answer = input(("enter what answer you want"))
                 temp.append(
                     {
@@ -84,7 +84,6 @@ with open('data/json/user_train.json') as json_file:
                     }
                 )
                 write_json(data)
-                break
 
 
 
