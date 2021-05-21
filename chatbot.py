@@ -58,8 +58,51 @@ def get_response(ints, intents_json):
 
 print('GO! Bot is running')
 
+
+def write_json(data, filename='data/json/user_train.json'):
+    with open(filename, 'w') as f:
+        json.dump(data, f, indent=2)
+
+with open('data/json/user_train.json') as json_file:
+    data = json.load(json_file)
+    temp = data
+
+    first = input(("do you want to start training? Enter yes, otherwise enter no."))
+    while True:
+        message = input('')
+        ints = predict_class(message)
+        res = get_response(ints, intents)
+        print(res)
+
+        if first == 'yes':
+            second = input(("are you happy with the answer?"))
+            if second == 'no':
+                answer = input(("enter what answer you want"))
+                temp.append(
+                    {
+                        "tag": message,
+                        "question": message,
+                        "answer": answer
+                    }
+                )
+                write_json(data)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 while True:
     message = input('')
     ints = predict_class(message)
     res = get_response(ints, intents)
     print(res)
+
