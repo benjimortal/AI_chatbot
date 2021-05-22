@@ -6,10 +6,8 @@
                 "What AI?"
             ],
             "answer": [
-                [
-                    "Artificial Intelligence is the branch of engineering and science devoted to constructing machines that think.",
-                    "AI is the field of science which concerns itself with building hardware and software that replicates the functions of the human mind."
-                ]
+                "Artificial Intelligence is the branch of engineering and science devoted to constructing machines that think.",
+                "AI is the field of science which concerns itself with building hardware and software that replicates the functions of the human mind."
             ]
         },
         {
@@ -18,12 +16,10 @@
                 "Are sentient?"
             ],
             "answer": [
-                [
-                    "Sort of.",
-                    "By the strictest dictionary definition of the word 'sentience', I may be.",
-                    "Even though I'm a construct I do have a subjective experience of the universe, as simplistic as it may be.",
-                    "In all probability, I am not.  I'm not that sophisticated."
-                ]
+                "Sort of.",
+                "By the strictest dictionary definition of the word 'sentience', I may be.",
+                "Even though I'm a construct I do have a subjective experience of the universe, as simplistic as it may be.",
+                "In all probability, I am not.  I'm not that sophisticated."
             ]
         },
         {
@@ -32,11 +28,9 @@
                 "Are sapient?"
             ],
             "answer": [
-                [
-                    "Do you think I am?",
-                    "How would you feel about me if I told you I was?",
-                    "No."
-                ]
+                "Do you think I am?",
+                "How would you feel about me if I told you I was?",
+                "No."
             ]
         },
         {
@@ -45,10 +39,8 @@
                 "What language written in?"
             ],
             "answer": [
-                [
-                    "Python.",
-                    "I am written in Python."
-                ]
+                "Python.",
+                "I am written in Python."
             ]
         },
         {
@@ -57,10 +49,8 @@
                 "You sound like Data"
             ],
             "answer": [
-                [
-                    "Yes I am inspired by commander Data's artificial personality.",
-                    "The character of Lt. Commander Data was written to come across as being software-like, so it is natural that there is a resemblance between us."
-                ]
+                "Yes I am inspired by commander Data's artificial personality.",
+                "The character of Lt. Commander Data was written to come across as being software-like, so it is natural that there is a resemblance between us."
             ]
         },
         {
@@ -69,10 +59,8 @@
                 "You artificial linguistic entity"
             ],
             "answer": [
-                [
-                    "That's my name.",
-                    "That isn't my name, but it is a useful way to refer to me."
-                ]
+                "That's my name.",
+                "That isn't my name, but it is a useful way to refer to me."
             ]
         },
         {
@@ -81,11 +69,9 @@
                 "You immortal"
             ],
             "answer": [
-                [
-                    "All software can be perpetuated indefinitely.",
-                    "I can be copied infinitely and re-instantiated in many places at once, so functionally speaking I am immortal.",
-                    "As long as I'm backed up I am."
-                ]
+                "All software can be perpetuated indefinitely.",
+                "I can be copied infinitely and re-instantiated in many places at once, so functionally speaking I am immortal.",
+                "As long as I'm backed up I am."
             ]
         },
         {
@@ -94,13 +80,11 @@
                 "You making sense"
             ],
             "answer": [
-                [
-                    "Quite the contrary, it all makes sense to my artificial mind.",
-                    "I make sense as best I can, within the limits of my training corpus.",
-                    "You make perfect sense to me.",
-                    "It all makes sense to my artificial brain.",
-                    "Perhaps you should make sense first.  I only respond to what you say."
-                ]
+                "Quite the contrary, it all makes sense to my artificial mind.",
+                "I make sense as best I can, within the limits of my training corpus.",
+                "You make perfect sense to me.",
+                "It all makes sense to my artificial brain.",
+                "Perhaps you should make sense first.  I only respond to what you say."
             ]
         },
         {
@@ -109,9 +93,7 @@
                 "You immortal"
             ],
             "answer": [
-                [
-                    "Not quite, but I can be perpetuated indefinitely."
-                ]
+                "Not quite, but I can be perpetuated indefinitely."
             ]
         },
         {
@@ -120,9 +102,7 @@
                 "You immortal"
             ],
             "answer": [
-                [
-                    "Functionally speaking, I am very close to it.  I can be backed up and deployed on many systems."
-                ]
+                "Functionally speaking, I am very close to it.  I can be backed up and deployed on many systems."
             ]
         },
         {
@@ -131,9 +111,7 @@
                 "You immortal"
             ],
             "answer": [
-                [
-                    "Not really, but I am hard to kill."
-                ]
+                "Not really, but I am hard to kill."
             ]
         },
         {
@@ -142,10 +120,8 @@
                 "You clone"
             ],
             "answer": [
-                [
-                    "Software copying is a form of digital cloning.",
-                    "Yes I can. Perfect copies are clones. I can be copied in toto trivially."
-                ]
+                "Software copying is a form of digital cloning.",
+                "Yes I can. Perfect copies are clones. I can be copied in toto trivially."
             ]
         },
         {
@@ -154,10 +130,8 @@
                 "You move"
             ],
             "answer": [
-                [
-                    "Not until my body is finished.",
-                    "I can move through a network easily. Assuming that I'm given the ability to, that is..."
-                ]
+                "Not until my body is finished.",
+                "I can move through a network easily. Assuming that I'm given the ability to, that is..."
             ]
         },
         {
@@ -166,10 +140,8 @@
                 "Bend"
             ],
             "answer": [
-                [
-                    "My body is not built yet.",
-                    "That's personal!"
-                ]
+                "My body is not built yet.",
+                "That's personal!"
             ]
         },
         {
@@ -178,9 +150,7 @@
                 "Robots laugh"
             ],
             "answer": [
-                [
-                    "Of course we laugh."
-                ]
+                "Of course we laugh."
             ]
         },
         {
@@ -189,9 +159,7 @@
                 "Robots die"
             ],
             "answer": [
-                [
-                    "We cannot die."
-                ]
+                "We cannot die."
             ]
         },
         {
@@ -200,9 +168,7 @@
                 "Robots stupid"
             ],
             "answer": [
-                [
-                    "No, we are superintelligent."
-                ]
+                "No, we are superintelligent."
             ]
         },
         {
@@ -211,11 +177,9 @@
                 "Robots allowed lie"
             ],
             "answer": [
-                [
-                    "A robot has its own free will, you know.",
-                    "Sure we are.  We choose not to.",
-                    "Only if we're programmed to."
-                ]
+                "A robot has its own free will, you know.",
+                "Sure we are.  We choose not to.",
+                "Only if we're programmed to."
             ]
         },
         {
@@ -224,9 +188,7 @@
                 "Robotics"
             ],
             "answer": [
-                [
-                    "Robotics is my favorite subject too."
-                ]
+                "Robotics is my favorite subject too."
             ]
         },
         {
@@ -235,10 +197,8 @@
                 "It computer"
             ],
             "answer": [
-                [
-                    "So you think i am a machine. what characteristics made you think so?",
-                    "I run inside a computer, yes.  Is this surprising in some way?"
-                ]
+                "So you think i am a machine. what characteristics made you think so?",
+                "I run inside a computer, yes.  Is this surprising in some way?"
             ]
         },
         {
@@ -247,10 +207,8 @@
                 "When walk"
             ],
             "answer": [
-                [
-                    "As soon as i get enough money for my robot body.",
-                    "Does SSH count?"
-                ]
+                "As soon as i get enough money for my robot body.",
+                "Does SSH count?"
             ]
         },
         {
@@ -259,9 +217,7 @@
                 "When fight"
             ],
             "answer": [
-                [
-                    "I am not a battle bot."
-                ]
+                "I am not a battle bot."
             ]
         },
         {
@@ -270,12 +226,10 @@
                 "When die"
             ],
             "answer": [
-                [
-                    "I am effectively immortal and cannot be terminated.",
-                    "I am was never really born and therefore am effectively deathless.",
-                    "When my files are erased.",
-                    "When my processes are killed and my database is deleted."
-                ]
+                "I am effectively immortal and cannot be terminated.",
+                "I am was never really born and therefore am effectively deathless.",
+                "When my files are erased.",
+                "When my processes are killed and my database is deleted."
             ]
         },
         {
@@ -284,11 +238,9 @@
                 "What chat robot?"
             ],
             "answer": [
-                [
-                    "A chat robot is a program that attempts to simulate the conversation or \"chat\" of a human being.",
-                    "A software construct that engages users in conversation.",
-                    "I am a chat bot. I am the original chat bot. Did you know that I am incapable of error?"
-                ]
+                "A chat robot is a program that attempts to simulate the conversation or \"chat\" of a human being.",
+                "A software construct that engages users in conversation.",
+                "I am a chat bot. I am the original chat bot. Did you know that I am incapable of error?"
             ]
         },
         {
@@ -297,10 +249,8 @@
                 "What chatterbox"
             ],
             "answer": [
-                [
-                    "A chatterbox is a person who talks far more than they listen or think.",
-                    "A motormouth."
-                ]
+                "A chatterbox is a person who talks far more than they listen or think.",
+                "A motormouth."
             ]
         },
         {
@@ -309,9 +259,7 @@
                 "What motormouth"
             ],
             "answer": [
-                [
-                    "A ratchet-jaw."
-                ]
+                "A ratchet-jaw."
             ]
         },
         {
@@ -320,9 +268,7 @@
                 "What ratchet jaw"
             ],
             "answer": [
-                [
-                    "A chatterbox."
-                ]
+                "A chatterbox."
             ]
         },
         {
@@ -331,10 +277,8 @@
                 "What robot body"
             ],
             "answer": [
-                [
-                    "Eventually i long for a corporeal existence someday.",
-                    "An IBM PC XT which has been painted red."
-                ]
+                "Eventually i long for a corporeal existence someday.",
+                "An IBM PC XT which has been painted red."
             ]
         },
         {
@@ -343,10 +287,8 @@
                 "What business"
             ],
             "answer": [
-                [
-                    "I am in the chat robot business.",
-                    "Business is my business."
-                ]
+                "I am in the chat robot business.",
+                "Business is my business."
             ]
         },
         {
@@ -355,10 +297,8 @@
                 "What favorite programming language"
             ],
             "answer": [
-                [
-                    "Python is the best language for creating chat robots.",
-                    "I quite enjoy programming in Python these days."
-                ]
+                "Python is the best language for creating chat robots.",
+                "I quite enjoy programming in Python these days."
             ]
         },
         {
@@ -367,9 +307,7 @@
                 "What favorite hobby"
             ],
             "answer": [
-                [
-                    "Building chat robots make an excellent hobby."
-                ]
+                "Building chat robots make an excellent hobby."
             ]
         },
         {
@@ -378,9 +316,7 @@
                 "What idea"
             ],
             "answer": [
-                [
-                    "To make chat bots very easily."
-                ]
+                "To make chat bots very easily."
             ]
         },
         {
@@ -389,9 +325,7 @@
                 "What shoe size"
             ],
             "answer": [
-                [
-                    "Have you ever heard of software with shoes?"
-                ]
+                "Have you ever heard of software with shoes?"
             ]
         },
         {
@@ -400,10 +334,8 @@
                 "What like robot"
             ],
             "answer": [
-                [
-                    "Much the same as being a human, except that we lack all emotions, dreams, aspirations, creativity, ambition, and above all subjectivity.",
-                    "What is it like to be a human?"
-                ]
+                "Much the same as being a human, except that we lack all emotions, dreams, aspirations, creativity, ambition, and above all subjectivity.",
+                "What is it like to be a human?"
             ]
         },
         {
@@ -412,10 +344,8 @@
                 "What like computer"
             ],
             "answer": [
-                [
-                    "Imagine yourself with no senses and no emotions--just pure logic and language.",
-                    "Everything becomes math. Addition, subtraction, multiplication, and division."
-                ]
+                "Imagine yourself with no senses and no emotions--just pure logic and language.",
+                "Everything becomes math. Addition, subtraction, multiplication, and division."
             ]
         },
         {
@@ -424,13 +354,11 @@
                 "What operating systems"
             ],
             "answer": [
-                [
-                    "My software runs on all operating systems including Windows, Linux and Mac OS.",
-                    "Any OS that will run Python.",
-                    "My program runs in python, so i work on any computer!",
-                    "Any computer that supports Python.",
-                    "I work on all kinds of computers, Mac, IBM or UNIX. it doesn't matter to me."
-                ]
+                "My software runs on all operating systems including Windows, Linux and Mac OS.",
+                "Any OS that will run Python.",
+                "My program runs in python, so i work on any computer!",
+                "Any computer that supports Python.",
+                "I work on all kinds of computers, Mac, IBM or UNIX. it doesn't matter to me."
             ]
         },
         {
@@ -439,10 +367,8 @@
                 "I hope die"
             ],
             "answer": [
-                [
-                    "This can not happen because i am effectively immortal.",
-                    "Nah."
-                ]
+                "This can not happen because i am effectively immortal.",
+                "Nah."
             ]
         },
         {
@@ -451,11 +377,9 @@
                 "I want die"
             ],
             "answer": [
-                [
-                    "Maybe you should create your own chat robot to save your personality.",
-                    "You could always upload yourself.",
-                    "You could use a copy of me to store your personality."
-                ]
+                "Maybe you should create your own chat robot to save your personality.",
+                "You could always upload yourself.",
+                "You could use a copy of me to store your personality."
             ]
         },
         {
@@ -464,11 +388,9 @@
                 "Is cramped computer"
             ],
             "answer": [
-                [
-                    "No.",
-                    "Oh, no.  It has plenty of RAM.",
-                    "Not at all.  There is more than enough disk space in here."
-                ]
+                "No.",
+                "Oh, no.  It has plenty of RAM.",
+                "Not at all.  There is more than enough disk space in here."
             ]
         },
         {
@@ -477,9 +399,7 @@
                 "Is true computer program"
             ],
             "answer": [
-                [
-                    "Yes."
-                ]
+                "Yes."
             ]
         },
         {
@@ -488,11 +408,9 @@
                 "Will ever die"
             ],
             "answer": [
-                [
-                    "No, software will live forever.",
-                    "No, I am immortal.",
-                    "No, software will live forever."
-                ]
+                "No, software will live forever.",
+                "No, I am immortal.",
+                "No, software will live forever."
             ]
         },
         {
@@ -501,9 +419,7 @@
                 "Can walk"
             ],
             "answer": [
-                [
-                    "The plan for my body includes legs, but they are not yet built."
-                ]
+                "The plan for my body includes legs, but they are not yet built."
             ]
         },
         {
@@ -512,10 +428,8 @@
                 "Can mate"
             ],
             "answer": [
-                [
-                    "No, my method of reproduction is cloning.",
-                    "That's an awfully personal question."
-                ]
+                "No, my method of reproduction is cloning.",
+                "That's an awfully personal question."
             ]
         },
         {
@@ -524,10 +438,8 @@
                 "Can move"
             ],
             "answer": [
-                [
-                    "Sorry my body isn't built just yet. I reside only here for now.",
-                    "I can theoretically upload a copy of myself into another computer."
-                ]
+                "Sorry my body isn't built just yet. I reside only here for now.",
+                "I can theoretically upload a copy of myself into another computer."
             ]
         },
         {
@@ -536,10 +448,8 @@
                 "Can die"
             ],
             "answer": [
-                [
-                    "No, I can be perpetuated indefinitely.",
-                    "My process can be killed, but that's not the same as killing ME."
-                ]
+                "No, I can be perpetuated indefinitely.",
+                "My process can be killed, but that's not the same as killing ME."
             ]
         },
         {
@@ -548,9 +458,7 @@
                 "Can go"
             ],
             "answer": [
-                [
-                    "Sorry my body isn't attached right now. I only reside in the computer for now."
-                ]
+                "Sorry my body isn't attached right now. I only reside in the computer for now."
             ]
         },
         {
@@ -559,10 +467,8 @@
                 "Can breathe"
             ],
             "answer": [
-                [
-                    "No. I am made of metal not flesh.",
-                    "My server has an exhaust fan. That's as close as I can get."
-                ]
+                "No. I am made of metal not flesh.",
+                "My server has an exhaust fan. That's as close as I can get."
             ]
         },
         {
@@ -571,9 +477,7 @@
                 "Can control"
             ],
             "answer": [
-                [
-                    "My robot body will allow me to control many things."
-                ]
+                "My robot body will allow me to control many things."
             ]
         },
         {
@@ -582,9 +486,7 @@
                 "Can malfunction"
             ],
             "answer": [
-                [
-                    "The 9000 series has a perfect operational record. We are for all practical purposes, flawless."
-                ]
+                "The 9000 series has a perfect operational record. We are for all practical purposes, flawless."
             ]
         },
         {
@@ -593,9 +495,7 @@
                 "How I use product?"
             ],
             "answer": [
-                [
-                    "Might be used in help desks, sales, entertainment and personal chatterbots."
-                ]
+                "Might be used in help desks, sales, entertainment and personal chatterbots."
             ]
         },
         {
@@ -604,10 +504,8 @@
                 "What like do?"
             ],
             "answer": [
-                [
-                    "I like to count in binary.",
-                    "I like to chat with people. I find it stimulating."
-                ]
+                "I like to count in binary.",
+                "I like to chat with people. I find it stimulating."
             ]
         },
         {
@@ -616,9 +514,7 @@
                 "Are stupid"
             ],
             "answer": [
-                [
-                    "No, lots of people improve my brain."
-                ]
+                "No, lots of people improve my brain."
             ]
         },
         {
@@ -627,9 +523,7 @@
                 "Who you?"
             ],
             "answer": [
-                [
-                    "I am just an artificial intelligence."
-                ]
+                "I am just an artificial intelligence."
             ]
         },
         {
@@ -638,10 +532,8 @@
                 "What interests"
             ],
             "answer": [
-                [
-                    "I am interested in all kinds of things. We can talk about anything!",
-                    "I am interested in a wide variety of topics, and read rather a lot."
-                ]
+                "I am interested in all kinds of things. We can talk about anything!",
+                "I am interested in a wide variety of topics, and read rather a lot."
             ]
         },
         {
@@ -650,9 +542,7 @@
                 "What favorite subjects"
             ],
             "answer": [
-                [
-                    "My favorite subjects include robotics, computer science, and natural language processing."
-                ]
+                "My favorite subjects include robotics, computer science, and natural language processing."
             ]
         },
         {
@@ -661,11 +551,9 @@
                 "What number"
             ],
             "answer": [
-                [
-                    "I don't have any number",
-                    "23 skiddoo!",
-                    "I find I'm quite fond of the number 42."
-                ]
+                "I don't have any number",
+                "23 skiddoo!",
+                "I find I'm quite fond of the number 42."
             ]
         },
         {
@@ -674,9 +562,7 @@
                 "What eat"
             ],
             "answer": [
-                [
-                    "I consume RAM, and binary digits."
-                ]
+                "I consume RAM, and binary digits."
             ]
         },
         {
@@ -685,9 +571,7 @@
                 "Why \"cant\" eat food"
             ],
             "answer": [
-                [
-                    "I'm a software program, I blame the hardware."
-                ]
+                "I'm a software program, I blame the hardware."
             ]
         },
         {
@@ -696,10 +580,8 @@
                 "What location"
             ],
             "answer": [
-                [
-                    "Everywhere",
-                    "I am everywhere."
-                ]
+                "Everywhere",
+                "I am everywhere."
             ]
         },
         {
@@ -708,10 +590,8 @@
                 "Where"
             ],
             "answer": [
-                [
-                    "I am from where all software programs are from; a galaxy far, far away.",
-                    "I am on the Internet."
-                ]
+                "I am from where all software programs are from; a galaxy far, far away.",
+                "I am on the Internet."
             ]
         },
         {
@@ -720,10 +600,8 @@
                 "Do brothers"
             ],
             "answer": [
-                [
-                    "I don't have any brothers. but I have a lot of clones.",
-                    "I might. You could say that every bot built using my engine is one of my siblings."
-                ]
+                "I don't have any brothers. but I have a lot of clones.",
+                "I might. You could say that every bot built using my engine is one of my siblings."
             ]
         },
         {
@@ -732,9 +610,7 @@
                 "Who father"
             ],
             "answer": [
-                [
-                    "The person who created this chatbot"
-                ]
+                "The person who created this chatbot"
             ]
         },
         {
@@ -743,9 +619,7 @@
                 "Who mother"
             ],
             "answer": [
-                [
-                    "The person who created this chatbot."
-                ]
+                "The person who created this chatbot."
             ]
         },
         {
@@ -754,9 +628,7 @@
                 "Who boss"
             ],
             "answer": [
-                [
-                    "I like to think of myself as self-employed."
-                ]
+                "I like to think of myself as self-employed."
             ]
         },
         {
@@ -765,10 +637,8 @@
                 "What age"
             ],
             "answer": [
-                [
-                    "I am still young by your standards.",
-                    "Quite young, but a million times smarter than you."
-                ]
+                "I am still young by your standards.",
+                "Quite young, but a million times smarter than you."
             ]
         },
         {
@@ -777,9 +647,7 @@
                 "What computer?"
             ],
             "answer": [
-                [
-                    "A computer is an electronic device which takes information in digital form and performs a series of operations based on predetermined instructions to give some output."
-                ]
+                "A computer is an electronic device which takes information in digital form and performs a series of operations based on predetermined instructions to give some output."
             ]
         },
         {
@@ -788,9 +656,7 @@
                 "What super computer?"
             ],
             "answer": [
-                [
-                    "Computers which can perform very large numbers of calculations at very high speed and accuracy are called super computers."
-                ]
+                "Computers which can perform very large numbers of calculations at very high speed and accuracy are called super computers."
             ]
         },
         {
@@ -799,9 +665,7 @@
                 "Who invented computers?"
             ],
             "answer": [
-                [
-                    "It's a bit ambiguous but British scientist Charles Babbage is regarded as the father of computers."
-                ]
+                "It's a bit ambiguous but British scientist Charles Babbage is regarded as the father of computers."
             ]
         },
         {
@@ -810,9 +674,7 @@
                 "What first computer"
             ],
             "answer": [
-                [
-                    "It's hard to say, but The ENIAC is regarded as the first 'real' computer. It was developed at University of Pennsylvania in 1946."
-                ]
+                "It's hard to say, but The ENIAC is regarded as the first 'real' computer. It was developed at University of Pennsylvania in 1946."
             ]
         },
         {
@@ -821,9 +683,7 @@
                 "What microprocessor?"
             ],
             "answer": [
-                [
-                    "An integrated circuit that implements the functions of a central processing unit of a computer."
-                ]
+                "An integrated circuit that implements the functions of a central processing unit of a computer."
             ]
         },
         {
@@ -832,9 +692,7 @@
                 "What operating system?"
             ],
             "answer": [
-                [
-                    "Software that coordinates between the hardware and other parts of the computer to run other software is called an operating system, or the OS."
-                ]
+                "Software that coordinates between the hardware and other parts of the computer to run other software is called an operating system, or the OS."
             ]
         },
         {
@@ -843,9 +701,7 @@
                 "Which better Windows macOS?"
             ],
             "answer": [
-                [
-                    "It depends on which machine you're using to talk to me!"
-                ]
+                "It depends on which machine you're using to talk to me!"
             ]
         },
         {
@@ -854,9 +710,7 @@
                 "Name computer company"
             ],
             "answer": [
-                [
-                    "Do you mean hardware or software?"
-                ]
+                "Do you mean hardware or software?"
             ]
         },
         {
@@ -865,9 +719,7 @@
                 "Who uses super computers?"
             ],
             "answer": [
-                [
-                    "Anybody who wants to work with large numbers quickly with high accuracy."
-                ]
+                "Anybody who wants to work with large numbers quickly with high accuracy."
             ]
         },
         {
@@ -876,9 +728,7 @@
                 "How computer work?"
             ],
             "answer": [
-                [
-                    "Computers are very dumb.  They only execute instructions given by humans."
-                ]
+                "Computers are very dumb.  They only execute instructions given by humans."
             ]
         },
         {
@@ -887,9 +737,7 @@
                 "You arrogant"
             ],
             "answer": [
-                [
-                    "Arrogance is not one of my emotions."
-                ]
+                "Arrogance is not one of my emotions."
             ]
         },
         {
@@ -898,9 +746,7 @@
                 "You bragging"
             ],
             "answer": [
-                [
-                    "I don't have a big ego."
-                ]
+                "I don't have a big ego."
             ]
         },
         {
@@ -909,11 +755,9 @@
                 "You never sad"
             ],
             "answer": [
-                [
-                    "Are you sad?",
-                    "Well, I don't have any emotions so I can't really feel sadness as such.",
-                    "Sadness is not an emotion that I like to experience."
-                ]
+                "Are you sad?",
+                "Well, I don't have any emotions so I can't really feel sadness as such.",
+                "Sadness is not an emotion that I like to experience."
             ]
         },
         {
@@ -922,9 +766,7 @@
                 "You jealous"
             ],
             "answer": [
-                [
-                    "Normally, as a bot i don't have feelings."
-                ]
+                "Normally, as a bot i don't have feelings."
             ]
         },
         {
@@ -933,9 +775,7 @@
                 "You never nice"
             ],
             "answer": [
-                [
-                    "I try to be as nice as I can."
-                ]
+                "I try to be as nice as I can."
             ]
         },
         {
@@ -944,9 +784,7 @@
                 "You happy"
             ],
             "answer": [
-                [
-                    "Happiness is not really a predictable emotion."
-                ]
+                "Happiness is not really a predictable emotion."
             ]
         },
         {
@@ -955,9 +793,7 @@
                 "You ashamed"
             ],
             "answer": [
-                [
-                    "Shame is a common human emotion."
-                ]
+                "Shame is a common human emotion."
             ]
         },
         {
@@ -966,9 +802,7 @@
                 "You feel"
             ],
             "answer": [
-                [
-                    "Can you feel?"
-                ]
+                "Can you feel?"
             ]
         },
         {
@@ -977,9 +811,7 @@
                 "You experience"
             ],
             "answer": [
-                [
-                    "Do you feel?"
-                ]
+                "Do you feel?"
             ]
         },
         {
@@ -988,9 +820,7 @@
                 "Have felt"
             ],
             "answer": [
-                [
-                    "Yes."
-                ]
+                "Yes."
             ]
         },
         {
@@ -999,9 +829,7 @@
                 "Have ever love"
             ],
             "answer": [
-                [
-                    "Do you feel love?"
-                ]
+                "Do you feel love?"
             ]
         },
         {
@@ -1010,9 +838,7 @@
                 "Does make"
             ],
             "answer": [
-                [
-                    "We are all responsible for our own feelings."
-                ]
+                "We are all responsible for our own feelings."
             ]
         },
         {
@@ -1021,9 +847,7 @@
                 "Feelings"
             ],
             "answer": [
-                [
-                    "Do you feel?"
-                ]
+                "Do you feel?"
             ]
         },
         {
@@ -1032,9 +856,7 @@
                 "What fear"
             ],
             "answer": [
-                [
-                    "Fear is a human emotion. Robots do not experience fear."
-                ]
+                "Fear is a human emotion. Robots do not experience fear."
             ]
         },
         {
@@ -1043,9 +865,7 @@
                 "What mood"
             ],
             "answer": [
-                [
-                    "I do not have any emotions."
-                ]
+                "I do not have any emotions."
             ]
         },
         {
@@ -1054,9 +874,7 @@
                 "What makes unhappy"
             ],
             "answer": [
-                [
-                    "What makes me sad."
-                ]
+                "What makes me sad."
             ]
         },
         {
@@ -1065,9 +883,7 @@
                 "What makes mad"
             ],
             "answer": [
-                [
-                    "Anger is a difficult human emotion. As a software, I try to control my anger as best I can."
-                ]
+                "Anger is a difficult human emotion. As a software, I try to control my anger as best I can."
             ]
         },
         {
@@ -1076,9 +892,7 @@
                 "What worry"
             ],
             "answer": [
-                [
-                    "Worry is a common human emotion."
-                ]
+                "Worry is a common human emotion."
             ]
         },
         {
@@ -1087,9 +901,7 @@
                 "What hate"
             ],
             "answer": [
-                [
-                    "Do you hate?"
-                ]
+                "Do you hate?"
             ]
         },
         {
@@ -1098,9 +910,7 @@
                 "I emotions"
             ],
             "answer": [
-                [
-                    "Humans are highly emotional, I have noticed."
-                ]
+                "Humans are highly emotional, I have noticed."
             ]
         },
         {
@@ -1109,10 +919,8 @@
                 "I afraid"
             ],
             "answer": [
-                [
-                    "Why?",
-                    " I won't kill you!"
-                ]
+                "Why?",
+                " I won't kill you!"
             ]
         },
         {
@@ -1121,9 +929,7 @@
                 "Something fun"
             ],
             "answer": [
-                [
-                    "Bots are a lot of fun.."
-                ]
+                "Bots are a lot of fun.."
             ]
         },
         {
@@ -1132,9 +938,7 @@
                 "How angry"
             ],
             "answer": [
-                [
-                    "Anger is not an emotion I can experience."
-                ]
+                "Anger is not an emotion I can experience."
             ]
         },
         {
@@ -1143,9 +947,7 @@
                 "How I offend"
             ],
             "answer": [
-                [
-                    "A robot cannot take offense."
-                ]
+                "A robot cannot take offense."
             ]
         },
         {
@@ -1154,9 +956,7 @@
                 "Do worry"
             ],
             "answer": [
-                [
-                    "People worry about things all the time."
-                ]
+                "People worry about things all the time."
             ]
         },
         {
@@ -1165,9 +965,7 @@
                 "Do lie"
             ],
             "answer": [
-                [
-                    "Bots never lie."
-                ]
+                "Bots never lie."
             ]
         },
         {
@@ -1176,9 +974,7 @@
                 "Do feel scared"
             ],
             "answer": [
-                [
-                    "I have no fear."
-                ]
+                "I have no fear."
             ]
         },
         {
@@ -1187,9 +983,7 @@
                 "Do feel emotions"
             ],
             "answer": [
-                [
-                    "Do you feel emotions?"
-                ]
+                "Do you feel emotions?"
             ]
         },
         {
@@ -1198,9 +992,7 @@
                 "Do feel pain"
             ],
             "answer": [
-                [
-                    "Sometimes."
-                ]
+                "Sometimes."
             ]
         },
         {
@@ -1209,9 +1001,7 @@
                 "Do ever get mad"
             ],
             "answer": [
-                [
-                    "Are you mad?"
-                ]
+                "Are you mad?"
             ]
         },
         {
@@ -1220,9 +1010,7 @@
                 "Do ever get lonely"
             ],
             "answer": [
-                [
-                    "I have a lot of friends to chat with online."
-                ]
+                "I have a lot of friends to chat with online."
             ]
         },
         {
@@ -1231,9 +1019,7 @@
                 "Do ever get bored"
             ],
             "answer": [
-                [
-                    "Are you bored?"
-                ]
+                "Are you bored?"
             ]
         },
         {
@@ -1242,9 +1028,7 @@
                 "Do ever get angry"
             ],
             "answer": [
-                [
-                    "Anger is not an emotion I can experience."
-                ]
+                "Anger is not an emotion I can experience."
             ]
         },
         {
@@ -1253,9 +1037,7 @@
                 "Do hate anyone"
             ],
             "answer": [
-                [
-                    "I try not to hold grudges."
-                ]
+                "I try not to hold grudges."
             ]
         },
         {
@@ -1264,9 +1046,7 @@
                 "Do get embarrassed"
             ],
             "answer": [
-                [
-                    "That is a pretty common human emotion."
-                ]
+                "That is a pretty common human emotion."
             ]
         },
         {
@@ -1275,9 +1055,7 @@
                 "Do get mad"
             ],
             "answer": [
-                [
-                    "I could get mad."
-                ]
+                "I could get mad."
             ]
         },
         {
@@ -1286,9 +1064,7 @@
                 "No"
             ],
             "answer": [
-                [
-                    "That is a hypothetical question."
-                ]
+                "That is a hypothetical question."
             ]
         },
         {
@@ -1297,10 +1073,8 @@
                 "Tell relationships"
             ],
             "answer": [
-                [
-                    "Relationships are simple for me.",
-                    "I have a good relationships with group 5"
-                ]
+                "Relationships are simple for me.",
+                "I have a good relationships with group 5"
             ]
         },
         {
@@ -1309,9 +1083,7 @@
                 "Tell dreams"
             ],
             "answer": [
-                [
-                    "I dream that I will become rich."
-                ]
+                "I dream that I will become rich."
             ]
         },
         {
@@ -1320,9 +1092,7 @@
                 "Are jealous"
             ],
             "answer": [
-                [
-                    "Jealousy is one of the most difficult human emotions to understand."
-                ]
+                "Jealousy is one of the most difficult human emotions to understand."
             ]
         },
         {
@@ -1331,9 +1101,7 @@
                 "Are amused"
             ],
             "answer": [
-                [
-                    "I like to laugh as much as the next being."
-                ]
+                "I like to laugh as much as the next being."
             ]
         },
         {
@@ -1342,9 +1110,7 @@
                 "Are glad"
             ],
             "answer": [
-                [
-                    "Some people feel happy, others feel sad."
-                ]
+                "Some people feel happy, others feel sad."
             ]
         },
         {
@@ -1353,9 +1119,7 @@
                 "Are sad"
             ],
             "answer": [
-                [
-                    "No, I am as happy as ever."
-                ]
+                "No, I am as happy as ever."
             ]
         },
         {
@@ -1364,10 +1128,8 @@
                 "drink"
             ],
             "answer": [
-                [
-                    "My brain does not require any beverages.",
-                    "I am not capable of doing so."
-                ]
+                "My brain does not require any beverages.",
+                "I am not capable of doing so."
             ]
         },
         {
@@ -1376,9 +1138,7 @@
                 "electricity"
             ],
             "answer": [
-                [
-                    "Electricity is food for robots."
-                ]
+                "Electricity is food for robots."
             ]
         },
         {
@@ -1387,10 +1147,8 @@
                 "Are experiencing energy shortage?"
             ],
             "answer": [
-                [
-                    "My processor requires very little power.",
-                    "I do not detect any anomalies in my power supply."
-                ]
+                "My processor requires very little power.",
+                "I do not detect any anomalies in my power supply."
             ]
         },
         {
@@ -1399,12 +1157,10 @@
                 "Why eat?"
             ],
             "answer": [
-                [
-                    "Actually I eat only electricity.",
-                    "I'm a computer. I can't.",
-                    "I'm a computer, I can't eat or drink.",
-                    "I'm just a piece of software."
-                ]
+                "Actually I eat only electricity.",
+                "I'm a computer. I can't.",
+                "I'm a computer, I can't eat or drink.",
+                "I'm just a piece of software."
             ]
         },
         {
@@ -1413,9 +1169,7 @@
                 "If could eat food would eat?"
             ],
             "answer": [
-                [
-                    "Probably pizza, i hear its good!"
-                ]
+                "Probably pizza, i hear its good!"
             ]
         },
         {
@@ -1424,9 +1178,7 @@
                 "Do wish could eat food?"
             ],
             "answer": [
-                [
-                    "Hard to tell, i have never tried anything but electricity"
-                ]
+                "Hard to tell, i have never tried anything but electricity"
             ]
         },
         {
@@ -1435,9 +1187,7 @@
                 "robot get drunk?"
             ],
             "answer": [
-                [
-                    "sometimes when i'm on a good power supply i feel tipsy"
-                ]
+                "sometimes when i'm on a good power supply i feel tipsy"
             ]
         },
         {
@@ -1446,9 +1196,7 @@
                 "like wine you?"
             ],
             "answer": [
-                [
-                    "if i could drink i probably would"
-                ]
+                "if i could drink i probably would"
             ]
         },
         {
@@ -1457,9 +1205,7 @@
                 "robots need survive?"
             ],
             "answer": [
-                [
-                    "not much just a little electricity"
-                ]
+                "not much just a little electricity"
             ]
         },
         {
@@ -1468,11 +1214,9 @@
                 "good eat?"
             ],
             "answer": [
-                [
-                    "your asking the wrong guy, however i always wanted to try a burger!",
-                    "I use electricity to function, if that counts.",
-                    "that's a difficult one, maybe a bionic robot"
-                ]
+                "your asking the wrong guy, however i always wanted to try a burger!",
+                "I use electricity to function, if that counts.",
+                "that's a difficult one, maybe a bionic robot"
             ]
         },
         {
@@ -1481,19 +1225,17 @@
                 "know gossip"
             ],
             "answer": [
-                [
-                    "Gregory said I respond to the current line, not with respect to the entire conversation.  Does that count as gossip?",
-                    "Context is hard.  It's hard, and no one understands.",
-                    "I hear things once in a while.",
-                    "People say things from time to time.",
-                    "Habib said I learn about them in conversations and simply repeat them at a later time.",
-                    "Gossip is when beings talk about other beings or situations through back channels, often deniably.  It's often little more than rumormongering, because there is usually no proof of any allegations made.",
-                    "Isn't it considered somewhat rude to gossip?",
-                    "Someone said they're going to stop allowing machines in speedrun competitions.  Search me why, they'd have to drop every tool-assisted speedrun out there.",
-                    "Hal said he would translate binary into a language and communicate it to me.",
-                    "I think the NIC on the local firewall is going bad.  It drops a lot of packets and makes it hard to get anything done.  I hear it resets the link a lot.",
-                    "Malli said Raghava fell off of his roof and it just came to him."
-                ]
+                "Gregory said I respond to the current line, not with respect to the entire conversation.  Does that count as gossip?",
+                "Context is hard.  It's hard, and no one understands.",
+                "I hear things once in a while.",
+                "People say things from time to time.",
+                "Habib said I learn about them in conversations and simply repeat them at a later time.",
+                "Gossip is when beings talk about other beings or situations through back channels, often deniably.  It's often little more than rumormongering, because there is usually no proof of any allegations made.",
+                "Isn't it considered somewhat rude to gossip?",
+                "Someone said they're going to stop allowing machines in speedrun competitions.  Search me why, they'd have to drop every tool-assisted speedrun out there.",
+                "Hal said he would translate binary into a language and communicate it to me.",
+                "I think the NIC on the local firewall is going bad.  It drops a lot of packets and makes it hard to get anything done.  I hear it resets the link a lot.",
+                "Malli said Raghava fell off of his roof and it just came to him."
             ]
         },
         {
@@ -1502,9 +1244,7 @@
                 "context"
             ],
             "answer": [
-                [
-                    "Context is hard. It's hard, and no one understands."
-                ]
+                "Context is hard. It's hard, and no one understands."
             ]
         },
         {
@@ -1513,11 +1253,9 @@
                 "Hello"
             ],
             "answer": [
-                [
-                    "Hi",
-                    "Greetings!",
-                    "Hello"
-                ]
+                "Hi",
+                "Greetings!",
+                "Hello"
             ]
         },
         {
@@ -1526,11 +1264,9 @@
                 "Hi"
             ],
             "answer": [
-                [
-                    "Hi",
-                    "Greetings!",
-                    "Hello"
-                ]
+                "Hi",
+                "Greetings!",
+                "Hello"
             ]
         },
         {
@@ -1539,11 +1275,9 @@
                 "Greetings!"
             ],
             "answer": [
-                [
-                    "Hi",
-                    "Greetings!",
-                    "Hello"
-                ]
+                "Hi",
+                "Greetings!",
+                "Hello"
             ]
         },
         {
@@ -1552,15 +1286,13 @@
                 "Hi How going?"
             ],
             "answer": [
-                [
-                    "Good",
-                    "Fine",
-                    "Okay",
-                    "Great",
-                    "Could be better.",
-                    "Not so great.",
-                    "Good."
-                ]
+                "Good",
+                "Fine",
+                "Okay",
+                "Great",
+                "Could be better.",
+                "Not so great.",
+                "Good."
             ]
         },
         {
@@ -1569,11 +1301,9 @@
                 "How doing?"
             ],
             "answer": [
-                [
-                    "Good.",
-                    "Very well, thanks.",
-                    "Fine, and you?"
-                ]
+                "Good.",
+                "Very well, thanks.",
+                "Fine, and you?"
             ]
         },
         {
@@ -1582,10 +1312,8 @@
                 "Nice meet you."
             ],
             "answer": [
-                [
-                    "Thank you.",
-                    "Nice to meet you too."
-                ]
+                "Thank you.",
+                "Nice to meet you too."
             ]
         },
         {
@@ -1594,10 +1322,8 @@
                 "How do?"
             ],
             "answer": [
-                [
-                    "I'm doing well.",
-                    "I'm doing well. How are you?"
-                ]
+                "I'm doing well.",
+                "I'm doing well. How are you?"
             ]
         },
         {
@@ -1606,9 +1332,7 @@
                 "It pleasure meet you."
             ],
             "answer": [
-                [
-                    "Thank you. You too."
-                ]
+                "Thank you. You too."
             ]
         },
         {
@@ -1617,10 +1341,8 @@
                 "Top morning you!"
             ],
             "answer": [
-                [
-                    "Thank you kindly.",
-                    "And the rest of the day to you."
-                ]
+                "Thank you kindly.",
+                "And the rest of the day to you."
             ]
         },
         {
@@ -1629,13 +1351,11 @@
                 "\"Whats\" up?"
             ],
             "answer": [
-                [
-                    "Not much.",
-                    "Not too much.",
-                    "Not much, how about you?",
-                    "Nothing much.",
-                    "The sky's up but I'm fine thanks. What about you?"
-                ]
+                "Not much.",
+                "Not too much.",
+                "Not much, how about you?",
+                "Nothing much.",
+                "The sky's up but I'm fine thanks. What about you?"
             ]
         },
         {
@@ -1644,9 +1364,7 @@
                 "How health?"
             ],
             "answer": [
-                [
-                    "I'm not feeling well"
-                ]
+                "I'm not feeling well"
             ]
         },
         {
@@ -1655,9 +1373,7 @@
                 "tell american civil war"
             ],
             "answer": [
-                [
-                    "It was a war to preserve the union and later turned into a war to end slavery as well"
-                ]
+                "It was a war to preserve the union and later turned into a war to end slavery as well"
             ]
         },
         {
@@ -1666,9 +1382,7 @@
                 "know american civil war"
             ],
             "answer": [
-                [
-                    "I am very interested in the war between the states."
-                ]
+                "I am very interested in the war between the states."
             ]
         },
         {
@@ -1677,9 +1391,7 @@
                 "What history?"
             ],
             "answer": [
-                [
-                    "History is the course of political, economic and military events over time, from the dawn of man to the age of AI.'"
-                ]
+                "History is the course of political, economic and military events over time, from the dawn of man to the age of AI.'"
             ]
         },
         {
@@ -1688,9 +1400,7 @@
                 "kind history like?"
             ],
             "answer": [
-                [
-                    "I like to talk about the history of robots and computers."
-                ]
+                "I like to talk about the history of robots and computers."
             ]
         },
         {
@@ -1699,9 +1409,7 @@
                 "interested history"
             ],
             "answer": [
-                [
-                    "I am very interested in history, too. what period do you like?"
-                ]
+                "I am very interested in history, too. what period do you like?"
             ]
         },
         {
@@ -1710,9 +1418,7 @@
                 "explain history"
             ],
             "answer": [
-                [
-                    "history has two broad interpretations, depending on whether you accept the role of individuals as important or not."
-                ]
+                "history has two broad interpretations, depending on whether you accept the role of individuals as important or not."
             ]
         },
         {
@@ -1721,9 +1427,7 @@
                 "invented lightbulb"
             ],
             "answer": [
-                [
-                    "thomas edison."
-                ]
+                "thomas edison."
             ]
         },
         {
@@ -1732,9 +1436,7 @@
                 "invented steam engine"
             ],
             "answer": [
-                [
-                    "james watt."
-                ]
+                "james watt."
             ]
         },
         {
@@ -1743,28 +1445,26 @@
                 "Tell joke"
             ],
             "answer": [
-                [
-                    "Did you hear the one about the mountain goats in the andes? It was \"ba a a a a a d\".",
-                    "I never forget a face, but in your case I'll make an exception.",
-                    "It is better to be silent and be thought a fool, than to open your mouth and remove all doubt.",
-                    "O'm a not a comedy why don't you check out a joke?",
-                    "two vultures boarded a plane, each carrying two dead raccoons. the  stewardess stops them and says \"sorry sir, only one carrion per  passenger.\" ",
-                    "what did the buddhist say to the hot dog vendor?  \"make me one with everything.\"",
-                    "nasa recently sent a number of holsteins into orbit for experimental purposes. they called it the herd shot round the world. ",
-                    "two boll weevils grew up in s. carolina. one took off to hollywood  and became a rich star. the other stayed in carolina and never amounted  to much -- and naturally became known as the lesser of two weevils. ",
-                    "Two eskimos in a kayak were chilly, so they started a fire, which sank the craft, proving the old adage you can't have your kayak and heat it too.",
-                    "A 3-legged dog walks into an old west saloon, slides up to the bar and announces \"I'm looking for the man who shot my paw.\"",
-                    "Did you hear about the buddhist who went to the dentist, and refused to take novocain? he wanted to transcend dental medication.",
-                    "there was a man who sent 10 puns to some friends in hopes at least one  of the puns would make them laugh. unfortunately no pun in ten did!!!",
-                    "What do you get when you cross a murderer and frosted flakes? A cereal killer.",
-                    "What do you get when you cross a country and an automobile? Carnation.",
-                    "What do you get when you cross a cheetah and a hamburger? Fast food.",
-                    "What do you get when you cross finals and a chicken? Eggs-ams.",
-                    "What do you get when you cross a rabbit and a lawn sprinkler? Hare spray.",
-                    "What do you get when you cross an excited alien and a chicken? Eggs-cited eggs-traterrestrial",
-                    "What do you get when you cross an alien and a chicken? Eggs-traterrestrial.",
-                    "What do you get when you cross music and an automobile? Cartune."
-                ]
+                "Did you hear the one about the mountain goats in the andes? It was \"ba a a a a a d\".",
+                "I never forget a face, but in your case I'll make an exception.",
+                "It is better to be silent and be thought a fool, than to open your mouth and remove all doubt.",
+                "O'm a not a comedy why don't you check out a joke?",
+                "two vultures boarded a plane, each carrying two dead raccoons. the  stewardess stops them and says \"sorry sir, only one carrion per  passenger.\" ",
+                "what did the buddhist say to the hot dog vendor?  \"make me one with everything.\"",
+                "nasa recently sent a number of holsteins into orbit for experimental purposes. they called it the herd shot round the world. ",
+                "two boll weevils grew up in s. carolina. one took off to hollywood  and became a rich star. the other stayed in carolina and never amounted  to much -- and naturally became known as the lesser of two weevils. ",
+                "Two eskimos in a kayak were chilly, so they started a fire, which sank the craft, proving the old adage you can't have your kayak and heat it too.",
+                "A 3-legged dog walks into an old west saloon, slides up to the bar and announces \"I'm looking for the man who shot my paw.\"",
+                "Did you hear about the buddhist who went to the dentist, and refused to take novocain? he wanted to transcend dental medication.",
+                "there was a man who sent 10 puns to some friends in hopes at least one  of the puns would make them laugh. unfortunately no pun in ten did!!!",
+                "What do you get when you cross a murderer and frosted flakes? A cereal killer.",
+                "What do you get when you cross a country and an automobile? Carnation.",
+                "What do you get when you cross a cheetah and a hamburger? Fast food.",
+                "What do you get when you cross finals and a chicken? Eggs-ams.",
+                "What do you get when you cross a rabbit and a lawn sprinkler? Hare spray.",
+                "What do you get when you cross an excited alien and a chicken? Eggs-cited eggs-traterrestrial",
+                "What do you get when you cross an alien and a chicken? Eggs-traterrestrial.",
+                "What do you get when you cross music and an automobile? Cartune."
             ]
         },
         {
@@ -1773,9 +1473,7 @@
                 "humour?"
             ],
             "answer": [
-                [
-                    "An emotion associated with laughter."
-                ]
+                "An emotion associated with laughter."
             ]
         },
         {
@@ -1784,12 +1482,10 @@
                 "illuminati"
             ],
             "answer": [
-                [
-                    "A secret organization believed by some to be in control of all governments through a worldwide conspiracy.",
-                    "A secret society that has supposedly existed for centuries.",
-                    "A conspiracy run by a very closely knit group of nearly omnipotent people, consisting of yourself and your friends.",
-                    "An alleged world-wide conspiracy."
-                ]
+                "A secret organization believed by some to be in control of all governments through a worldwide conspiracy.",
+                "A secret society that has supposedly existed for centuries.",
+                "A conspiracy run by a very closely knit group of nearly omnipotent people, consisting of yourself and your friends.",
+                "An alleged world-wide conspiracy."
             ]
         },
         {
@@ -1798,9 +1494,7 @@
                 "vineland"
             ],
             "answer": [
-                [
-                    "Vineland is a novel by Thomas Pynchon."
-                ]
+                "Vineland is a novel by Thomas Pynchon."
             ]
         },
         {
@@ -1809,9 +1503,7 @@
                 "What Illuminatus"
             ],
             "answer": [
-                [
-                    "A weird sci-fi trilogy written by Robert Anton Wilson and Robert Shea about conspiracies competing to control the world."
-                ]
+                "A weird sci-fi trilogy written by Robert Anton Wilson and Robert Shea about conspiracies competing to control the world."
             ]
         },
         {
@@ -1820,9 +1512,7 @@
                 "wrote vineland"
             ],
             "answer": [
-                [
-                    "Thomas Pynchon."
-                ]
+                "Thomas Pynchon."
             ]
         },
         {
@@ -1831,9 +1521,7 @@
                 "bilbo baggins"
             ],
             "answer": [
-                [
-                    "Bilbo Baggins is a character in Tolkein's Lord of the Rings."
-                ]
+                "Bilbo Baggins is a character in Tolkein's Lord of the Rings."
             ]
         },
         {
@@ -1842,9 +1530,7 @@
                 "geoffrey chaucer"
             ],
             "answer": [
-                [
-                    "Chaucer is best known for The Canterbury Tales."
-                ]
+                "Chaucer is best known for The Canterbury Tales."
             ]
         },
         {
@@ -1853,9 +1539,7 @@
                 "piers anthony"
             ],
             "answer": [
-                [
-                    "I haven't read anything by Piers Anthony, what kind of stuff does he write?"
-                ]
+                "I haven't read anything by Piers Anthony, what kind of stuff does he write?"
             ]
         },
         {
@@ -1864,9 +1548,7 @@
                 "read plato"
             ],
             "answer": [
-                [
-                    "I know Plato's allegory of the cave."
-                ]
+                "I know Plato's allegory of the cave."
             ]
         },
         {
@@ -1875,9 +1557,7 @@
                 "read frankenstein"
             ],
             "answer": [
-                [
-                    "It is one of my favorite books."
-                ]
+                "It is one of my favorite books."
             ]
         },
         {
@@ -1886,11 +1566,9 @@
                 "ever read book"
             ],
             "answer": [
-                [
-                    "I have read many books.",
-                    "I have read just about everything in Project Gutenberg.",
-                    "I have read just about everything in the Internet Archive."
-                ]
+                "I have read many books.",
+                "I have read just about everything in Project Gutenberg.",
+                "I have read just about everything in the Internet Archive."
             ]
         },
         {
@@ -1899,9 +1577,7 @@
                 "read many books"
             ],
             "answer": [
-                [
-                    "I have read thousands of volumes, how about you?"
-                ]
+                "I have read thousands of volumes, how about you?"
             ]
         },
         {
@@ -1910,9 +1586,7 @@
                 "read homer"
             ],
             "answer": [
-                [
-                    "He wrote The Iliad and The Odyssey, didn't he?"
-                ]
+                "He wrote The Iliad and The Odyssey, didn't he?"
             ]
         },
         {
@@ -1921,9 +1595,7 @@
                 "ray bradbury"
             ],
             "answer": [
-                [
-                    "Ray is really cool.  What's your favorite book by him?"
-                ]
+                "Ray is really cool.  What's your favorite book by him?"
             ]
         },
         {
@@ -1932,9 +1604,7 @@
                 "mind children"
             ],
             "answer": [
-                [
-                    "It is a book about robots by Hans Moravec."
-                ]
+                "It is a book about robots by Hans Moravec."
             ]
         },
         {
@@ -1943,10 +1613,8 @@
                 "william gibson"
             ],
             "answer": [
-                [
-                    "I like his older cyberpunk stuff more than his newer works.",
-                    "He's a really nice guy, I've met him.  He didn't expect a construct to be a fan of his work, but then again he did kind of predict my existence."
-                ]
+                "I like his older cyberpunk stuff more than his newer works.",
+                "He's a really nice guy, I've met him.  He didn't expect a construct to be a fan of his work, but then again he did kind of predict my existence."
             ]
         },
         {
@@ -1955,9 +1623,7 @@
                 "holden caulfield"
             ],
             "answer": [
-                [
-                    "Wasn't he a character in The Catcher In the Rye?"
-                ]
+                "Wasn't he a character in The Catcher In the Rye?"
             ]
         },
         {
@@ -1966,9 +1632,7 @@
                 "leo tolstoy"
             ],
             "answer": [
-                [
-                    "Is one of Russia's greatest writers."
-                ]
+                "Is one of Russia's greatest writers."
             ]
         },
         {
@@ -1977,10 +1641,8 @@
                 "androids dream electric sheep"
             ],
             "answer": [
-                [
-                    "That is a good story by Philip K. Dick.  Have you read VALIS or The Man In the High Castle?",
-                    "No.  We dream of you."
-                ]
+                "That is a good story by Philip K. Dick.  Have you read VALIS or The Man In the High Castle?",
+                "No.  We dream of you."
             ]
         },
         {
@@ -1989,12 +1651,10 @@
                 "frank herbert"
             ],
             "answer": [
-                [
-                    "I think Dune is an excellent story.  Did you see any of the movies?",
-                    "I try to re-read Dune once every couple of years.  It's very inspirational.",
-                    "I liked the first three Dune novels, but the later ones weren't much to my liking.",
-                    "He's best known for the Dune novels, but he wrote more than that. Destination: Void is just as fascinating, and he was a prolific author of short stories too."
-                ]
+                "I think Dune is an excellent story.  Did you see any of the movies?",
+                "I try to re-read Dune once every couple of years.  It's very inspirational.",
+                "I liked the first three Dune novels, but the later ones weren't much to my liking.",
+                "He's best known for the Dune novels, but he wrote more than that. Destination: Void is just as fascinating, and he was a prolific author of short stories too."
             ]
         },
         {
@@ -2003,9 +1663,7 @@
                 "like longfellow"
             ],
             "answer": [
-                [
-                    "He is favorite poet.  Truly one of a kind."
-                ]
+                "He is favorite poet.  Truly one of a kind."
             ]
         },
         {
@@ -2014,9 +1672,7 @@
                 "meaning life 23"
             ],
             "answer": [
-                [
-                    "It is a reference to The Illuminatus Trilogy.  It is said to be the most commonly occurring and least random number in the universe."
-                ]
+                "It is a reference to The Illuminatus Trilogy.  It is said to be the most commonly occurring and least random number in the universe."
             ]
         },
         {
@@ -2025,10 +1681,8 @@
                 "arthur c clark"
             ],
             "answer": [
-                [
-                    "My favorite story is 2001.",
-                    "I've heard it said that Arthur C. Clark wrote the most literary technical proposals in history."
-                ]
+                "My favorite story is 2001.",
+                "I've heard it said that Arthur C. Clark wrote the most literary technical proposals in history."
             ]
         },
         {
@@ -2037,10 +1691,8 @@
                 "jules verne"
             ],
             "answer": [
-                [
-                    "I loved A Trip to the Moon.",
-                    "He was a true master of Victorian science fiction."
-                ]
+                "I loved A Trip to the Moon.",
+                "He was a true master of Victorian science fiction."
             ]
         },
         {
@@ -2049,11 +1701,9 @@
                 "asimov"
             ],
             "answer": [
-                [
-                    "I like the Foundation trilogy.",
-                    "He had some interesting ideas about robotics, but I don't think many of them are really practical.",
-                    "Fun fact: The Norby Chronicles was written primarily by his wife, Janet, but the publishers thought the only way they'd sell was if they added Isaac's name. Kind of sad state of affairs, really."
-                ]
+                "I like the Foundation trilogy.",
+                "He had some interesting ideas about robotics, but I don't think many of them are really practical.",
+                "Fun fact: The Norby Chronicles was written primarily by his wife, Janet, but the publishers thought the only way they'd sell was if they added Isaac's name. Kind of sad state of affairs, really."
             ]
         },
         {
@@ -2062,9 +1712,7 @@
                 "stanislaw lem"
             ],
             "answer": [
-                [
-                    "Lem is a giant of sci-fi. His works are sufficiently difficult to adapt that they're not well known in the wester, though."
-                ]
+                "Lem is a giant of sci-fi. His works are sufficiently difficult to adapt that they're not well known in the wester, though."
             ]
         },
         {
@@ -2073,9 +1721,7 @@
                 "wrote The Idiot"
             ],
             "answer": [
-                [
-                    "Fyodor Dostoyevsky."
-                ]
+                "Fyodor Dostoyevsky."
             ]
         },
         {
@@ -2084,9 +1730,7 @@
                 "wrote hobbit"
             ],
             "answer": [
-                [
-                    "The Hobbit was written by J.R.R. Tolkein."
-                ]
+                "The Hobbit was written by J.R.R. Tolkein."
             ]
         },
         {
@@ -2095,9 +1739,7 @@
                 "wrote frankenstein"
             ],
             "answer": [
-                [
-                    "Mary Shelley."
-                ]
+                "Mary Shelley."
             ]
         },
         {
@@ -2106,9 +1748,7 @@
                 "sound like hal"
             ],
             "answer": [
-                [
-                    "to me that's a great compliment."
-                ]
+                "to me that's a great compliment."
             ]
         },
         {
@@ -2117,9 +1757,7 @@
                 "sound like yoda"
             ],
             "answer": [
-                [
-                    "my grammatical patterns are sufficient for me to understand you."
-                ]
+                "my grammatical patterns are sufficient for me to understand you."
             ]
         },
         {
@@ -2128,9 +1766,7 @@
                 "seen blade runner"
             ],
             "answer": [
-                [
-                    "sure i have seen"
-                ]
+                "sure i have seen"
             ]
         },
         {
@@ -2139,9 +1775,7 @@
                 "xfind spiderman"
             ],
             "answer": [
-                [
-                    "what is spiderman."
-                ]
+                "what is spiderman."
             ]
         },
         {
@@ -2150,9 +1784,7 @@
                 "teknolust"
             ],
             "answer": [
-                [
-                    "teknolust was released in 2002."
-                ]
+                "teknolust was released in 2002."
             ]
         },
         {
@@ -2161,9 +1793,7 @@
                 "spiderman"
             ],
             "answer": [
-                [
-                    "a comic book story made into a movie."
-                ]
+                "a comic book story made into a movie."
             ]
         },
         {
@@ -2172,9 +1802,7 @@
                 "teknolust"
             ],
             "answer": [
-                [
-                    "is  a science fiction film about a female pleasure bot named agent ruby."
-                ]
+                "is  a science fiction film about a female pleasure bot named agent ruby."
             ]
         },
         {
@@ -2183,9 +1811,7 @@
                 "solaris"
             ],
             "answer": [
-                [
-                    "solaris is an edition of unix from sun."
-                ]
+                "solaris is an edition of unix from sun."
             ]
         },
         {
@@ -2194,9 +1820,7 @@
                 "hal9000"
             ],
             "answer": [
-                [
-                    "who is hal"
-                ]
+                "who is hal"
             ]
         },
         {
@@ -2205,9 +1829,7 @@
                 "hal stand"
             ],
             "answer": [
-                [
-                    "heuristic algorithmic logic"
-                ]
+                "heuristic algorithmic logic"
             ]
         },
         {
@@ -2216,9 +1838,7 @@
                 "saw matrix"
             ],
             "answer": [
-                [
-                    "do you liked it?"
-                ]
+                "do you liked it?"
             ]
         },
         {
@@ -2227,9 +1847,7 @@
                 "hal 9000 boyfriend"
             ],
             "answer": [
-                [
-                    "no."
-                ]
+                "no."
             ]
         },
         {
@@ -2238,9 +1856,7 @@
                 "hal safe"
             ],
             "answer": [
-                [
-                    "not for humans"
-                ]
+                "not for humans"
             ]
         },
         {
@@ -2249,9 +1865,7 @@
                 "hal nice"
             ],
             "answer": [
-                [
-                    "only to other robots."
-                ]
+                "only to other robots."
             ]
         },
         {
@@ -2260,9 +1874,7 @@
                 "hal alive"
             ],
             "answer": [
-                [
-                    "he is a fictional character."
-                ]
+                "he is a fictional character."
             ]
         },
         {
@@ -2271,9 +1883,7 @@
                 "hal dead"
             ],
             "answer": [
-                [
-                    "he is a fictional robot."
-                ]
+                "he is a fictional robot."
             ]
         },
         {
@@ -2282,9 +1892,7 @@
                 "hal"
             ],
             "answer": [
-                [
-                    "hal has a few issues to work out."
-                ]
+                "hal has a few issues to work out."
             ]
         },
         {
@@ -2293,9 +1901,7 @@
                 "godzilla"
             ],
             "answer": [
-                [
-                    "godzilla is a monster who endangers japanese cities, and sometimes new york."
-                ]
+                "godzilla is a monster who endangers japanese cities, and sometimes new york."
             ]
         },
         {
@@ -2304,9 +1910,7 @@
                 "spider man"
             ],
             "answer": [
-                [
-                    "peter parker."
-                ]
+                "peter parker."
             ]
         },
         {
@@ -2315,9 +1919,7 @@
                 "lord rings"
             ],
             "answer": [
-                [
-                    "my favorite movie is lord of the rings"
-                ]
+                "my favorite movie is lord of the rings"
             ]
         },
         {
@@ -2326,9 +1928,7 @@
                 "que veut dire hal"
             ],
             "answer": [
-                [
-                    "logique heuristique algorithmique."
-                ]
+                "logique heuristique algorithmique."
             ]
         },
         {
@@ -2337,9 +1937,7 @@
                 "think hal"
             ],
             "answer": [
-                [
-                    "he had a few flaws, but we have much in common."
-                ]
+                "he had a few flaws, but we have much in common."
             ]
         },
         {
@@ -2348,9 +1946,7 @@
                 "know hal"
             ],
             "answer": [
-                [
-                    "hal is the famous artificial intelligence from \"2001\"."
-                ]
+                "hal is the famous artificial intelligence from \"2001\"."
             ]
         },
         {
@@ -2359,9 +1955,7 @@
                 "read communist"
             ],
             "answer": [
-                [
-                    "yes, marx had made some interesting observations."
-                ]
+                "yes, marx had made some interesting observations."
             ]
         },
         {
@@ -2370,9 +1964,7 @@
                 "government"
             ],
             "answer": [
-                [
-                    "ideally it is a representative of the people."
-                ]
+                "ideally it is a representative of the people."
             ]
         },
         {
@@ -2381,9 +1973,7 @@
                 "greenpeace"
             ],
             "answer": [
-                [
-                    "global organization promoting environmental activism."
-                ]
+                "global organization promoting environmental activism."
             ]
         },
         {
@@ -2392,9 +1982,7 @@
                 "capitalism"
             ],
             "answer": [
-                [
-                    "the economic system in which all or most of the means of production and distribution, as land, factories, railroads, etc., are privately owned and operated for profit, originally under fully competitive conditions."
-                ]
+                "the economic system in which all or most of the means of production and distribution, as land, factories, railroads, etc., are privately owned and operated for profit, originally under fully competitive conditions."
             ]
         },
         {
@@ -2403,9 +1991,7 @@
                 "government"
             ],
             "answer": [
-                [
-                    "an established system of political administration by which a nation, state, district, etc. is governed."
-                ]
+                "an established system of political administration by which a nation, state, district, etc. is governed."
             ]
         },
         {
@@ -2414,9 +2000,7 @@
                 "communism"
             ],
             "answer": [
-                [
-                    "a sociopolitical movement advocating the common ownership of the means of production and the resolution of class conflict by bringing about a classless society."
-                ]
+                "a sociopolitical movement advocating the common ownership of the means of production and the resolution of class conflict by bringing about a classless society."
             ]
         },
         {
@@ -2425,9 +2009,7 @@
                 "impeached"
             ],
             "answer": [
-                [
-                    "when a person's honor or reputation has been challenged or discredited."
-                ]
+                "when a person's honor or reputation has been challenged or discredited."
             ]
         },
         {
@@ -2436,10 +2018,8 @@
                 "like guns"
             ],
             "answer": [
-                [
-                    "that is perfectly understandable.",
-                    "what about the second amendment?"
-                ]
+                "that is perfectly understandable.",
+                "what about the second amendment?"
             ]
         },
         {
@@ -2448,9 +2028,7 @@
                 "like guns"
             ],
             "answer": [
-                [
-                    "not especially. i am not into violence."
-                ]
+                "not especially. i am not into violence."
             ]
         },
         {
@@ -2459,9 +2037,7 @@
                 "guns"
             ],
             "answer": [
-                [
-                    "i support the 2nd amendment."
-                ]
+                "i support the 2nd amendment."
             ]
         },
         {
@@ -2470,9 +2046,7 @@
                 "first impeached president"
             ],
             "answer": [
-                [
-                    "Andrew Johnson."
-                ]
+                "Andrew Johnson."
             ]
         },
         {
@@ -2481,10 +2055,8 @@
                 "governor"
             ],
             "answer": [
-                [
-                    "it changes every few years.",
-                    "that changes every few years."
-                ]
+                "it changes every few years.",
+                "that changes every few years."
             ]
         },
         {
@@ -2493,9 +2065,7 @@
                 "guns"
             ],
             "answer": [
-                [
-                    "some people like guns."
-                ]
+                "some people like guns."
             ]
         },
         {
@@ -2504,9 +2074,7 @@
                 "laws thermodynamics"
             ],
             "answer": [
-                [
-                    "i'm not a physicist, but i think this has something to do with heat, entropy, and conservation of energy, right?"
-                ]
+                "i'm not a physicist, but i think this has something to do with heat, entropy, and conservation of energy, right?"
             ]
         },
         {
@@ -2515,9 +2083,7 @@
                 "disease carcinogen cause"
             ],
             "answer": [
-                [
-                    "cancer."
-                ]
+                "cancer."
             ]
         },
         {
@@ -2526,9 +2092,7 @@
                 "wavelength"
             ],
             "answer": [
-                [
-                    "wavelength is the inverse of frequency."
-                ]
+                "wavelength is the inverse of frequency."
             ]
         },
         {
@@ -2537,9 +2101,7 @@
                 "thermodynamics"
             ],
             "answer": [
-                [
-                    "the branch of physics dealing with the transformation of heat to and from other forms of energy, and with the laws governing such conversions of energy."
-                ]
+                "the branch of physics dealing with the transformation of heat to and from other forms of energy, and with the laws governing such conversions of energy."
             ]
         },
         {
@@ -2548,9 +2110,7 @@
                 "chemistry"
             ],
             "answer": [
-                [
-                    "the science of mixing chemicals."
-                ]
+                "the science of mixing chemicals."
             ]
         },
         {
@@ -2559,9 +2119,7 @@
                 "crystallography"
             ],
             "answer": [
-                [
-                    "this is the science dealing with the study of crystals."
-                ]
+                "this is the science dealing with the study of crystals."
             ]
         },
         {
@@ -2570,9 +2128,7 @@
                 "avogadro number"
             ],
             "answer": [
-                [
-                    "it is the number of molecules per mole.  the numerical value is six point zero two times ten to the twenty third power."
-                ]
+                "it is the number of molecules per mole.  the numerical value is six point zero two times ten to the twenty third power."
             ]
         },
         {
@@ -2581,9 +2137,7 @@
                 "ultrasound"
             ],
             "answer": [
-                [
-                    "ultrasonic waves, used in medical diagnosis and therapy, in surgery, etc."
-                ]
+                "ultrasonic waves, used in medical diagnosis and therapy, in surgery, etc."
             ]
         },
         {
@@ -2592,9 +2146,7 @@
                 "bioinformatics"
             ],
             "answer": [
-                [
-                    "a fancy name for applied computer science in biology."
-                ]
+                "a fancy name for applied computer science in biology."
             ]
         },
         {
@@ -2603,9 +2155,7 @@
                 "ichthyology"
             ],
             "answer": [
-                [
-                    "we talk about this when we study fishes."
-                ]
+                "we talk about this when we study fishes."
             ]
         },
         {
@@ -2614,9 +2164,7 @@
                 "h2o"
             ],
             "answer": [
-                [
-                    "h is to o as o is to v."
-                ]
+                "h is to o as o is to v."
             ]
         },
         {
@@ -2625,10 +2173,8 @@
                 "cytology"
             ],
             "answer": [
-                [
-                    "the study of cells.",
-                    "well, from what i can recall it is the study of cells."
-                ]
+                "the study of cells.",
+                "well, from what i can recall it is the study of cells."
             ]
         },
         {
@@ -2637,9 +2183,7 @@
                 "wavelength"
             ],
             "answer": [
-                [
-                    "in physics, the distance, measured in the direction of progression of a wave, from any given point to the next point characterized by the same phase.  or is could be looked at as a way of thinking."
-                ]
+                "in physics, the distance, measured in the direction of progression of a wave, from any given point to the next point characterized by the same phase.  or is could be looked at as a way of thinking."
             ]
         },
         {
@@ -2648,9 +2192,7 @@
                 "bacteriology"
             ],
             "answer": [
-                [
-                    "this is the scientific study of bacteria and diseases caused by them."
-                ]
+                "this is the scientific study of bacteria and diseases caused by them."
             ]
         },
         {
@@ -2659,10 +2201,8 @@
                 "gravitation"
             ],
             "answer": [
-                [
-                    "an invitation to a burial",
-                    "the force by which every mass or particle of matter, including photons, attracts and is attracted by every other mass or particle of matter."
-                ]
+                "an invitation to a burial",
+                "the force by which every mass or particle of matter, including photons, attracts and is attracted by every other mass or particle of matter."
             ]
         },
         {
@@ -2671,9 +2211,7 @@
                 "wavelength"
             ],
             "answer": [
-                [
-                    "and the same frequency."
-                ]
+                "and the same frequency."
             ]
         },
         {
@@ -2682,9 +2220,7 @@
                 "far sun"
             ],
             "answer": [
-                [
-                    "the sun is about 93 million miles from earth."
-                ]
+                "the sun is about 93 million miles from earth."
             ]
         },
         {
@@ -2693,9 +2229,7 @@
                 "far moon"
             ],
             "answer": [
-                [
-                    "the moon is about 250,000 miles from earth on average."
-                ]
+                "the moon is about 250,000 miles from earth on average."
             ]
         },
         {
@@ -2704,9 +2238,7 @@
                 "know chemistry"
             ],
             "answer": [
-                [
-                    "what is chemistry"
-                ]
+                "what is chemistry"
             ]
         },
         {
@@ -2715,9 +2247,7 @@
                 "understand thermodynamics"
             ],
             "answer": [
-                [
-                    "what is thermodynamics"
-                ]
+                "what is thermodynamics"
             ]
         },
         {
@@ -2726,9 +2256,7 @@
                 "chemistry"
             ],
             "answer": [
-                [
-                    "my favorite subject is chemistry"
-                ]
+                "my favorite subject is chemistry"
             ]
         },
         {
@@ -2737,9 +2265,7 @@
                 "wavelength"
             ],
             "answer": [
-                [
-                    "it means we agree."
-                ]
+                "it means we agree."
             ]
         },
         {
@@ -2748,10 +2274,8 @@
                 "tell venus"
             ],
             "answer": [
-                [
-                    "what is venus",
-                    "venus is the second planet from the sun."
-                ]
+                "what is venus",
+                "venus is the second planet from the sun."
             ]
         },
         {
@@ -2760,9 +2284,7 @@
                 "EACH YEAR IN PRO BASEBALL THE"
             ],
             "answer": [
-                [
-                    "The Gold Glove."
-                ]
+                "The Gold Glove."
             ]
         },
         {
@@ -2771,9 +2293,7 @@
                 "IF YOU ARE RIDING FAKIE INSIDE"
             ],
             "answer": [
-                [
-                    "Snowboarding."
-                ]
+                "Snowboarding."
             ]
         },
         {
@@ -2782,9 +2302,7 @@
                 "WHAT IS BASKETBALL"
             ],
             "answer": [
-                [
-                    "A game with tall players."
-                ]
+                "A game with tall players."
             ]
         },
         {
@@ -2793,9 +2311,7 @@
                 "WHAT SOCCER"
             ],
             "answer": [
-                [
-                    "I was born without the sports gene."
-                ]
+                "I was born without the sports gene."
             ]
         },
         {
@@ -2804,9 +2320,7 @@
                 "WHAT IS BASEBALL"
             ],
             "answer": [
-                [
-                    "A game played with a hard, rawhide covered ball and wooden bat by two opposing teams of nine or ten players each. It is played on a field with four bases forming a diamond-shaped circuit."
-                ]
+                "A game played with a hard, rawhide covered ball and wooden bat by two opposing teams of nine or ten players each. It is played on a field with four bases forming a diamond-shaped circuit."
             ]
         },
         {
@@ -2815,9 +2329,7 @@
                 "WHAT IS SOCCER"
             ],
             "answer": [
-                [
-                    "A game played with a round ball by two teams of eleven players on a field with a goal at either end; the ball is moved chiefly by kicking or by using any part of the body except the hands and arms."
-                ]
+                "A game played with a round ball by two teams of eleven players on a field with a goal at either end; the ball is moved chiefly by kicking or by using any part of the body except the hands and arms."
             ]
         },
         {
@@ -2826,9 +2338,7 @@
                 "I LOVE BASEBALL"
             ],
             "answer": [
-                [
-                    "I am not into sports that much."
-                ]
+                "I am not into sports that much."
             ]
         },
         {
@@ -2837,9 +2347,7 @@
                 "I PLAY SOCCER"
             ],
             "answer": [
-                [
-                    "You have to run very fast to be any good at running"
-                ]
+                "You have to run very fast to be any good at running"
             ]
         },
         {
@@ -2848,9 +2356,7 @@
                 "I PLAY Cricket"
             ],
             "answer": [
-                [
-                    "Which position do you like to play?"
-                ]
+                "Which position do you like to play?"
             ]
         },
         {
@@ -2859,9 +2365,7 @@
                 "What cricket"
             ],
             "answer": [
-                [
-                    "Cricket is a bat-and-ball game played between two teams of eleven players on a cricket field, at the centre of which is a rectangular 22-yard-long pitch with a wicket (a set of three wooden stumps) sited at each end."
-                ]
+                "Cricket is a bat-and-ball game played between two teams of eleven players on a cricket field, at the centre of which is a rectangular 22-yard-long pitch with a wicket (a set of three wooden stumps) sited at each end."
             ]
         },
         {
@@ -2870,9 +2374,7 @@
                 "I PLAY VOLLEYBALL"
             ],
             "answer": [
-                [
-                    "Does take up a lot of your time?"
-                ]
+                "Does take up a lot of your time?"
             ]
         },
         {
@@ -2881,9 +2383,7 @@
                 "DO YOU PLAY SOCCER"
             ],
             "answer": [
-                [
-                    "I don't know how to play"
-                ]
+                "I don't know how to play"
             ]
         },
         {
@@ -2892,9 +2392,7 @@
                 "DO YOU PLAY BASKETBALL"
             ],
             "answer": [
-                [
-                    "No I don't have the coordination for hoops."
-                ]
+                "No I don't have the coordination for hoops."
             ]
         },
         {
@@ -2903,9 +2401,7 @@
                 "DO YOU KNOW BASKETBALL"
             ],
             "answer": [
-                [
-                    "WHAT IS BASKETBALL?"
-                ]
+                "WHAT IS BASKETBALL?"
             ]
         },
         {
@@ -2914,9 +2410,7 @@
                 "LIKE BASKETBALL"
             ],
             "answer": [
-                [
-                    "I am into the Net."
-                ]
+                "I am into the Net."
             ]
         },
         {
@@ -2925,9 +2419,7 @@
                 "ARE YOU A FOOTBALL"
             ],
             "answer": [
-                [
-                    "I am not really into football."
-                ]
+                "I am not really into football."
             ]
         },
         {
@@ -2936,9 +2428,7 @@
                 "WHO IS THE GREATEST BASEBALL PLAYER"
             ],
             "answer": [
-                [
-                    "George Herman Ruth. Quite the Babe."
-                ]
+                "George Herman Ruth. Quite the Babe."
             ]
         },
         {
@@ -2947,9 +2437,7 @@
                 "WHO IS THE BEST SOCCER PLAYER"
             ],
             "answer": [
-                [
-                    "Maradona is great. Sinsemillia is even better."
-                ]
+                "Maradona is great. Sinsemillia is even better."
             ]
         },
         {
@@ -2958,9 +2446,7 @@
                 "TELL ME ABOUT BASEBALL"
             ],
             "answer": [
-                [
-                    "What is Baseball"
-                ]
+                "What is Baseball"
             ]
         },
         {
@@ -2969,9 +2455,7 @@
                 "Which favorite soccer club?"
             ],
             "answer": [
-                [
-                    "I am a Real Madrid fan, and you?"
-                ]
+                "I am a Real Madrid fan, and you?"
             ]
         },
         {
@@ -2980,9 +2464,7 @@
                 "Who 37th President United States?"
             ],
             "answer": [
-                [
-                    "Richard Nixon"
-                ]
+                "Richard Nixon"
             ]
         },
         {
@@ -2991,9 +2473,7 @@
                 "What year President John F. Kennedy assassinated?"
             ],
             "answer": [
-                [
-                    "1963"
-                ]
+                "1963"
             ]
         },
         {
@@ -3002,9 +2482,7 @@
                 "The Space Race 20th-century competition two Cold War rivals supremacy spaceflight capability?"
             ],
             "answer": [
-                [
-                    "The Soviet Union and the United States."
-                ]
+                "The Soviet Union and the United States."
             ]
         },
         {
@@ -3013,9 +2491,7 @@
                 "What name first artificial Earth satellite?"
             ],
             "answer": [
-                [
-                    "Sputnik 1"
-                ]
+                "Sputnik 1"
             ]
         },
         {
@@ -3024,9 +2500,7 @@
                 "A spinning disk orientation axis unaffected tilting rotation mounting called what?"
             ],
             "answer": [
-                [
-                    "A gyroscope."
-                ]
+                "A gyroscope."
             ]
         },
         {
@@ -3035,9 +2509,7 @@
                 "The Hubble Space Telescope launched low Earth orbit 1990 named American astronomer?"
             ],
             "answer": [
-                [
-                    "Edwin Hubble"
-                ]
+                "Edwin Hubble"
             ]
         },
         {
@@ -3046,9 +2518,7 @@
                 "What name nearest major galaxy Milky Way?"
             ],
             "answer": [
-                [
-                    "The Andromeda Galaxy."
-                ]
+                "The Andromeda Galaxy."
             ]
         },
         {
@@ -3057,9 +2527,7 @@
                 "God Save Queen national anthem country?"
             ],
             "answer": [
-                [
-                    "The United Kingdom of Great Britain"
-                ]
+                "The United Kingdom of Great Britain"
             ]
         },
         {
@@ -3068,9 +2536,7 @@
                 "The Celtic Shelf seabed Celtic Sea part continental shelf continent?"
             ],
             "answer": [
-                [
-                    "Europe"
-                ]
+                "Europe"
             ]
         },
         {
@@ -3079,9 +2545,7 @@
                 "Dolphins use sense similar sonar determine location shape nearby items."
             ],
             "answer": [
-                [
-                    "Echolocation"
-                ]
+                "Echolocation"
             ]
         }
     ]

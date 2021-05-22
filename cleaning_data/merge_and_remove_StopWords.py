@@ -54,7 +54,7 @@ for line in zipped_data:
     to_dict = {
         'tag': tag,
         'question': [tag],
-        'answer': [answer]
+        'answer': answer
     }
     dict_to_json['intents'].append(to_dict)
 

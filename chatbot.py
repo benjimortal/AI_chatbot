@@ -12,7 +12,7 @@ intents = json.loads(open('cleaned_data/data_remove_stop.json').read())
 
 words = pickle.load(open('pickle/words.pkl', 'rb'))
 classes = pickle.load(open('pickle/classes.pkl', 'rb'))
-model = load_model('chatbot_save_model')
+model = load_model('chat_model/chatter_model.h5')
 
 
 def clean_up_sentence(sentence):
@@ -34,7 +34,7 @@ def bag_of_words(sentence):
 def predict_class(sentence):
     bow = bag_of_words(sentence)
     res = model.predict(np.array([bow]))[0]
-    ERROR_THRESHOLD = 0.40
+    ERROR_THRESHOLD = 0.5
     results = [[i, r] for i, r in enumerate(res) if r > ERROR_THRESHOLD]
 
     results.sort(key=lambda x: x[1], reverse=True)

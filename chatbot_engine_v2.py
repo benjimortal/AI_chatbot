@@ -10,7 +10,7 @@ import nltk
 import json
 import csv
 
-
+from tensorflow_core.python import keras
 
 lemmatizer = WordNetLemmatizer()
 words = []
@@ -23,13 +23,13 @@ intents = json.loads(data_file)
 
 
 for intent in intents['intents']:
-    for intent in intents['intents']:
-        for question in intent['question']:
-            list_of_word = nltk.word_tokenize(question)
-            words.extend(list_of_word)
-            docs.append((list_of_word, intent['tag']))
-            if intent['tag'] not in classes:
-                classes.append(intent['tag'])
+    for question in intent['question']:
+        list_of_word = nltk.word_tokenize(question)
+        words.extend(list_of_word)
+        docs.append((list_of_word, intent['tag']))
+        if intent['tag'] not in classes:
+            classes.append(intent['tag'])
+
 
 
 words = [lemmatizer.lemmatize(word) for word in words if word not in letters_to_ignore]
@@ -73,7 +73,7 @@ model.add(Dense(len(train_y[0]), activation='softmax'))
 sgd = SGD(lr=0.01, decay=1e-6, momentum=0.9, nesterov=True)
 model.compile(loss='categorical_crossentropy', optimizer='adam', metrics=['accuracy'])
 
-hist = model.fit(np.array(train_x), np.array(train_y), epochs=200, batch_size=5, verbose=1)
+hist = model.fit(np.array(train_x), np.array(train_y), epochs=1000, batch_size=5, verbose=1)
 
-model.save('chatbot_save_model', hist)
+model.save('chat_model/chatter_model.h5', hist)
 print('Done')
