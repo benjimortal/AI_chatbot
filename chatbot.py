@@ -15,7 +15,7 @@ TOKEN = os.getenv('DISCORD_TOKEN')
 bot = commands.Bot(command_prefix='')
 
 lemmatizer = WordNetLemmatizer()
-intents = json.loads(open('cleaned_data/data_remove_stop.json').read())
+intents = json.loads(open('cleaned_data/cleaned_data.json').read())
 
 words = pickle.load(open('pickle/words.pkl', 'rb'))
 classes = pickle.load(open('pickle/classes.pkl', 'rb'))
@@ -41,7 +41,7 @@ def bag_of_words(sentence):
 def predict_class(sentence):
     bow = bag_of_words(sentence)
     res = model.predict(np.array([bow]))[0]
-    ERROR_THRESHOLD = 0.6
+    ERROR_THRESHOLD = 0.8
     results = [[i, r] for i, r in enumerate(res) if r > ERROR_THRESHOLD]
 
     results.sort(key=lambda x: x[1], reverse=True)
@@ -66,11 +66,11 @@ def get_response(ints, intents_json):
 print('GO! Bot is running')
 
 
-def write_json(data, filename='data/user_train.json'):
+def write_json(data, filename='data/json/user_train.json'):
     with open(filename, 'w') as f:
         json.dump(data, f, indent=2)
 
-with open('data/user_train.json') as json_file:
+with open('data/json/user_train.json') as json_file:
     data = json.load(json_file)
     temp = data
 
