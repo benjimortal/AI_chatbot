@@ -106,7 +106,7 @@ async def sub(ctx, x: float, y: float):
     await ctx.send(result)
 
 @bot.command()
-async def multi(ctx, x: float, y: float):
+async def multi(ctx, x: , y: float):
     result = mathmulti(x, y)
     await ctx.send(result)
 @bot.command()
