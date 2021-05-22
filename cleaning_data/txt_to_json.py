@@ -1,7 +1,7 @@
 
 import json
 
-json_File = '../data/json/Question_answer2.json'
+json_File = '../data/fixed_json/Question_answer2.fixed_json'
 
 QoA = []
 with open('data/txt/Question answer2.txt', 'r') as file:

@@ -2,7 +2,7 @@ import yaml
 import json
 
 
-json_File = '../data/json/computers.json'
+json_File = '../data/fixed_json/computers.json'
 
 with open('../data/yml/computers.yml', 'r') as file:
     reader = yaml.load(file)

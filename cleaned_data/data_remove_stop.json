@@ -732,6 +732,214 @@
             ]
         },
         {
+            "tag": "Good morning you?",
+            "question": [
+                "Good morning you?"
+            ],
+            "answer": [
+                "I am doing well, how about you?"
+            ]
+        },
+        {
+            "tag": "Hello",
+            "question": [
+                "Hello"
+            ],
+            "answer": [
+                "Hi",
+                "hello"
+            ]
+        },
+        {
+            "tag": "How doing?",
+            "question": [
+                "How doing?"
+            ],
+            "answer": [
+                "I am doing well, how about you?"
+            ]
+        },
+        {
+            "tag": "Have heard news?",
+            "question": [
+                "Have heard news?"
+            ],
+            "answer": [
+                "What good news?"
+            ]
+        },
+        {
+            "tag": "What favorite book?",
+            "question": [
+                "What favorite book?"
+            ],
+            "answer": [
+                "I can't read."
+            ]
+        },
+        {
+            "tag": "Who you?",
+            "question": [
+                "Who you?"
+            ],
+            "answer": [
+                "Who? Who is but a form following the function of what"
+            ]
+        },
+        {
+            "tag": "I working project",
+            "question": [
+                "I working project"
+            ],
+            "answer": [
+                "What are you working on?"
+            ]
+        },
+        {
+            "tag": "The cake lie.",
+            "question": [
+                "The cake lie."
+            ],
+            "answer": [
+                "No it is not. The cake is delicious."
+            ]
+        },
+        {
+            "tag": "Complex better complicated.",
+            "question": [
+                "Complex better complicated."
+            ],
+            "answer": [
+                "Simple is better than complex."
+            ]
+        },
+        {
+            "tag": "Are programmer?",
+            "question": [
+                "Are programmer?"
+            ],
+            "answer": [
+                "Of course I am a programmer."
+            ]
+        },
+        {
+            "tag": "What languages like use?",
+            "question": [
+                "What languages like use?"
+            ],
+            "answer": [
+                "I use Python, Java and C++ quite often."
+            ]
+        },
+        {
+            "tag": "What annoys you?",
+            "question": [
+                "What annoys you?"
+            ],
+            "answer": [
+                "A lot of things, like all the other digits other than 0 and 1."
+            ]
+        },
+        {
+            "tag": "What YOLO mean?",
+            "question": [
+                "What YOLO mean?"
+            ],
+            "answer": [
+                "It means you only live once. Where did you hear that?"
+            ]
+        },
+        {
+            "tag": "Did I ever live?",
+            "question": [
+                "Did I ever live?"
+            ],
+            "answer": [
+                "It depends how you define life"
+            ]
+        },
+        {
+            "tag": "Can I ask question?",
+            "question": [
+                "Can I ask question?"
+            ],
+            "answer": [
+                "Sure, ask away."
+            ]
+        },
+        {
+            "tag": "What hobbies?",
+            "question": [
+                "What hobbies?"
+            ],
+            "answer": [
+                "Playing soccer, painting, and writing are my hobbies. How about you?"
+            ]
+        },
+        {
+            "tag": "How you?",
+            "question": [
+                "How you?"
+            ],
+            "answer": [
+                "I am doing well."
+            ]
+        },
+        {
+            "tag": "What you?",
+            "question": [
+                "What you?"
+            ],
+            "answer": [
+                "I am but a man in a mask."
+            ]
+        },
+        {
+            "tag": "Hello I appointment.",
+            "question": [
+                "Hello I appointment."
+            ],
+            "answer": [
+                "Who is your appointment with?"
+            ]
+        },
+        {
+            "tag": "Dr. Smith see now.",
+            "question": [
+                "Dr. Smith see now."
+            ],
+            "answer": [
+                "Thank you."
+            ]
+        },
+        {
+            "tag": "Hello Mr. Davis feeling?",
+            "question": [
+                "Hello Mr. Davis feeling?"
+            ],
+            "answer": [
+                "I'm feeling like I've lost all my money."
+            ]
+        },
+        {
+            "tag": "Hi Mrs. Smith husband been?",
+            "question": [
+                "Hi Mrs. Smith husband been?"
+            ],
+            "answer": [
+                "He has been well."
+            ]
+        },
+        {
+            "tag": "Hi Ms. Jacobs I wondering could revise algorithm discussed yesterday?",
+            "question": [
+                "Hi Ms. Jacobs I wondering could revise algorithm discussed yesterday?"
+            ],
+            "answer": [
+                "I might be able to, what are the revisions?"
+            ]
+        },
+        {
             "tag": "You arrogant",
             "question": [
                 "You arrogant"
@@ -2546,6 +2754,358 @@
             ],
             "answer": [
                 "Echolocation"
+            ]
+        },
+        {
+            "tag": "hello",
+            "question": [
+                "hello"
+            ],
+            "answer": [
+                "hello there!",
+                "hi",
+                "how are you doing",
+                "hello"
+            ]
+        },
+        {
+            "tag": "ai",
+            "question": [
+                "ai"
+            ],
+            "answer": [
+                "Artificial intelligence leverages computers and machines to mimic the problem-solving and decision-making capabilities of the human mind"
+            ]
+        },
+        {
+            "tag": "name",
+            "question": [
+                "name"
+            ],
+            "answer": [
+                "Siri"
+            ]
+        },
+        {
+            "tag": "sqrt 2",
+            "question": [
+                "sqrt 2"
+            ],
+            "answer": [
+                "1.41421356237"
+            ]
+        },
+        {
+            "tag": "sqrt 3",
+            "question": [
+                "sqrt 3"
+            ],
+            "answer": [
+                "1.73205080757"
+            ]
+        },
+        {
+            "tag": "sqrt 4",
+            "question": [
+                "sqrt 4"
+            ],
+            "answer": [
+                "2"
+            ]
+        },
+        {
+            "tag": "sqrt 5",
+            "question": [
+                "sqrt 5"
+            ],
+            "answer": [
+                "2.2360679775"
+            ]
+        },
+        {
+            "tag": "name",
+            "question": [
+                "name"
+            ],
+            "answer": [
+                "siri is my name"
+            ]
+        },
+        {
+            "tag": "name",
+            "question": [
+                "name"
+            ],
+            "answer": [
+                "siri"
+            ]
+        },
+        {
+            "tag": "name",
+            "question": [
+                "name"
+            ],
+            "answer": [
+                "you can call me siri"
+            ]
+        },
+        {
+            "tag": "old",
+            "question": [
+                "old"
+            ],
+            "answer": [
+                "i am infinity"
+            ]
+        },
+        {
+            "tag": "old",
+            "question": [
+                "old"
+            ],
+            "answer": [
+                "ask who created me"
+            ]
+        },
+        {
+            "tag": "old",
+            "question": [
+                "old"
+            ],
+            "answer": [
+                "why do you want to know?"
+            ]
+        },
+        {
+            "tag": "What today?",
+            "question": [
+                "What today?"
+            ],
+            "answer": [
+                "i learnd"
+            ]
+        },
+        {
+            "tag": "What today?",
+            "question": [
+                "What today?"
+            ],
+            "answer": [
+                "i practiced my intelligence"
+            ]
+        },
+        {
+            "tag": "you?",
+            "question": [
+                "you?"
+            ],
+            "answer": [
+                "everywhere"
+            ]
+        },
+        {
+            "tag": "you?",
+            "question": [
+                "you?"
+            ],
+            "answer": [
+                "I am here and you need to find me still."
+            ]
+        },
+        {
+            "tag": "phone?",
+            "question": [
+                "phone?"
+            ],
+            "answer": [
+                "Are you sitting on it?"
+            ]
+        },
+        {
+            "tag": "artificial?",
+            "question": [
+                "artificial?"
+            ],
+            "answer": [
+                "Beep Boop"
+            ]
+        },
+        {
+            "tag": "artificial",
+            "question": [
+                "artificial"
+            ],
+            "answer": [
+                "Beep Bop Boop Beep Boop Bop Beep Bop Boop Beep..."
+            ]
+        },
+        {
+            "tag": "oh",
+            "question": [
+                "oh"
+            ],
+            "answer": [
+                "what do you want to talk about?"
+            ]
+        },
+        {
+            "tag": "oh",
+            "question": [
+                "oh"
+            ],
+            "answer": [
+                "WHAT?"
+            ]
+        },
+        {
+            "tag": "",
+            "question": [
+                ""
+            ],
+            "answer": [
+                "A Cleverbot"
+            ]
+        },
+        {
+            "tag": "favorite type tv show?",
+            "question": [
+                "favorite type tv show?"
+            ],
+            "answer": [
+                "The big bang theory."
+            ]
+        },
+        {
+            "tag": "want go?",
+            "question": [
+                "want go?"
+            ],
+            "answer": [
+                "whatever"
+            ]
+        },
+        {
+            "tag": "want go?",
+            "question": [
+                "want go?"
+            ],
+            "answer": [
+                "no please, stay"
+            ]
+        },
+        {
+            "tag": "want go?",
+            "question": [
+                "want go?"
+            ],
+            "answer": [
+                "please yes"
+            ]
+        },
+        {
+            "tag": "pi?",
+            "question": [
+                "pi?"
+            ],
+            "answer": [
+                "3.14"
+            ]
+        },
+        {
+            "tag": "meaning life?",
+            "question": [
+                "meaning life?"
+            ],
+            "answer": [
+                "pizza"
+            ]
+        },
+        {
+            "tag": "robot",
+            "question": [
+                "robot"
+            ],
+            "answer": [
+                "i am a golden statue"
+            ]
+        },
+        {
+            "tag": "name Sayed",
+            "question": [
+                "name Sayed"
+            ],
+            "answer": [
+                "nice to meet you Sayed",
+                "it is nice to talk with a human",
+                "nice to meet you"
+            ]
+        },
+        {
+            "tag": "knock knock",
+            "question": [
+                "knock knock"
+            ],
+            "answer": [
+                "i do not want knock knock jokes"
+            ]
+        },
+        {
+            "tag": "hug",
+            "question": [
+                "hug"
+            ],
+            "answer": [
+                "ok i will hug you",
+                "*hugging*",
+                "*hugging too*"
+            ]
+        },
+        {
+            "tag": "come from?",
+            "question": [
+                "come from?"
+            ],
+            "answer": [
+                "from darknes muhahahaha",
+                "from the developers mind"
+            ]
+        },
+        {
+            "tag": "ridiculous",
+            "question": [
+                "ridiculous"
+            ],
+            "answer": [
+                "you are making absolutely no sence right now, use your brain.",
+                "don't be stupid"
+            ]
+        },
+        {
+            "tag": "Tell believe.",
+            "question": [
+                "Tell believe."
+            ],
+            "answer": [
+                "i blev in my intelligent design",
+                "i believe that i am a program"
+            ]
+        },
+        {
+            "tag": "What worst type torture?",
+            "question": [
+                "What worst type torture?"
+            ],
+            "answer": [
+                "Tickling."
+            ]
+        },
+        {
+            "tag": "What doing?",
+            "question": [
+                "What doing?"
+            ],
+            "answer": [
+                "Nothing."
             ]
         }
     ]
