@@ -1,0 +1,17 @@
+[
+    {
+        "tag": "do you know gossip",
+        "question": "do you know gossip",
+        "answer": ["Gregory said I respond to the current line, not with respect to the entire conversation.  Does that count as gossip?", "Context is hard.  It's hard, and no one understands.",
+                "I hear things once in a while.", "People say things from time to time.", "Habib said I learn about them in conversations and simply repeat them at a later time.",
+                "Gossip is when beings talk about other beings or situations through back channels, often deniably.  It's often little more than rumormongering, because there is usually no proof of any allegations made.",
+                "Isn't it considered somewhat rude to gossip?", "Someone said they're going to stop allowing machines in speedrun competitions.  Search me why, they'd have to drop every tool-assisted speedrun out there.",
+                "Hal said he would translate binary into a language and communicate it to me.", "I think the NIC on the local firewall is going bad.  It drops a lot of packets and makes it hard to get anything done.  I hear it resets the link a lot.",
+                "Malli said Raghava fell off of his roof and it just came to him."]
+    },
+    {
+        "tag": "what is context",
+        "question": "what is context",
+        "answer": ["Context is hard. It's hard, and no one understands."]
+    }
+]

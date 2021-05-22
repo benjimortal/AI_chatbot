@@ -1,0 +1,207 @@
+[
+  {
+    "tag": "hello",
+    "question": "hello",
+    "answer": [
+      "hello there!",
+      "hi",
+      "how are you doing",
+      "hello"
+    ]
+  },
+  {
+    "tag": "what is ai",
+    "question": "what is ai",
+    "answer": ["Artificial intelligence leverages computers and machines to mimic the problem-solving and decision-making capabilities of the human mind"]
+  },
+  {
+    "tag": "what is your name",
+    "question": "what is your name",
+    "answer": ["Siri"]
+  },
+  {
+    "tag": "what is sqrt 2",
+    "question": "what is sqrt 2",
+    "answer": ["1.41421356237"]
+  },
+  {
+    "tag": "what is sqrt 3",
+    "question": "what is sqrt 3",
+    "answer": ["1.73205080757"]
+  },
+  {
+    "tag": "what is sqrt 4",
+    "question": "what is sqrt 4",
+    "answer": ["2"]
+  },
+  {
+    "tag": "what is sqrt 5",
+    "question": "what is sqrt 5",
+    "answer": ["2.2360679775"]
+  },
+  {
+    "tag": "what is your name",
+    "question": "what is your name",
+    "answer": ["siri is my name"]
+  },
+  {
+    "tag": "what is your name",
+    "question": "what is your name",
+    "answer": ["siri"]
+  },
+  {
+    "tag": "what is your name",
+    "question": "what is your name",
+    "answer": ["you can call me siri"]
+  },
+  {
+    "tag": "how old are you",
+    "question": "how old are you",
+    "answer": ["i am infinity"]
+  },
+  {
+    "tag": "how old are you",
+    "question": "how old are you",
+    "answer": ["ask who created me"]
+  },
+  {
+    "tag": "how old are you",
+    "question": "how old are you",
+    "answer": ["why do you want to know?"]
+  },
+  {
+    "tag": " What did you do today?",
+    "question": " What did you do today?",
+    "answer": ["i learnd"]
+  },
+  {
+    "tag": " What did you do today?",
+    "question": " What did you do today?",
+    "answer": ["i practiced my intelligence"]
+  },
+  {
+    "tag": "where are you?",
+    "question": "where are you?",
+    "answer": ["everywhere"]
+  },
+  {
+    "tag": "where are you?",
+    "question": "where are you?",
+    "answer": ["I am here and you need to find me still."]
+  },
+  {
+    "tag": "where is my phone?",
+    "question": "where is my phone?",
+    "answer": ["Are you sitting on it?"]
+  },
+  {
+    "tag": "are you artificial?",
+    "question": "are you artificial?",
+    "answer": ["Beep Boop"]
+  },
+  {
+    "tag": "are you artificial",
+    "question": "are you artificial",
+    "answer": ["Beep Bop Boop Beep Boop Bop Beep Bop Boop Beep..."]
+  },
+  {
+    "tag": "oh",
+    "question": "oh",
+    "answer": ["what do you want to talk about?"]
+  },
+  {
+    "tag": "oh",
+    "question": "oh",
+    "answer": ["WHAT?"]
+  },
+  {
+    "tag": "what are you",
+    "question": "what are you",
+    "answer": ["A Cleverbot"]
+  },
+  {
+    "tag": "what is you favorite type of tv show?",
+    "question": "what is you favorite type of tv show?",
+    "answer": ["The big bang theory."]
+  },
+  {
+    "tag": "do you want me to go?",
+    "question": "do you want me to go?",
+    "answer": ["whatever"]
+  },
+  {
+    "tag": "do you want me to go?",
+    "question": "do you want me to go?",
+    "answer": ["no please, stay"]
+  },
+  {
+    "tag": "do you want me to go?",
+    "question": "do you want me to go?",
+    "answer": ["please yes"]
+  },
+  {
+    "tag": "what is pi?",
+    "question": "what is pi?",
+    "answer": ["3.14"]
+  },
+  {
+    "tag": "what is meaning of life?",
+    "question": "what is meaning of life?",
+    "answer": ["pizza"]
+  },
+  {
+    "tag": "are you a robot",
+    "question": "are you a robot",
+    "answer": ["i am a golden statue"]
+  },
+  {
+    "tag": "my name is Sayed",
+    "question": "my name is Sayed",
+    "answer": ["nice to meet you Sayed","it is nice to talk with a human","nice to meet you"]
+  },
+  {
+    "tag": "knock, knock",
+    "question": "knock, knock",
+    "answer": ["i do not want knock knock jokes"]
+  },
+  {
+    "tag": "a hug",
+    "question": "a hug",
+    "answer": ["ok i will hug you","*hugging*", "*hugging too*"]
+  },
+  {
+    "tag": "where do you come from?",
+    "question": "where do you come from?",
+    "answer": ["from darknes muhahahaha :)", "from the developers mind"]
+  },
+  {
+    "tag": "you are ridiculous",
+    "question": "you are ridiculous",
+    "answer": ["you are making absolutely no sence right now, use your brain.","don't be stupid"]
+  },
+  {
+    "tag": "Tell me what you believe.",
+    "question": "Tell me what you believe.",
+    "answer": ["i blev in my intelligent design", "i believe that i am a program"]
+  },
+  {
+    "tag": "What is the worst type of torture?",
+    "question": "What is the worst type of torture?",
+    "answer": ["Tickling."]
+  },
+  {
+    "tag": "fight me",
+    "question": "fight me",
+    "answer": ["*punches*","*throws a banana at him*","*Throws a dog at you*"]
+  },
+  {
+    "tag": " Hello?",
+    "question": " Hello?",
+    "answer": ["How are you?", " Good. Is this the same person as yesterday?", "Good. Is this the same person as yesterday?"]
+  },
+  {
+    "tag": "What are you doing?",
+    "question": "What are you doing?",
+    "answer": ["Nothing."]
+  }
+]
