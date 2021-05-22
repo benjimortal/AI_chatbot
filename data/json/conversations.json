@@ -7,7 +7,7 @@
     {
         "tag": "Hello",
         "question": "Hello",
-        "answer": "Hi"
+        "answer": ["Hi", "hello",
     },
     {
         "tag": "How are you doing?",
