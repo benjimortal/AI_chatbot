@@ -8,6 +8,7 @@ from tensorflow.keras.models import load_model
 import os
 from dotenv import load_dotenv
 from discord.ext import commands
+import math
 
 load_dotenv()
 TOKEN = os.getenv('DISCORD_TOKEN')
@@ -15,7 +16,7 @@ TOKEN = os.getenv('DISCORD_TOKEN')
 bot = commands.Bot(command_prefix='')
 
 lemmatizer = WordNetLemmatizer()
-intents = json.loads(open('cleaned_data/data_remove_stop.json').read())
+intents = json.loads(open('cleaned_data/william_add_sometext.json').read())
 
 words = pickle.load(open('pickle/words.pkl', 'rb'))
 classes = pickle.load(open('pickle/classes.pkl', 'rb'))
@@ -41,7 +42,7 @@ def bag_of_words(sentence):
 def predict_class(sentence):
     bow = bag_of_words(sentence)
     res = model.predict(np.array([bow]))[0]
-    ERROR_THRESHOLD = 0.7
+    ERROR_THRESHOLD = 0.3
     results = [[i, r] for i, r in enumerate(res) if r > ERROR_THRESHOLD]
 
     results.sort(key=lambda x: x[1], reverse=True)
@@ -65,6 +66,25 @@ def get_response(ints, intents_json):
 
 print('GO! Bot is running')
 
+def mathadd(x:float, y: float):
+    return x + y
+
+def mathsub(x: float, y:float):
+    return x - y
+
+def mathmulti(x: float, y: float):
+    return x * y
+
+def mathsqrt(x:float):
+    return math.sqrt(x)
+
+def mathdiv(x: float, y: float):
+    return x / y
+
+def mathexp(x: float, y: float):
+    return x ** y
+
+
 @bot.command()
 async def siri(ctx, *, inp):
     message = inp
@@ -74,5 +94,34 @@ async def siri(ctx, *, inp):
     print(inp)
     await ctx.send(inp)
 
+
+@bot.command()
+async def add(ctx, x: float, y: float):
+    result = mathadd(x, y)
+    await ctx.send(result)
+
+@bot.command()
+async def sub(ctx, x: float, y: float):
+    result = mathsub(x, y)
+    await ctx.send(result)
+
+@bot.command()
+async def multi(ctx, x: float, y: float):
+    result = mathmulti(x, y)
+    await ctx.send(result)
+@bot.command()
+async def sqrt(ctx, x: float):
+    result = mathsqrt(x)
+    await ctx.send(result)
+
+@bot.command()
+async def div(ctx, x: float, y: float):
+    result = mathdiv(x, y)
+    await ctx.send(result)
+
+@bot.command()
+async def exp(ctx, x: float, y: float):
+    result = mathexp(x, y)
+    await ctx.send(result)
 
 bot.run(TOKEN)

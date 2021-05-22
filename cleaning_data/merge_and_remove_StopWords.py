@@ -7,8 +7,10 @@ data = []
 remove_stopW = []
 tags = []
 answers = []
+questions = []
 
-json_path = Path(__file__).parent.joinpath('../data/fixed_json')
+
+json_path = Path(__file__).parent.joinpath('../data/json')
 files = json_path.glob('*.json')
 for file in files:
     with file.open('r', encoding='utf-8') as f:
@@ -20,6 +22,8 @@ for file in files:
 
 for line in data:
     answer = line['answer']
+    question = line['question']
+    questions.append(question)
     answers.append(answer)
 
 for line in data:
@@ -37,12 +41,17 @@ for line in remove_stopW:
     line = line.replace(',', '').replace("'", '')
     tags.append(line)
 
-z = zip(tags, answers)
+z = zip(tags, questions, answers)
 zipped = list(z)
 zipped_data = []
 
 for i in zipped:
     zipped_data.append(i)
+
+for line in zipped_data:
+    print(line)
+    break
+
 
 dict_to_json = {
     'intents': []
@@ -50,14 +59,15 @@ dict_to_json = {
 for line in zipped_data:
     tag = line[0]
     tag = tag.replace('[', '').replace(']', '')
-    answer = line[1]
+    answer = line[2]
+    question = line[1]
     to_dict = {
         'tag': tag,
-        'question': [tag],
-        'answer': answer
+        'question': [question],
+        'answer': [answer]
     }
     dict_to_json['intents'].append(to_dict)
 
-out_file = '../cleaned_data/data_remove_stop.json'
+out_file = '../cleaned_data/data_remove_stop2.json'
 with open(out_file,'w', encoding='utf-8') as f:
     json.dump(dict_to_json, f, indent=4)
