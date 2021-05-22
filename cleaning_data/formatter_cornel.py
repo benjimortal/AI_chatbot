@@ -1,7 +1,7 @@
 import re
 import json
 
-json_File = '../data/json/cornell_movie_first_clean.json'
+json_File = '../data/cornell movie/cornell_movie_first_clean.json'
 
 
 lines = open('../data/cornell movie/movie_lines.txt', encoding='utf-8',

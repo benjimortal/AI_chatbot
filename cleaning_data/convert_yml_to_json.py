@@ -1,7 +1,7 @@
 import yaml
 import json
 
-json_File = '../data/json/trivia.json'
+json_File = '../data/fixed_json/trivia.json'
 
 with open('../data/yml/trivia.yml', 'r') as file:
     reader = yaml.load(file)

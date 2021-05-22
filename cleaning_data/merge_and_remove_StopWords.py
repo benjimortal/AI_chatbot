@@ -8,7 +8,7 @@ remove_stopW = []
 tags = []
 answers = []
 
-json_path = Path(__file__).parent.joinpath('../data/json')
+json_path = Path(__file__).parent.joinpath('../data/fixed_json')
 files = json_path.glob('*.json')
 for file in files:
     with file.open('r', encoding='utf-8') as f:
@@ -54,7 +54,7 @@ for line in zipped_data:
     to_dict = {
         'tag': tag,
         'question': [tag],
-        'answer': [answer]
+        'answer': answer
     }
     dict_to_json['intents'].append(to_dict)
 

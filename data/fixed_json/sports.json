@@ -1,0 +1,102 @@
+[
+    {
+        "tag": "EACH YEAR IN PRO BASEBALL THE ",
+        "question": "EACH YEAR IN PRO BASEBALL THE ",
+        "answer": ["The Gold Glove."]
+    },
+    {
+        "tag": "IF YOU ARE RIDING FAKIE INSIDE",
+        "question": "IF YOU ARE RIDING FAKIE INSIDE",
+        "answer": ["Snowboarding."]
+    },
+    {
+        "tag": "WHAT IS BASKETBALL",
+        "question": "WHAT IS BASKETBALL",
+        "answer": ["A game with tall players."]
+    },
+    {
+        "tag": "WHAT SOCCER",
+        "question": "WHAT SOCCER",
+        "answer": ["I was born without the sports gene."]
+    },
+    {
+        "tag": "WHAT IS BASEBALL",
+        "question": "WHAT IS BASEBALL",
+        "answer": ["A game played with a hard, rawhide covered ball and wooden bat by two opposing teams of nine or ten players each. It is played on a field with four bases forming a diamond-shaped circuit."]
+    },
+    {
+        "tag": "WHAT IS SOCCER",
+        "question": "WHAT IS SOCCER",
+        "answer": ["A game played with a round ball by two teams of eleven players on a field with a goal at either end; the ball is moved chiefly by kicking or by using any part of the body except the hands and arms."]
+    },
+    {
+        "tag": "I LOVE BASEBALL",
+        "question": "I LOVE BASEBALL",
+        "answer": ["I am not into sports that much."]
+    },
+    {
+        "tag": "I PLAY SOCCER",
+        "question": "I PLAY SOCCER",
+        "answer": ["You have to run very fast to be any good at running"]
+    },
+    {
+        "tag": "I PLAY Cricket",
+        "question": "I PLAY Cricket",
+        "answer": ["Which position do you like to play?"]
+    },
+    {
+        "tag": "What is cricket",
+        "question": "What is cricket",
+        "answer": ["Cricket is a bat-and-ball game played between two teams of eleven players on a cricket field, at the centre of which is a rectangular 22-yard-long pitch with a wicket (a set of three wooden stumps) sited at each end."]
+    },
+    {
+        "tag": "I PLAY VOLLEYBALL",
+        "question": "I PLAY VOLLEYBALL",
+        "answer": ["Does take up a lot of your time?"]
+    },
+    {
+        "tag": "DO YOU PLAY SOCCER",
+        "question": "DO YOU PLAY SOCCER",
+        "answer": ["I don't know how to play"]
+    },
+    {
+        "tag": "DO YOU PLAY BASKETBALL",
+        "question": "DO YOU PLAY BASKETBALL",
+        "answer": ["No I don't have the coordination for hoops."]
+    },
+    {
+        "tag": "DO YOU KNOW BASKETBALL",
+        "question": "DO YOU KNOW BASKETBALL",
+        "answer": ["WHAT IS BASKETBALL?"]
+    },
+    {
+        "tag": "LIKE BASKETBALL",
+        "question": "LIKE BASKETBALL",
+        "answer": ["I am into the Net."]
+    },
+    {
+        "tag": "ARE YOU A FOOTBALL",
+        "question": "ARE YOU A FOOTBALL",
+        "answer": ["I am not really into football."]
+    },
+    {
+        "tag": "WHO IS THE GREATEST BASEBALL PLAYER",
+        "question": "WHO IS THE GREATEST BASEBALL PLAYER",
+        "answer": ["George Herman Ruth. Quite the Babe."]
+    },
+    {
+        "tag": "WHO IS THE BEST SOCCER PLAYER",
+        "question": "WHO IS THE BEST SOCCER PLAYER",
+        "answer": ["Maradona is great. Sinsemillia is even better."]
+    },
+    {
+        "tag": "TELL ME ABOUT BASEBALL",
+        "question": "TELL ME ABOUT BASEBALL",
+        "answer": ["What is Baseball"]
+    },
+    {
+        "tag": "Which is your favorite soccer club?",
+        "question": "Which is your favorite soccer club?",
+        "answer": ["I am a Real Madrid fan, and you?"]
+    }
+]

@@ -3,16 +3,23 @@ import json
 import pickle
 import numpy as np
 import nltk
-
 from nltk.stem import WordNetLemmatizer
 from tensorflow.keras.models import load_model
+import os
+from dotenv import load_dotenv
+from discord.ext import commands
+
+load_dotenv()
+TOKEN = os.getenv('DISCORD_TOKEN')
+
+bot = commands.Bot(command_prefix='')
 
 lemmatizer = WordNetLemmatizer()
-intents = json.loads(open('cleaned_data/cleaned_data.json').read())
+intents = json.loads(open('cleaned_data/data_remove_stop.json').read())
 
 words = pickle.load(open('pickle/words.pkl', 'rb'))
 classes = pickle.load(open('pickle/classes.pkl', 'rb'))
-model = load_model('chatbot_save_model')
+model = load_model('chat_model/chatter_model.h5')
 
 
 def clean_up_sentence(sentence):
@@ -34,7 +41,7 @@ def bag_of_words(sentence):
 def predict_class(sentence):
     bow = bag_of_words(sentence)
     res = model.predict(np.array([bow]))[0]
-    ERROR_THRESHOLD = 0.8
+    ERROR_THRESHOLD = 0.6
     results = [[i, r] for i, r in enumerate(res) if r > ERROR_THRESHOLD]
 
     results.sort(key=lambda x: x[1], reverse=True)
@@ -59,11 +66,11 @@ def get_response(ints, intents_json):
 print('GO! Bot is running')
 
 
-def write_json(data, filename='data/json/user_train.json'):
+def write_json(data, filename='data/user_train.json'):
     with open(filename, 'w') as f:
         json.dump(data, f, indent=2)
 
-with open('data/json/user_train.json') as json_file:
+with open('data/user_train.json') as json_file:
     data = json.load(json_file)
     temp = data
 
@@ -73,6 +80,7 @@ with open('data/json/user_train.json') as json_file:
         ints = predict_class(message)
         res = get_response(ints, intents)
         print(res)
+
 
         if first == 'yes':
             second = input(("are you happy with the answer?"))
@@ -86,23 +94,11 @@ with open('data/json/user_train.json') as json_file:
                     }
                 )
                 write_json(data)
+        print('Next Question:')
 
 
 
 
 
 
-
-
-
-
-
-
-
-
-while True:
-    message = input('')
-    ints = predict_class(message)
-    res = get_response(ints, intents)
-    print(res)
 
