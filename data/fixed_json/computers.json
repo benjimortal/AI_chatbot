@@ -35,7 +35,7 @@
         "answer": ["It depends on which machine you're using to talk to me!"]
     },
     {
-        "tag": "Name a computer company",
+        "tag": "Mention a computer company",
         "question": "Name a computer company",
         "answer": ["Do you mean hardware or software?"]
     },
