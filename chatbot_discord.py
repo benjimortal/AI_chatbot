@@ -15,7 +15,7 @@ TOKEN = os.getenv('DISCORD_TOKEN')
 bot = commands.Bot(command_prefix='')
 
 lemmatizer = WordNetLemmatizer()
-intents = json.loads(open('cleaned_data/cleaned_data.json').read())
+intents = json.loads(open('cleaned_data/data_remove_stop.json').read())
 
 words = pickle.load(open('pickle/words.pkl', 'rb'))
 classes = pickle.load(open('pickle/classes.pkl', 'rb'))
@@ -65,39 +65,14 @@ def get_response(ints, intents_json):
 
 print('GO! Bot is running')
 
-
-def write_json(data, filename='data/json/user_train.json'):
-    with open(filename, 'w') as f:
-        json.dump(data, f, indent=2)
-
-with open('data/json/user_train.json') as json_file:
-    data = json.load(json_file)
-    temp = data
-
-    first = input(("do you want to start training? Enter yes, otherwise enter no."))
-    while True:
-        message = input('')
-        ints = predict_class(message)
-        res = get_response(ints, intents)
-        print(res)
-
-        if first == 'yes':
-            second = input(("are you happy with the answer?"))
-            if second == 'no':
-                answer = input(("enter what answer you want"))
-                temp.append(
-                    {
-                        "tag": message,
-                        "question": message,
-                        "answer": answer
-                    }
-                )
-                write_json(data)
+@bot.command()
+async def siri(ctx, *, inp):
+    message = inp
+    ints = predict_class(message)
+    res = get_response(ints, intents)
+    inp = res
+    print(inp)
+    await ctx.send(inp)
 
 
-
-
-
-
-
-
+bot.run(TOKEN)
