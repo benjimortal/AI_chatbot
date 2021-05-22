@@ -81,6 +81,7 @@ with open('data/json/user_train.json') as json_file:
         res = get_response(ints, intents)
         print(res)
 
+
         if first == 'yes':
             second = input(("are you happy with the answer?"))
             if second == 'no':
@@ -93,7 +94,7 @@ with open('data/json/user_train.json') as json_file:
                     }
                 )
                 write_json(data)
-
+        print('Next Question:')
 
 
 
