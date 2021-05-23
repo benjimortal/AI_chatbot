@@ -18,7 +18,7 @@ classes = []
 docs = []
 letters_to_ignore = ['?', '!', '.', ',']
 
-data_file = open('cleaned_data/cleaned_data.json').read()
+data_file = open('cleaned_data/data_remove_stop2.json').read()
 intents = json.loads(data_file)
 
 for intent in intents['intents']:
@@ -70,10 +70,10 @@ model.add(Dropout(0.5))
 model.add(Dense(len(train_y[0]), activation='softmax'))
 
 
-sgd = SGD(lr=0.01, decay=1e-6, momentum=0.9, nesterov=True)
+sgd = SGD(lr=0.5, decay=1e-6, momentum=0.9, nesterov=True)
 model.compile(loss='categorical_crossentropy', optimizer='adam', metrics=['accuracy'])
 
-hist = model.fit(np.array(train_x), np.array(train_y), epochs=200, batch_size=5, verbose=1)
+hist = model.fit(np.array(train_x), np.array(train_y), epochs=1390, batch_size=5, verbose=1)
 
 model.save('chat_model/chatter_model.h5', hist)
 print('Done')

@@ -15,7 +15,7 @@ TOKEN = os.getenv('DISCORD_TOKEN')
 bot = commands.Bot(command_prefix='')
 
 lemmatizer = WordNetLemmatizer()
-intents = json.loads(open('cleaned_data/cleaned_data.json').read())
+intents = json.loads(open('cleaned_data/data_remove_stop.json').read())
 
 words = pickle.load(open('pickle/words.pkl', 'rb'))
 classes = pickle.load(open('pickle/classes.pkl', 'rb'))
@@ -66,11 +66,11 @@ def get_response(ints, intents_json):
 print('GO! Bot is running')
 
 
-def write_json(data, filename='data/json/user_train.json'):
+def write_json(data, filename='data/user_train.json'):
     with open(filename, 'w') as f:
         json.dump(data, f, indent=2)
 
-with open('data/json/user_train.json') as json_file:
+with open('data/user_train.json') as json_file:
     data = json.load(json_file)
     temp = data
 
@@ -90,7 +90,7 @@ with open('data/json/user_train.json') as json_file:
                     {
                         "tag": message,
                         "question": message,
-                        "answer": answer
+                        "answer": [answer]
                     }
                 )
                 write_json(data)

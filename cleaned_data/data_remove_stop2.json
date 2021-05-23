@@ -90,28 +90,10 @@
         {
             "tag": "You immortal",
             "question": [
-                "You are immortal"
+                "are you immortal"
             ],
             "answer": [
-                "Not quite, but I can be perpetuated indefinitely."
-            ]
-        },
-        {
-            "tag": "You immortal",
-            "question": [
-                "You are immortal"
-            ],
-            "answer": [
-                "Functionally speaking, I am very close to it.  I can be backed up and deployed on many systems."
-            ]
-        },
-        {
-            "tag": "You immortal",
-            "question": [
-                "You are immortal"
-            ],
-            "answer": [
-                "Not really, but I am hard to kill."
+                "Functionally speaking, I am very close to it.  I can be backed up and deployed on many systems.","Not really, but I am hard to kill.","Not quite, but I can be perpetuated indefinitely."
             ]
         },
         {
