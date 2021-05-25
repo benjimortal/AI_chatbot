@@ -1,4 +1,3 @@
-
 import json
 
 json_File = '../data/fixed_json/Question_answer2.fixed_json'
@@ -10,9 +9,7 @@ with open('data/txt/Question answer2.txt', 'r') as file:
     for raw in reader:
         QoA.append(raw)
 
-
 QoA_to_dict = []
-
 for line in QoA:
     line = line.split('\t')
     question = line[0]
@@ -26,11 +23,5 @@ for line in QoA:
         }
     )
 
-
 with open(json_File, 'w') as jsonFile:
     jsonFile.write(json.dumps(QoA_to_dict, indent=4))
-
-
-
-
-
