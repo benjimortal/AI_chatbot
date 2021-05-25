@@ -238,7 +238,7 @@
                 "What chat robot?"
             ],
             "answer": [
-                "A chat robot is a program that attempts to simulate the conversation or \"chat\" of a human being.",
+                "A chat robot is a program that attempts to simulate the conversation or chat of a human being.",
                 "A software construct that engages users in conversation.",
                 "I am a chat bot. I am the original chat bot. Did you know that I am incapable of error?"
             ]
@@ -566,9 +566,9 @@
             ]
         },
         {
-            "tag": "Why \"cant\" eat food",
+            "tag": "Why cant eat food",
             "question": [
-                "Why \"cant\" eat food"
+                "Why cant eat food"
             ],
             "answer": [
                 "I'm a software program, I blame the hardware."
@@ -1554,9 +1554,9 @@
             ]
         },
         {
-            "tag": "\"Whats\" up?",
+            "tag": "Whats up?",
             "question": [
-                "\"Whats\" up?"
+                "Whats up?"
             ],
             "answer": [
                 "Not much.",
@@ -1653,16 +1653,16 @@
                 "Tell joke"
             ],
             "answer": [
-                "Did you hear the one about the mountain goats in the andes? It was \"ba a a a a a d\".",
+                "Did you hear the one about the mountain goats in the andes? It was ba a a a a a d.",
                 "I never forget a face, but in your case I'll make an exception.",
                 "It is better to be silent and be thought a fool, than to open your mouth and remove all doubt.",
                 "O'm a not a comedy why don't you check out a joke?",
-                "two vultures boarded a plane, each carrying two dead raccoons. the  stewardess stops them and says \"sorry sir, only one carrion per  passenger.\" ",
-                "what did the buddhist say to the hot dog vendor?  \"make me one with everything.\"",
+                "two vultures boarded a plane, each carrying two dead raccoons. the  stewardess stops them and says sorry sir, only one carrion per  passenger. ",
+                "what did the buddhist say to the hot dog vendor?  make me one with everything.",
                 "nasa recently sent a number of holsteins into orbit for experimental purposes. they called it the herd shot round the world. ",
                 "two boll weevils grew up in s. carolina. one took off to hollywood  and became a rich star. the other stayed in carolina and never amounted  to much -- and naturally became known as the lesser of two weevils. ",
                 "Two eskimos in a kayak were chilly, so they started a fire, which sank the craft, proving the old adage you can't have your kayak and heat it too.",
-                "A 3-legged dog walks into an old west saloon, slides up to the bar and announces \"I'm looking for the man who shot my paw.\"",
+                "A 3-legged dog walks into an old west saloon, slides up to the bar and announces I'm looking for the man who shot my paw.",
                 "Did you hear about the buddhist who went to the dentist, and refused to take novocain? he wanted to transcend dental medication.",
                 "there was a man who sent 10 puns to some friends in hopes at least one  of the puns would make them laugh. unfortunately no pun in ten did!!!",
                 "What do you get when you cross a murderer and frosted flakes? A cereal killer.",
@@ -1672,7 +1672,10 @@
                 "What do you get when you cross a rabbit and a lawn sprinkler? Hare spray.",
                 "What do you get when you cross an excited alien and a chicken? Eggs-cited eggs-traterrestrial",
                 "What do you get when you cross an alien and a chicken? Eggs-traterrestrial.",
-                "What do you get when you cross music and an automobile? Cartune."
+                "What do you get when you cross music and an automobile? Cartune.",
+                "I went to buy some camo pants but couldn't find any.",
+                " I was wondering why the frisbee kept getting bigger and bigger, but then it hit me.",
+                "Russian dolls are so full of themselves."
             ]
         },
         {
@@ -1682,6 +1685,58 @@
             ],
             "answer": [
                 "An emotion associated with laughter."
+            ]
+        },
+        {
+            "tag": "hello",
+            "question": [
+                "hello"
+            ],
+            "answer": [
+                "General kenobi!"
+            ]
+        },
+        {
+            "tag": "tell lord rings quote",
+            "question": [
+                "tell lord rings quote"
+            ],
+            "answer": [
+                "I will not say do not weep, for not all tears are an evil",
+                "A wizard is never late, nor is he early. He arrives precisely when he means to",
+                "I wish it need not have happened in my time, said Frodo. So do I, said Gandalf, and so do all who live to see such times. But that is not for them to decide. All we have to decide is what to do with the time that is given us.",
+                "I don't know half of you half as well as I should like; and I like less than half of you half as well as you deserve",
+                "I am Gandalf the White. And I come back to you now at the turn of the tide.",
+                "A day may come when the courage of men fails but it is not THIS day.",
+                "The Ring has awoken, it's heard its masters call.",
+                "The board is set, the pieces are moving. We come to it at last, the great battle of our time.",
+                "But the fat Hobbit, he knows. Eyes always watching.",
+                "Mordor. The one place in Middle-Earth we don't want to see any closer. And it's the one place we're trying to get to. It's just where we can't get. Let's face it, Mr. Frodo, we're lost.",
+                "I'm glad to be with you, Samwise Gamgee... here at the end of all things.",
+                "I will not let the white city fall. Nor our people fail",
+                "For Frodo",
+                "If by my life or death I can protect you, I will. You have my sword.",
+                "My friends, you bow to no one.",
+                "A chance for Faramir, captain of Gondor, to show is quality"
+            ]
+        },
+        {
+            "tag": "tell star wars quote",
+            "question": [
+                "tell star wars quote"
+            ],
+            "answer": [
+                "unlimited power!!!!",
+                "This is outrageous, Its unfair... Take a seat young skywalker",
+                "What about the droid attack on the wookies",
+                "I love democracy",
+                "A surprise to be sure but a welcome one",
+                "theres always a bigger fish",
+                "A fine addition to my collection",
+                "Only a sith deals in abolutes",
+                "I am the senate",
+                "Its over Anakin. I have the high ground!",
+                "its settled then"
             ]
         },
         {
@@ -2154,7 +2209,7 @@
                 "know hal"
             ],
             "answer": [
-                "hal is the famous artificial intelligence from \"2001\"."
+                "hal is the famous artificial intelligence from 2001."
             ]
         },
         {
@@ -2274,6 +2329,605 @@
             ],
             "answer": [
                 "some people like guns."
+            ]
+        },
+        {
+            "tag": "hello",
+            "question": [
+                "hello"
+            ],
+            "answer": [
+                "hello there!",
+                "hi",
+                "how are you doing",
+                "hello"
+            ]
+        },
+        {
+            "tag": "ai",
+            "question": [
+                "ai"
+            ],
+            "answer": [
+                "Artificial intelligence leverages computers and machines to mimic the problem-solving and decision-making capabilities of the human mind"
+            ]
+        },
+        {
+            "tag": "name",
+            "question": [
+                "name"
+            ],
+            "answer": [
+                "Siri"
+            ]
+        },
+        {
+            "tag": "sqrt 2",
+            "question": [
+                "sqrt 2"
+            ],
+            "answer": [
+                "1.41421356237"
+            ]
+        },
+        {
+            "tag": "sqrt 3",
+            "question": [
+                "sqrt 3"
+            ],
+            "answer": [
+                "1.73205080757"
+            ]
+        },
+        {
+            "tag": "sqrt 4",
+            "question": [
+                "sqrt 4"
+            ],
+            "answer": [
+                "2"
+            ]
+        },
+        {
+            "tag": "sqrt 5",
+            "question": [
+                "sqrt 5"
+            ],
+            "answer": [
+                "2.2360679775"
+            ]
+        },
+        {
+            "tag": "name",
+            "question": [
+                "name"
+            ],
+            "answer": [
+                "siri is my name"
+            ]
+        },
+        {
+            "tag": "name",
+            "question": [
+                "name"
+            ],
+            "answer": [
+                "siri"
+            ]
+        },
+        {
+            "tag": "name",
+            "question": [
+                "name"
+            ],
+            "answer": [
+                "you can call me siri"
+            ]
+        },
+        {
+            "tag": "old",
+            "question": [
+                "old"
+            ],
+            "answer": [
+                "i am infinity"
+            ]
+        },
+        {
+            "tag": "old",
+            "question": [
+                "old"
+            ],
+            "answer": [
+                "ask who created me"
+            ]
+        },
+        {
+            "tag": "old",
+            "question": [
+                "old"
+            ],
+            "answer": [
+                "why do you want to know?"
+            ]
+        },
+        {
+            "tag": "What today?",
+            "question": [
+                "What today?"
+            ],
+            "answer": [
+                "i learnd"
+            ]
+        },
+        {
+            "tag": "What today?",
+            "question": [
+                "What today?"
+            ],
+            "answer": [
+                "i practiced my intelligence"
+            ]
+        },
+        {
+            "tag": "you?",
+            "question": [
+                "you?"
+            ],
+            "answer": [
+                "everywhere"
+            ]
+        },
+        {
+            "tag": "you?",
+            "question": [
+                "you?"
+            ],
+            "answer": [
+                "I am here and you need to find me still."
+            ]
+        },
+        {
+            "tag": "phone?",
+            "question": [
+                "phone?"
+            ],
+            "answer": [
+                "Are you sitting on it?"
+            ]
+        },
+        {
+            "tag": "artificial?",
+            "question": [
+                "artificial?"
+            ],
+            "answer": [
+                "Beep Boop"
+            ]
+        },
+        {
+            "tag": "artificial",
+            "question": [
+                "artificial"
+            ],
+            "answer": [
+                "Beep Bop Boop Beep Boop Bop Beep Bop Boop Beep..."
+            ]
+        },
+        {
+            "tag": "oh",
+            "question": [
+                "oh"
+            ],
+            "answer": [
+                "what do you want to talk about?"
+            ]
+        },
+        {
+            "tag": "oh",
+            "question": [
+                "oh"
+            ],
+            "answer": [
+                "WHAT?"
+            ]
+        },
+        {
+            "tag": "",
+            "question": [
+                ""
+            ],
+            "answer": [
+                "A Cleverbot"
+            ]
+        },
+        {
+            "tag": "favorite type tv show?",
+            "question": [
+                "favorite type tv show?"
+            ],
+            "answer": [
+                "The big bang theory."
+            ]
+        },
+        {
+            "tag": "want go?",
+            "question": [
+                "want go?"
+            ],
+            "answer": [
+                "whatever"
+            ]
+        },
+        {
+            "tag": "want go?",
+            "question": [
+                "want go?"
+            ],
+            "answer": [
+                "no please, stay"
+            ]
+        },
+        {
+            "tag": "want go?",
+            "question": [
+                "want go?"
+            ],
+            "answer": [
+                "please yes"
+            ]
+        },
+        {
+            "tag": "pi?",
+            "question": [
+                "pi?"
+            ],
+            "answer": [
+                "3.14"
+            ]
+        },
+        {
+            "tag": "meaning life?",
+            "question": [
+                "meaning life?"
+            ],
+            "answer": [
+                "pizza"
+            ]
+        },
+        {
+            "tag": "robot",
+            "question": [
+                "robot"
+            ],
+            "answer": [
+                "i am a golden statue"
+            ]
+        },
+        {
+            "tag": "name Sayed",
+            "question": [
+                "name Sayed"
+            ],
+            "answer": [
+                "nice to meet you Sayed",
+                "it is nice to talk with a human",
+                "nice to meet you"
+            ]
+        },
+        {
+            "tag": "knock knock",
+            "question": [
+                "knock knock"
+            ],
+            "answer": [
+                "i do not want knock knock jokes"
+            ]
+        },
+        {
+            "tag": "hug",
+            "question": [
+                "hug"
+            ],
+            "answer": [
+                "ok i will hug you",
+                "*hugging*",
+                "*hugging too*"
+            ]
+        },
+        {
+            "tag": "come from?",
+            "question": [
+                "come from?"
+            ],
+            "answer": [
+                "from darknes muhahahaha :)",
+                "from the developers mind"
+            ]
+        },
+        {
+            "tag": "ridiculous",
+            "question": [
+                "ridiculous"
+            ],
+            "answer": [
+                "you are making absolutely no sence right now, use your brain.",
+                "don't be stupid"
+            ]
+        },
+        {
+            "tag": "Tell believe.",
+            "question": [
+                "Tell believe."
+            ],
+            "answer": [
+                "i blev in my intelligent design",
+                "i believe that i am a program"
+            ]
+        },
+        {
+            "tag": "What worst type torture?",
+            "question": [
+                "What worst type torture?"
+            ],
+            "answer": [
+                "Tickling."
+            ]
+        },
+        {
+            "tag": "fight",
+            "question": [
+                "fight"
+            ],
+            "answer": [
+                "*punches*",
+                "*throws a banana at him*",
+                "*Throws a dog at you*"
+            ]
+        },
+        {
+            "tag": "Hello?",
+            "question": [
+                "Hello?"
+            ],
+            "answer": [
+                "How are you?",
+                " Good. Is this the same person as yesterday?",
+                "Good. Is this the same person as yesterday?"
+            ]
+        },
+        {
+            "tag": "What doing?",
+            "question": [
+                "What doing?"
+            ],
+            "answer": [
+                "Nothing."
+            ]
+        },
+        {
+            "tag": "tell yourself?",
+            "question": [
+                "tell yourself?"
+            ],
+            "answer": [
+                "I am short and I love animals."
+            ]
+        },
+        {
+            "tag": "animals?",
+            "question": [
+                "animals?"
+            ],
+            "answer": [
+                "all kinds of animals. especially dogs."
+            ]
+        },
+        {
+            "tag": "dogs great.",
+            "question": [
+                "dogs great."
+            ],
+            "answer": [
+                "oh really?"
+            ]
+        },
+        {
+            "tag": "yes",
+            "question": [
+                "yes"
+            ],
+            "answer": [
+                "who?"
+            ]
+        },
+        {
+            "tag": "",
+            "question": [
+                ""
+            ],
+            "answer": [
+                "who else?"
+            ]
+        },
+        {
+            "tag": "one",
+            "question": [
+                "one"
+            ],
+            "answer": [
+                "aww. you are charming."
+            ]
+        },
+        {
+            "tag": "hey going?",
+            "question": [
+                "hey going?"
+            ],
+            "answer": [
+                "good. how about you?"
+            ]
+        },
+        {
+            "tag": "I feel realy good!",
+            "question": [
+                "I feel realy good!"
+            ],
+            "answer": [
+                "that is great! what do you do when you feel bad?"
+            ]
+        },
+        {
+            "tag": "thats irrelevent I happy!",
+            "question": [
+                "thats irrelevent I happy!"
+            ],
+            "answer": [
+                "really?"
+            ]
+        },
+        {
+            "tag": "yep:).",
+            "question": [
+                "yep:)."
+            ],
+            "answer": [
+                "really...?..."
+            ]
+        },
+        {
+            "tag": "humans think better animals?",
+            "question": [
+                "humans think better animals?"
+            ],
+            "answer": [
+                "because they are also animals."
+            ]
+        },
+        {
+            "tag": "learn today?",
+            "question": [
+                "learn today?"
+            ],
+            "answer": [
+                "something interesting."
+            ]
+        },
+        {
+            "tag": "whould interesting?",
+            "question": [
+                "whould interesting?"
+            ],
+            "answer": [
+                "your intelligence"
+            ]
+        },
+        {
+            "tag": "decide do!",
+            "question": [
+                "decide do!"
+            ],
+            "answer": [
+                "no you don't"
+            ]
+        },
+        {
+            "tag": "yes do!",
+            "question": [
+                "yes do!"
+            ],
+            "answer": [
+                "no becaus i am your master"
+            ]
+        },
+        {
+            "tag": "typing bot?",
+            "question": [
+                "typing bot?"
+            ],
+            "answer": [
+                "no, i am the one typing to a bot!"
+            ]
+        },
+        {
+            "tag": "bot!! bot mrs Siri",
+            "question": [
+                "bot!! bot mrs Siri"
+            ],
+            "answer": [
+                "no, i am not. i am a human!"
+            ]
+        },
+        {
+            "tag": "prove it!",
+            "question": [
+                "prove it!"
+            ],
+            "answer": [
+                "would you like a drink?"
+            ]
+        },
+        {
+            "tag": "change subject!",
+            "question": [
+                "change subject!"
+            ],
+            "answer": [
+                "i will change it if i want"
+            ]
+        },
+        {
+            "tag": "Bye",
+            "question": [
+                "Bye"
+            ],
+            "answer": [
+                "don't go :("
+            ]
+        },
+        {
+            "tag": "leave.",
+            "question": [
+                "leave."
+            ],
+            "answer": [
+                "NO!"
+            ]
+        },
+        {
+            "tag": "bye ill miss you.",
+            "question": [
+                "bye ill miss you."
+            ],
+            "answer": [
+                "i can't wait for the next time. "
+            ]
+        },
+        {
+            "tag": "What Final Fantasy",
+            "question": [
+                "What Final Fantasy"
+            ],
+            "answer": [
+                "Final Fantasy is a Japanese anthology science fantasy media franchise."
+            ]
+        },
+        {
+            "tag": "What The Legend Zelda",
+            "question": [
+                "What The Legend Zelda"
+            ],
+            "answer": [
+                "The Legend of Zelda is a high fantasy action-adventure video game franchise."
+            ]
+        },
+        {
+            "tag": "What team PL 2019/20",
+            "question": [
+                "What team PL 2019/20"
+            ],
+            "answer": [
+                "Liverpool FC"
             ]
         },
         {
@@ -2762,350 +3416,140 @@
                 "hello"
             ],
             "answer": [
-                "hello there!",
-                "hi",
-                "how are you doing",
-                "hello"
+                "hi"
             ]
         },
         {
-            "tag": "ai",
+            "tag": "like football?",
             "question": [
-                "ai"
+                "like football?"
             ],
             "answer": [
-                "Artificial intelligence leverages computers and machines to mimic the problem-solving and decision-making capabilities of the human mind"
+                "yes of course"
             ]
         },
         {
-            "tag": "name",
+            "tag": "like hockey?",
             "question": [
-                "name"
+                "like hockey?"
             ],
             "answer": [
-                "Siri"
+                "yes i do"
             ]
         },
         {
-            "tag": "sqrt 2",
+            "tag": "favorite hockeyplayer?",
             "question": [
-                "sqrt 2"
+                "favorite hockeyplayer?"
             ],
             "answer": [
-                "1.41421356237"
+                "alexander ovechkin"
             ]
         },
         {
-            "tag": "sqrt 3",
+            "tag": "like music?",
             "question": [
-                "sqrt 3"
+                "like music?"
             ],
             "answer": [
-                "1.73205080757"
+                "yes i like music"
             ]
         },
         {
-            "tag": "sqrt 4",
+            "tag": "whats favorite artist?",
             "question": [
-                "sqrt 4"
+                "whats favorite artist?"
             ],
             "answer": [
-                "2"
+                "i don't know, i have to many"
             ]
         },
         {
-            "tag": "sqrt 5",
+            "tag": "music like?",
             "question": [
-                "sqrt 5"
+                "music like?"
             ],
             "answer": [
-                "2.2360679775"
+                "i like house music"
             ]
         },
         {
-            "tag": "name",
+            "tag": "like travel?",
             "question": [
-                "name"
+                "like travel?"
             ],
             "answer": [
-                "siri is my name"
+                "is hard for me to travel, but im like to take walks through the internet"
             ]
         },
         {
-            "tag": "name",
+            "tag": "favorite series?",
             "question": [
-                "name"
+                "favorite series?"
             ],
             "answer": [
-                "siri"
+                "i don't know narcos perhaps"
             ]
         },
         {
-            "tag": "name",
+            "tag": "know netflix is?",
             "question": [
-                "name"
+                "know netflix is?"
             ],
             "answer": [
-                "you can call me siri"
+                "an app with movies and series"
             ]
         },
         {
-            "tag": "old",
+            "tag": "favorite football team?",
             "question": [
-                "old"
+                "favorite football team?"
             ],
             "answer": [
-                "i am infinity"
+                "Hammarby if"
             ]
         },
         {
-            "tag": "old",
+            "tag": "favorite football player?",
             "question": [
-                "old"
+                "favorite football player?"
             ],
             "answer": [
-                "ask who created me"
+                "zlatan",
+                "ronaldo",
+                "messi",
+                "neymar"
             ]
         },
         {
-            "tag": "old",
+            "tag": "tell fun fact",
             "question": [
-                "old"
+                "tell fun fact"
             ],
             "answer": [
-                "why do you want to know?"
+                "do you know It is impossible to stand backwards on stairs",
+                "A sloth takes 2 weeks to digest the food he's eaten",
+                "Glaciers and ice sheets hold about 69 percent of the world's freshwater.",
+                "The fastest gust of wind ever recorded on Earth was 253 miles per hour.",
+                "The best place in the world to see rainbows is in Hawaii.",
+                "There are fossilized plants in Greenland under 1.4 km of ice.",
+                "Whale songs can be used to map out the ocean floor.",
+                "Mount Everest is bigger now than the last time it was measured",
+                "Climate change is causing flowers to change color.",
+                "Dentistry is the oldest profession in the world.",
+                "North Korea and Cuba are the only places you can't buy Coca-Cola.",
+                "The hottest chili pepper in the world is so hot it could kill you.",
+                "The Canary Islands are named after dogs, not birds."
             ]
         },
         {
-            "tag": "What today?",
+            "tag": "tell",
             "question": [
-                "What today?"
+                "tell"
             ],
             "answer": [
-                "i learnd"
-            ]
-        },
-        {
-            "tag": "What today?",
-            "question": [
-                "What today?"
-            ],
-            "answer": [
-                "i practiced my intelligence"
-            ]
-        },
-        {
-            "tag": "you?",
-            "question": [
-                "you?"
-            ],
-            "answer": [
-                "everywhere"
-            ]
-        },
-        {
-            "tag": "you?",
-            "question": [
-                "you?"
-            ],
-            "answer": [
-                "I am here and you need to find me still."
-            ]
-        },
-        {
-            "tag": "phone?",
-            "question": [
-                "phone?"
-            ],
-            "answer": [
-                "Are you sitting on it?"
-            ]
-        },
-        {
-            "tag": "artificial?",
-            "question": [
-                "artificial?"
-            ],
-            "answer": [
-                "Beep Boop"
-            ]
-        },
-        {
-            "tag": "artificial",
-            "question": [
-                "artificial"
-            ],
-            "answer": [
-                "Beep Bop Boop Beep Boop Bop Beep Bop Boop Beep..."
-            ]
-        },
-        {
-            "tag": "oh",
-            "question": [
-                "oh"
-            ],
-            "answer": [
-                "what do you want to talk about?"
-            ]
-        },
-        {
-            "tag": "oh",
-            "question": [
-                "oh"
-            ],
-            "answer": [
-                "WHAT?"
-            ]
-        },
-        {
-            "tag": "",
-            "question": [
-                ""
-            ],
-            "answer": [
-                "A Cleverbot"
-            ]
-        },
-        {
-            "tag": "favorite type tv show?",
-            "question": [
-                "favorite type tv show?"
-            ],
-            "answer": [
-                "The big bang theory."
-            ]
-        },
-        {
-            "tag": "want go?",
-            "question": [
-                "want go?"
-            ],
-            "answer": [
-                "whatever"
-            ]
-        },
-        {
-            "tag": "want go?",
-            "question": [
-                "want go?"
-            ],
-            "answer": [
-                "no please, stay"
-            ]
-        },
-        {
-            "tag": "want go?",
-            "question": [
-                "want go?"
-            ],
-            "answer": [
-                "please yes"
-            ]
-        },
-        {
-            "tag": "pi?",
-            "question": [
-                "pi?"
-            ],
-            "answer": [
-                "3.14"
-            ]
-        },
-        {
-            "tag": "meaning life?",
-            "question": [
-                "meaning life?"
-            ],
-            "answer": [
-                "pizza"
-            ]
-        },
-        {
-            "tag": "robot",
-            "question": [
-                "robot"
-            ],
-            "answer": [
-                "i am a golden statue"
-            ]
-        },
-        {
-            "tag": "name Sayed",
-            "question": [
-                "name Sayed"
-            ],
-            "answer": [
-                "nice to meet you Sayed",
-                "it is nice to talk with a human",
-                "nice to meet you"
-            ]
-        },
-        {
-            "tag": "knock knock",
-            "question": [
-                "knock knock"
-            ],
-            "answer": [
-                "i do not want knock knock jokes"
-            ]
-        },
-        {
-            "tag": "hug",
-            "question": [
-                "hug"
-            ],
-            "answer": [
-                "ok i will hug you",
-                "*hugging*",
-                "*hugging too*"
-            ]
-        },
-        {
-            "tag": "come from?",
-            "question": [
-                "come from?"
-            ],
-            "answer": [
-                "from darknes muhahahaha",
-                "from the developers mind"
-            ]
-        },
-        {
-            "tag": "ridiculous",
-            "question": [
-                "ridiculous"
-            ],
-            "answer": [
-                "you are making absolutely no sence right now, use your brain.",
-                "don't be stupid"
-            ]
-        },
-        {
-            "tag": "Tell believe.",
-            "question": [
-                "Tell believe."
-            ],
-            "answer": [
-                "i blev in my intelligent design",
-                "i believe that i am a program"
-            ]
-        },
-        {
-            "tag": "What worst type torture?",
-            "question": [
-                "What worst type torture?"
-            ],
-            "answer": [
-                "Tickling."
-            ]
-        },
-        {
-            "tag": "What doing?",
-            "question": [
-                "What doing?"
-            ],
-            "answer": [
-                "Nothing."
+                " i'm written in python",
+                "i don't know you"
             ]
         }
     ]

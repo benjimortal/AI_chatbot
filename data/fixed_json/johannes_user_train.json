@@ -1,0 +1,49 @@
+[
+  {
+    "tag": "hello there",
+    "question": "hello there",
+    "answer": [
+      "General kenobi!"
+    ]
+  },
+  {
+    "tag": "tell me a lord of the rings quote",
+    "question": "tell me a lord of the rings quote",
+    "answer": [
+      "I will not say do not weep, for not all tears are an evil",
+      "A wizard is never late, nor is he early. He arrives precisely when he means to",
+      "I wish it need not have happened in my time,” said Frodo. So do I, said Gandalf, and so do all who live to see such times. But that is not for them to decide. All we have to decide is what to do with the time that is given us.",
+      "I don’t know half of you half as well as I should like; and I like less than half of you half as well as you deserve",
+      "I am Gandalf the White. And I come back to you now… at the turn of the tide.",
+      "A day may come when the courage of men fails… but it is not THIS day.",
+      "The Ring has awoken, it’s heard its masters call.",
+      "The board is set, the pieces are moving. We come to it at last, the great battle of our time.",
+      "But the fat Hobbit, he knows. Eyes always watching.",
+      "Mordor. The one place in Middle-Earth we don’t want to see any closer. And it’s the one place we’re trying to get to. It’s just where we can’t get. Let’s face it, Mr. Frodo, we’re lost.",
+      "I’m glad to be with you, Samwise Gamgee…here at the end of all things.",
+      "I will not let the white city fall. Nor our people fail",
+      "For Frodo",
+      "If by my life or death I can protect you, I will. You have my sword.",
+      "My friends, you bow to no one.",
+      "A chance for Faramir, captain of Gondor, to show is quality"
+
+    ]
+  },
+    {
+    "tag": "tell me a star wars quote",
+    "question": "tell me a star wars quote",
+    "answer": [
+      "unlimited power!!!!",
+      "This is outrageous, Its unfair... Take a seat young skywalker",
+      "What about the droid attack on the wookies",
+      "I love democracy",
+      "A surprise to be sure but a welcome one",
+      "theres always a bigger fish",
+      "A fine addition to my collection",
+      "Only a sith deals in abolutes",
+      "I am the senate",
+      "Its over Anakin. I have the high ground!",
+      "its settled then"
+    ]
+  }
+]

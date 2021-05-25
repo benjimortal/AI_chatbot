@@ -7,7 +7,6 @@ json_File = '../data/fixed_json/computers.json'
 with open('../data/yml/computers.yml', 'r') as file:
     reader = yaml.load(file)
 
-
     questions_answers = []
     for q, a in reader['conversations']:
         question = q
@@ -20,7 +19,6 @@ with open('../data/yml/computers.yml', 'r') as file:
                 'responses': answer
             }
         )
-
 
 with open(json_File, 'w') as jsonFile:
     jsonFile.write(json.dumps({'intents': questions_answers}, indent=4))

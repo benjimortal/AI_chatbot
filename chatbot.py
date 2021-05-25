@@ -15,21 +15,21 @@ TOKEN = os.getenv('DISCORD_TOKEN')
 bot = commands.Bot(command_prefix='')
 
 lemmatizer = WordNetLemmatizer()
-intents = json.loads(open('cleaned_data/cleaned_data.json').read())
+intents = json.loads(open('cleaned_data/data_cleaned_and_ready.json').read())
 
 words = pickle.load(open('pickle/words.pkl', 'rb'))
 classes = pickle.load(open('pickle/classes.pkl', 'rb'))
 model = load_model('chat_model/chatter_model.h5')
 
 
-def clean_up_sentence(sentence):
+def clean_up(sentence):
     sentence_words = nltk.word_tokenize(sentence)
     sentence_words = [lemmatizer.lemmatize(word) for word in sentence_words]
     return sentence_words
 
 
 def bag_of_words(sentence):
-    sentence_words = clean_up_sentence(sentence)
+    sentence_words = clean_up(sentence)
     bag = [0] * len(words)
     for w in sentence_words:
         for i, word in enumerate(words):
@@ -38,10 +38,10 @@ def bag_of_words(sentence):
     return np.array(bag)
 
 
-def predict_class(sentence):
+def class_predict(sentence):
     bow = bag_of_words(sentence)
     res = model.predict(np.array([bow]))[0]
-    ERROR_THRESHOLD = 0.8
+    ERROR_THRESHOLD = 0.25
     results = [[i, r] for i, r in enumerate(res) if r > ERROR_THRESHOLD]
 
     results.sort(key=lambda x: x[1], reverse=True)
@@ -63,42 +63,34 @@ def get_response(ints, intents_json):
         result = "I don't understand!"
     return result
 
-print('GO! Bot is running')
+print('Bot is running!')
 
 
-def write_json(data, filename='data/json/user_train.json'):
+def write_json(data, filename='data/fixed_json/william_user_train.json'):
     with open(filename, 'w') as f:
         json.dump(data, f, indent=2)
 
-with open('data/json/user_train.json') as json_file:
+with open('data/fixed_json/william_user_train.json') as json_file:
     data = json.load(json_file)
     temp = data
 
-    first = input(("do you want to start training? Enter yes, otherwise enter no."))
+    first = input(("Do you want to start training? Enter yes, otherwise enter no. "))
     while True:
         message = input('')
-        ints = predict_class(message)
+        ints = class_predict(message)
         res = get_response(ints, intents)
         print(res)
 
-
         if first == 'yes':
-            second = input(("are you happy with the answer?"))
+            second = input(("Are you happy with the answer? "))
             if second == 'no':
-                answer = input(("enter what answer you want"))
+                answer = input(("Enter what answer you want: "))
                 temp.append(
                     {
                         "tag": message,
                         "question": message,
-                        "answer": answer
+                        "answer": [answer]
                     }
                 )
                 write_json(data)
         print('Next Question:')
-
-
-
-
-
-
-

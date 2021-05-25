@@ -1,0 +1,112 @@
+[
+  {
+    "tag": "hello",
+    "question": "hello",
+    "answer": [
+      "hi"
+    ]
+  },
+  {
+    "tag": "do you like football?",
+    "question": "do you like football?",
+    "answer": [
+      "yes of course"
+    ]
+  },
+  {
+    "tag": "do you like hockey?",
+    "question": "do you like hockey?",
+    "answer": [
+      "yes i do"
+    ]
+  },
+  {
+    "tag": "what is your favorite hockeyplayer?",
+    "question": "what is your favorite hockeyplayer?",
+    "answer": [
+      "alexander ovechkin"
+    ]
+  },
+  {
+    "tag": "do you like music?",
+    "question": "do you like music?",
+    "answer": [
+      "yes i like music"
+    ]
+  },
+  {
+    "tag": "whats your favorite artist?",
+    "question": "whats your favorite artist?",
+    "answer": [
+      "i don't know, i have to many"
+    ]
+  },
+  {
+    "tag": "what music do you like?",
+    "question": "what music do you like?",
+    "answer": [
+      "i like house music"
+    ]
+  },
+  {
+    "tag": "do you like to travel?",
+    "question": "do you like to travel?",
+    "answer": [
+      "is hard for me to travel, but im like to take walks through the internet"
+    ]
+  },
+  {
+    "tag": "what is your favorite series?",
+    "question": "what is your favorite series?",
+    "answer": [
+      "i don't know narcos perhaps"
+    ]
+  },
+  {
+    "tag": "do you know what netflix is?",
+    "question": "do you know what netflix is?",
+    "answer": [
+      "an app with movies and series"
+    ]
+  },
+  {
+    "tag": "what is you favorite football team?",
+    "question": "what is you favorite football team?",
+    "answer": [
+      "Hammarby if"
+    ]
+  },
+  {
+    "tag": "what is your favorite football player?",
+    "question": "what is your favorite football player?",
+    "answer": [
+      "zlatan", "ronaldo", "messi", "neymar"
+    ]
+  },
+  {
+    "tag": "tell me some fun fact",
+    "question": "tell me some fun fact",
+    "answer": [
+      "do you know It is impossible to stand backwards on stairs",
+      "A sloth takes 2 weeks to digest the food he's eaten",
+      "Glaciers and ice sheets hold about 69 percent of the world's freshwater.",
+      "The fastest gust of wind ever recorded on Earth was 253 miles per hour.",
+      "The best place in the world to see rainbows is in Hawaii.",
+      "There are fossilized plants in Greenland under 1.4 km of ice.",
+      "Whale songs can be used to map out the ocean floor.",
+      "Mount Everest is bigger now than the last time it was measured",
+      "Climate change is causing flowers to change color.",
+      "Dentistry is the oldest profession in the world.",
+      "North Korea and Cuba are the only places you can't buy Coca-Cola.",
+      "The hottest chili pepper in the world is so hot it could kill you.",
+      "The Canary Islands are named after dogs, not birds."
+    ]
+  },
+  {
+    "tag": "tell me about you",
+    "question": "tell me about you",
+    "answer": [
+      " i'm written in python", "i don't know you"
+    ]
+  }
+]
