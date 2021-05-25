@@ -5,21 +5,14 @@ import numpy as np
 import nltk
 from nltk.stem import WordNetLemmatizer
 from tensorflow.keras.models import load_model
-import os
-from dotenv import load_dotenv
-from discord.ext import commands
 
-load_dotenv()
-TOKEN = os.getenv('DISCORD_TOKEN')
-
-bot = commands.Bot(command_prefix='')
 
 lemmatizer = WordNetLemmatizer()
-intents = json.loads(open('cleaned_data/data_cleaned_and_ready.json').read())
+intents = json.loads(open('cleaned_data/data_removed_stopW.json').read())
 
-words = pickle.load(open('pickle/words.pkl', 'rb'))
-classes = pickle.load(open('pickle/classes.pkl', 'rb'))
-model = load_model('chat_model/chatter_model.h5')
+words = pickle.load(open('pickle/without_stopW/words.pkl', 'rb'))
+classes = pickle.load(open('pickle/without_stopW/classes.pkl', 'rb'))
+model = load_model('chat_model/without_stopW/chat_model.h5')
 
 
 def clean_up(sentence):

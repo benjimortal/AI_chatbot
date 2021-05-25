@@ -67,7 +67,7 @@ def get_response(ints, intents_json):
 print('GO! Bot is running')
 
 
-def mathadd(x:float, y: float):
+def mathadd(x: float, y: float):
     return x + y
 
 
