@@ -41,7 +41,7 @@ def bag_of_words(sentence):
 def predict_class(sentence):
     bow = bag_of_words(sentence)
     res = model.predict(np.array([bow]))[0]
-    ERROR_THRESHOLD = 0.8
+    ERROR_THRESHOLD = 0.3
     results = [[i, r] for i, r in enumerate(res) if r > ERROR_THRESHOLD]
 
     results.sort(key=lambda x: x[1], reverse=True)
@@ -66,15 +66,15 @@ def get_response(ints, intents_json):
 print('GO! Bot is running')
 
 
-def write_json(data, filename='data/json/user_train.json'):
+def write_json(data, filename='data/fixed_json/user_train.json'):
     with open(filename, 'w') as f:
         json.dump(data, f, indent=2)
 
-with open('data/json/user_train.json') as json_file:
+with open('data/user_train.json') as json_file:
     data = json.load(json_file)
     temp = data
 
-    first = input(("do you want to start training? Enter yes, otherwise enter no."))
+    first = input(("Do you want to start training? Enter yes, otherwise enter no. "))
     while True:
         message = input('')
         ints = predict_class(message)
@@ -83,22 +83,15 @@ with open('data/json/user_train.json') as json_file:
 
 
         if first == 'yes':
-            second = input(("are you happy with the answer?"))
+            second = input(("Are you happy with the answer? "))
             if second == 'no':
-                answer = input(("enter what answer you want"))
+                answer = input(("Enter what answer you want: "))
                 temp.append(
                     {
                         "tag": message,
                         "question": message,
-                        "answer": answer
+                        "answer": [answer]
                     }
                 )
                 write_json(data)
         print('Next Question:')
-
-
-
-
-
-
-
